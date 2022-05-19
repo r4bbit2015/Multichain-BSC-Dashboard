@@ -36,10 +36,31 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapIn"
 select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 ```
 ## 一些研究中发现的细节
-跨链桥中From和To都可以为自身，表示为跨链自身钱包账户中，尤其是EVM兼容的链，地址相同
-但也可以通过跨链的方式发送给其他钱包地址，因此**在计算用户数时候，使用To作为因子计算更为准确。
-参考案例：
-1.跨链到自身钱包
-[https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog](https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog)
-2.跨链到另外一个钱包
-[https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog](https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog)
+跨链桥中From和To都可以为自身，表示为跨链自身钱包账户中，尤其是EVM兼容的链，地址相同  
+但也可以通过跨链的方式发送给其他钱包地址，因此**在计算用户数时候，使用To作为因子计算更为准确。 
+参考案例：  
+1.跨链到自身钱包  
+[https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog] (https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog)
+2.跨链到另外一个钱包   
+[https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog](https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog) 
+
+
+# 桥概述
+2个ETH、10个BSC、
+
+|  Name   | Address  |
+|  ----  | ----  |
+| eth-2-bsc-v1     | 0x13B432914A996b0A48695dF9B2d701edA45FF264 |
+| eth-2-bsc-v2     | 0x533e3c0e6b48010873b947bddc4721b1bdff9648 |
+| bsc-2-avax       | 0xb1CB88B1a1992deB4189Ea4f566b594c13392Ada |
+| bsc-2-matic      | 0x171a9377C5013bb06Bca8CfE22B9C007f2C319F1 |
+| bsc-2-ftm        | 0x4b3B4120d4D7975455d8C2894228789c91a247F8 |
+| bsc-2-moonriver  | 0xd6faf697504075a358524996b132b532cc5D0F14 |
+| bsc-2-arbitrum   | 0xAd1A0d92db9157ac9EF7ee74Be38940f60BcafA9 |
+| btc-2-bsc        | 0x930a7F05C5e38eaF90493325F8106806969FCBdF |
+| fsn-2-bsc        | 0xd6faf697504075a358524996b132b532cc5D0F14 |
+| bsc-2-eth        | 0xB16E3336699A636DD6C8246A3a12b813bFa0A3AD |
+| bsc-2-kcc        | 0x88036021b39759Fc46aD79850679282cb2353372 |
+| bsc-2-okc        | 0x63a3d28bB9187809553dD16981C73f498B6b2687 |
+| bsc-2-moombeam   | 0xd9B4aE62721d6311d67566A32E75f9002447922e |
+
