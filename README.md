@@ -25,8 +25,8 @@ select * from multichain_router."AnyswapV6Router_Native_Coin1_evt_LogAnySwapOut"
 ```
 (2) 合约地址：0xf9736ec3926703e85c843fc972bd89a7f8e827c0
 ```sql
-select * from  mutchain_route."AnyswapV3Router_Native_Coin2_evt_LogAnySwapIn"
-select * from  mutchain_route."AnyswapV3Router_Native_Coin2_evt_LogAnySwapOut"
+select * from  multichain_router."AnyswapV3Router_Native_Coin2_evt_LogAnySwapIn"
+select * from  multichain_router."AnyswapV3Router_Native_Coin2_evt_LogAnySwapOut"
 ```
 
 ### 主流币桥
