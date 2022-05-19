@@ -6,13 +6,11 @@ Maybe nothing.
 路由分为2个主流币，2个原生币，1个山寨币
 
 ### 原生币桥
-
 合约地址：0x92c079d3155c2722dbf7e65017a5baf9cd15561c
 
 Dune接口：
 ```
 select * from multichain_router."AnyswapV6Router_Native_Coin1_evt_LogAnySwapIn"
-
 select * from multichain_router."AnyswapV6Router_Native_Coin1_evt_LogAnySwapOut"
 ```
 
@@ -21,35 +19,26 @@ select * from multichain_router."AnyswapV6Router_Native_Coin1_evt_LogAnySwapOut"
 Dune接口：
 ```
 select * from  mutchain_route."AnyswapV3Router_Native_Coin2_evt_LogAnySwapIn"
-
 select * from  mutchain_route."AnyswapV3Router_Native_Coin2_evt_LogAnySwapOut"
 ```
 
 ### 主流币桥：
-
-0xd1C5966f9F5Ee6881Ff6b261BBeDa45972B1B5f3 ****
+合约地址：0xd1C5966f9F5Ee6881Ff6b261BBeDa45972B1B5f3
 ```
-select * from multichain_router."**AnyswapV4Router_Mainstream_Coin1**_evt_LogAnySwapIn"
-
-select * from multichain_router."**AnyswapV4Router_Mainstream_Coin1**_evt_LogAnySwapOut"
+select * from multichain_router."**AnyswapV4Router_Mainstream_Coin1_evt_LogAnySwapIn"
+select * from multichain_router."**AnyswapV4Router_Mainstream_Coin1_evt_LogAnySwapOut"
 ```
+合约地址：0xe1d592c3322f1f714ca11f05b6bc0efef1907859
 
 0xe1d592c3322f1f714ca11f05b6bc0efef1907859
 
 ### 山寨币桥:
 
 0xABd380327Fe66724FFDa91A87c772FB8D00bE488
-
-select * from multichain_v3."AnyswapV4Router_evt_LogAnySwapIn”
-
-select * from multichain_v3."AnyswapV4Router_evt_LogAnySwapOut”
-
-## 主流币桥:
-
-1. 0xd1c5966f9f5ee6881ff6b261bbeda45972b1b5f3
-2. 0xe1d592c3322f1f714ca11f05b6bc0efef1907859
-
-0x533e（ETH→BSC桥）
+```sql
+select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapIn"
+select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
+```
 
 从以太坊分析BSC桥（2.0的桥）
 
