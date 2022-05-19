@@ -1,3 +1,4 @@
+sum(case "toChainID" when 25 then 1 else 0 end) as "Cronos Mainnet",
 sum(case "toChainID" when 40 then 1 else 0 end) as "Telos EVM Mainnet",
 sum(case "toChainID"  when 1313161554 then 1 else 0 end) as "Aurora Mainnet",
 sum(case "toChainID" when 288 then 1 else 0 end) as "Boba Network",
