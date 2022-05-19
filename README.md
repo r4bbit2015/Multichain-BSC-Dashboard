@@ -60,12 +60,12 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 
 
 ## 一些研究中发现的细节
-跨链桥中From和To都可以为自身，表示为跨链自身钱包账户中，尤其是EVM兼容的链，地址相同  
-但也可以通过跨链的方式发送给其他钱包地址，因此**在计算用户数时候，使用To作为因子计算更为准确。 
-参考案例：  
-1.跨链到自身钱包  
-[https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog] (https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog)
-2.跨链到另外一个钱包   
-[https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog](https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog) 
+跨链桥中From和To都可以为自身，表示为跨链自身钱包账户中，尤其是EVM兼容的链，地址相同 
+但也可以通过跨链的方式发送给其他钱包地址，因此**在计算用户数时候，使用To作为因子计算更为准确。    
+参考案例：    
+1.跨链到自身钱包     
+https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a18501966a81bf#eventlog  
+2.跨链到另外一个钱包     
+https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog  
 
 
