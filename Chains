@@ -4,3 +4,20 @@ sum(case "toChainID"  when 1313161554 then 1 else 0 end) as "Aurora Mainnet",
 sum(case "toChainID" when 288 then 1 else 0 end) as "Boba Network",
 sum(case "toChainID" when 42220 then 1 else 0 end) as "Celo Mainnet",
 sum(case "toChainID" when 1 then 1 else 0 end) as "Ethereum Mainnet"
+
+
+sum(case "toChainID" when 1 then 1 else 0 end) as "Ethereum Mainnet",
+sum(case "toChainID" when 10 then 1 else 0 end) as "Optimism",
+sum(case "toChainID"  when 25 then 1 else 0 end) as "Cronos Mainnet Beta",
+sum(case "toChainID" when 56 then 1 else 0 end) as "BSC",
+sum(case "toChainID" when 66 then 1 else 0 end) as "OKXChain Mainnet",
+sum(case "toChainID" when 128 then 1 else 0 end) as "Huobi ECO Chain Mainnet",
+sum(case "toChainID" when 137 then 1 else 0 end) as "Polygon Mainnet",
+sum(case "toChainID" when 199 then 1 else 0 end) as "BitTorrent Chain Mainnet",
+sum(case "toChainID" when 250 then 1 else 0 end) as "Fantom Opera",
+sum(case "toChainID" when 288 then 1 else 0 end) as "Boba Network",
+sum(case "toChainID" when 321 then 1 else 0 end) as "KCC Mainnet",
+sum(case "toChainID" when 1284 then 1 else 0 end) as "Moonbeam",
+sum(case "toChainID" when 1285 then 1 else 0 end) as "Moonriver",
+sum(case "toChainID" when 42161 then 1 else 0 end) as "Arbitrum One",
+sum(case "toChainID" when 43114 then 1 else 0 end) as "Avalanche C-Chain"
