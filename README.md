@@ -58,7 +58,7 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 | bsc-2-moonriver  | 0xd6faf697504075a358524996b132b532cc5D0F14 |
 | bsc-2-arbitrum   | 0xAd1A0d92db9157ac9EF7ee74Be38940f60BcafA9 |
 | btc-2-bsc        | 0x930a7F05C5e38eaF90493325F8106806969FCBdF |
-| fsn-2-bsc        | 0xd6faf697504075a358524996b132b532cc5D0F14 |
+| fsn-2-bsc        | 0xf38C36bc1B2Fe5E9029C91AB520457bE7DFC68D8 |
 | bsc-2-eth        | 0xB16E3336699A636DD6C8246A3a12b813bFa0A3AD |
 | bsc-2-kcc        | 0x88036021b39759Fc46aD79850679282cb2353372 |
 | bsc-2-okc        | 0x63a3d28bB9187809553dD16981C73f498B6b2687 |
