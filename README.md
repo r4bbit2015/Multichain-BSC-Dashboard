@@ -17,7 +17,7 @@ select * from  mutchain_route."AnyswapV3Router_Native_Coin2_evt_LogAnySwapIn"
 select * from  mutchain_route."AnyswapV3Router_Native_Coin2_evt_LogAnySwapOut"
 ```
 
-### 主流币桥：
+### 主流币桥
 (1) 合约地址：0xd1C5966f9F5Ee6881Ff6b261BBeDa45972B1B5f3
 ```sql
 select * from multichain_router."**AnyswapV4Router_Mainstream_Coin1_evt_LogAnySwapIn"
@@ -28,8 +28,7 @@ select * from multichain_router."**AnyswapV4Router_Mainstream_Coin1_evt_LogAnySw
 select * from multichain_router."**AnyswapV4Router_Mainstream_Coin2_evt_LogAnySwapIn"
 select * from multichain_router."**AnyswapV4Router_Mainstream_Coin2_evt_LogAnySwapOut"
 ```
-### 山寨币桥:
-
+### 山寨币桥
 (1) 合约地址：0xABd380327Fe66724FFDa91A87c772FB8D00bE488
 ```sql
 select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapIn"
@@ -38,7 +37,7 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 
 
 # 桥概述
-2个ETH、10个BSC、
+2个ETH、9个BSC、1个btc、1个fsn
 
 |   No  |  Name |  Address   |
 |  ----  | ----  | ----  |
