@@ -1,0 +1,5 @@
+sum(case "toChainID" when 40 then 1 else 0 end) as "Telos EVM Mainnet",
+sum(case "toChainID"  when 1313161554 then 1 else 0 end) as "Aurora Mainnet",
+sum(case "toChainID" when 288 then 1 else 0 end) as "Boba Network",
+sum(case "toChainID" when 42220 then 1 else 0 end) as "Celo Mainnet",
+sum(case "toChainID" when 1 then 1 else 0 end) as "Ethereum Mainnet"
