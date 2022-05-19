@@ -1,9 +1,8 @@
 SELECT 
     CASE "toChainID"
-       WHEN '1' THEN 'Ethereum'
+      WHEN '1' THEN 'Ethereum'
       WHEN '10' THEN 'Optimism'
       WHEN '25' THEN 'Cronos'
-      WHEN '56' THEN 'BSC'
       WHEN '66' THEN 'OKXChain'
       WHEN '137' THEN 'Polygon'
       WHEN '199' THEN 'BitTorrent'
@@ -16,22 +15,21 @@ SELECT
       WHEN '43114' THEN 'Avalanche'
     END AS oven,
     COUNT(distinct "from") AS Counts
-
 from multichain_v3."AnyswapV4RouterStableCoin_evt_LogAnySwapOut" 
 Where "toChainID" IN(
-       '1' ,
-         '10', 
-         '25' ,
-         '56' ,
-         '66' ,
-         '137' ,
-         '199' ,
-         '250' ,
-         '288' ,
-         '321' ,
-         '1284' ,
-         '1285' ,
-         '42161',
-         '43114'
+    '1' ,
+    '10', 
+     '25' ,
+     '56' ,
+    '66' ,
+    '137' ,
+    '199' ,
+    '250' ,
+    '288' ,
+    '321' ,
+    '1284' ,
+    '1285' ,
+    '42161',
+    '43114'
 )
 GROUP BY 1
