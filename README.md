@@ -1,8 +1,6 @@
 # Multichain-BSC-Dashboard
 Maybe nothing.
 
-# Multichain-数据接口
-
 # 路由桥概述
 
 路由分为2个主流币，2个原生币，1个山寨币
@@ -51,30 +49,6 @@ select * from multichain_v3."AnyswapV4Router_evt_LogAnySwapOut”
 0x533e（ETH→BSC桥）
 
 从以太坊分析BSC桥（2.0的桥）
-
-### 存在疑问的接口：
-
-select * from multichain_v3."AnyswapV4RouterStableCoin_evt_LogAnySwapTradeTokensForNative”
-
-select * from multichain_v3."AnyswapV4RouterStableCoin_evt_LogAnySwapTradeTokensForTokens”
-
-[https://bscscan.com/tx/0xb9560b659fca4ac7cc82bd5e595808f071d4194636ce1a43a5ca386d1a601fe6](https://bscscan.com/tx/0xb9560b659fca4ac7cc82bd5e595808f071d4194636ce1a43a5ca386d1a601fe6)
-
-[https://bscscan.com/tx/0xfcd3df7378eba8508d788b24fc6aff060548f6047d4db081c1df695fb2012839](https://bscscan.com/tx/0xfcd3df7378eba8508d788b24fc6aff060548f6047d4db081c1df695fb2012839)
-
-相同点都为使用稳定币桥，合约调用方地址为0xc03033d8b833ff7ca08bf2a58c9bc9d711257249
-
-### 无数据接口
-
-select * from multichain_v3."AnyswapV4Router_evt_LogAnySwapTradeTokensForTokens”
-
-select * from multichain_v3."AnyswapV4Router_evt_LogAnySwapTradeTokensForNative”
-
-select * from multichain_v3."AnyswapV6Router_evt_LogAnySwapOut0”
-
-select * from multichain_v3."AnyswapV6Router_evt_LogAnySwapTradeTokensForNative”
-
-select * from multichain_v3."AnyswapV6Router_evt_LogAnySwapTradeTokensForTokens”
 
 ## 接口ABI：
 
