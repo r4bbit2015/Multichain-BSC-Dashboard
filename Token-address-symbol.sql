@@ -1,755 +1,755 @@
-WHEN bridge."token" '\xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68' THEN $MANGA
-WHEN bridge."token" '\x73ffdf2d2afb3def5b10bf967da743f2306a51db' THEN AGS
-WHEN bridge."token" '\x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9' THEN AVA
-WHEN bridge."token" '\xd1102332a213e21faf78b69c03572031f3552c33' THEN BTD
-WHEN bridge."token" '\xbdc3b3639f7aa19e623a4d603a3fb7ab20115a91' THEN COC
-WHEN bridge."token" '\xf4ed363144981d3a65f42e7d0dc54ff9eef559a1' THEN FARA
-WHEN bridge."token" '\x82030cdbd9e4b7c5bb0b811a61da6360d69449cc' THEN FEVR
-WHEN bridge."token" '\xb0e1fc65c1a741b4662b813eb787d369b8614af1' THEN IF
-WHEN bridge."token" '\x6a46d878401f46b4c7f665f065e0667580e031ec' THEN IVN
-WHEN bridge."token" '\x8e984e03ab35795c60242c902ece2450242c90e9' THEN KAMPAY
-WHEN bridge."token" '\x3d0e22387ddfe75d1aea9d7108a4392922740b96' THEN LOUD
-WHEN bridge."token" '\x36953b5ec00a13edceceb3af258d034913d2a79d' THEN MNFT
-WHEN bridge."token" '\x041640ea980e3fe61e9c4ca26d9007bc70094c15' THEN PirateCoin☠
-WHEN bridge."token" '\xc2c82622a7cb7159d44cea7e39843a495f2674de' THEN RISQ
-WHEN bridge."token" '\x477bc8d23c634c154061869478bce96be6045d12' THEN SFUND
-WHEN bridge."token" '\xfe3af7376e412a377358d5894c790bb3e00d0dc1' THEN SHARPEI
-WHEN bridge."token" '\x5344c20fd242545f31723689662ac12b9556fc3d' THEN WKD
-WHEN bridge."token" '\x4da996c5fe84755c80e108cf96fe705174c5e36a' THEN WOW
-WHEN bridge."token" '\x2cd598b0513abdb52bdd92a1ab4670fc4578570f' THEN anyLTC
-WHEN bridge."token" '\x2f3bca2631fff538b8a55207f6c2081457e229f7' THEN BUTTER
-WHEN bridge."token" '\xa5342d72d04c133180f376753f90a4b2eee29bb3' THEN DMC
-WHEN bridge."token" '\x232d9a35f3e0bfa1b34901cba525fe916d2af6d5' THEN anyHT
-WHEN bridge."token" '\x84ae7b0ff2bc523969fb3162e04149a419196f4b' THEN HYN
-WHEN bridge."token" '\xcc9b1f919282c255eb9ad2c0757e8036165e0cad' THEN PTT
-WHEN bridge."token" '\x910651F81a605a6Ef35d05527d24A72fecef8bF0' THEN WAR
-WHEN bridge."token" '\xe7f04e0fbde4b16feb4a67747133f251e4dbccd7' THEN XNFT
-WHEN bridge."token" '\xb43a66162bd23b499e49429c8e6de0f71e7ca302' THEN GG
-WHEN bridge."token" '\x315ccd12b4af427c578a50b8abdc6cee936fa080' THEN SET
-WHEN bridge."token" '\x405d64a2790ca1d37cda5e01983a68975c0c4ecf' THEN PETS
-WHEN bridge."token" '\x2ede13880e11b19b7d6113a86ac7ac84ac651042' THEN anyCOMP
-WHEN bridge."token" '\x1dc56f2705ff2983f31fb5964cc3e19749a7cba7' THEN anyDAI
-WHEN bridge."token" '\x6f817a0ce8f7640add3bc0c1c2298635043c2423' THEN anyETH
-WHEN bridge."token" '\x3af577f9d8c86ae8dbcbf51fe9836c9df825759d' THEN anyLINK
-WHEN bridge."token" '\x5921dee8556c4593eefcfad3ca5e2f618606483b' THEN anyMTLX
-WHEN bridge."token" '\xe6358c1d7a91915abba46d9855bd6418898fc091' THEN anyOMG
-WHEN bridge."token" '\x51ba0b044d96c3abfca52b64d733603ccc4f0d4d' THEN SUPER
-WHEN bridge."token" '\x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F' THEN TRVL
-WHEN bridge."token" '\x99c5a2fcc97b59fe6d0b56e21e72b002f644123f' THEN anyUNI
-WHEN bridge."token" '\xb46d67fb63770052a07d5b7c14ed858a8c90f825' THEN anyUSDT
-WHEN bridge."token" '\x9883ae441105f815b472517389b979f031b5c87e' THEN anyYFI
-WHEN bridge."token" '\xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa' THEN ANY
-WHEN bridge."token" '\x4f6318e97011fe21fdfce3ffcf868d44e5f6994a' THEN anyFSN
-WHEN bridge."token" '\x54261774905f3e6e9718f2abb10ed6555cae308a' THEN anyBTC
-WHEN bridge."token" '\xbc7d6b50616989655afd682fb42743507003056d' THEN ACH
-WHEN bridge."token" '\x5a68f06ef5e3f3b65ac466e74f4c61c3ab4d171b' THEN AGF
-WHEN bridge."token" '\xcd9f28cfb602b9cace776d6b9a86646b662dde7b' THEN ALD
-WHEN bridge."token" '\xe7b91602ce96a537cb729f484b8ddb3c1fecbb45' THEN ALICE
-WHEN bridge."token" '\x7c598c96d02398d89fbcb9d41eab3df0c16f227d' THEN ATRI
-WHEN bridge."token" '\x0f07ffd690dffd9a0ce8274116830cf62d086b5f' THEN ATTR
-WHEN bridge."token" '\x0615dbba33fe61a31c7ed131bda6655ed76748b1' THEN BACON
-WHEN bridge."token" '\x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9' THEN BADGER
-WHEN bridge."token" '\x1F7216fdB338247512Ec99715587bb97BBf96eae' THEN bBADGER
-WHEN bridge."token" '\x685b63cfe0179b3efb70a01dcb1d648549aa192d' THEN BDP
-WHEN bridge."token" '\x84c882a4d8eb448ce086ea19418ca0f32f106117' THEN BFC
-WHEN bridge."token" '\x56fb3fd352e5875c6f2771ca86f3fd361cc0d93e' THEN BITX
-WHEN bridge."token" '\xc8f531700971fd1da43a52912ea53fc8da3b1b00' THEN BTRS
-WHEN bridge."token" '\x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b' THEN CBC
-WHEN bridge."token" '\x4f60a160d8c2dddaafe16fcc57566db84d674bd6' THEN CBK
-WHEN bridge."token" '\x9366790d807f1fb7dd08c36ec0e8b8acbbc1354d' THEN COPYCAT
-WHEN bridge."token" '\xab7a6fe97866aa1e5865f26b0d034a03128b7d80' THEN CRS
-WHEN bridge."token" '\x812764fa37a4fd731a5d39f0e519b6b8d61e82a0' THEN DAO
-WHEN bridge."token" '\xb361989412516d3414f100089cb89905ee7c896b' THEN DAX
-WHEN bridge."token" '\x1fe5b870bca201db77bc0a8573fdebc35ee7a114' THEN DEC
-WHEN bridge."token" '\xc325bd4c437a9a78eb8de486b5321253e650cf0d' THEN DEGEN
-WHEN bridge."token" '\x373e768f79c820aa441540d254dca6d045c6d25b' THEN DERC
-WHEN bridge."token" '\x9899a98b222fCb2f3dbee7dF45d943093a4ff9ff' THEN DFD
-WHEN bridge."token" '\x58759dd469ae5631c42cf8a473992335575b58d7' THEN DHV
-WHEN bridge."token" '\xab671eA900a8e3C959f5bD29CeB5e370Ba75bB9e' THEN DPI
-WHEN bridge."token" '\x9e40868e8024aa52433ad3af311dba88ff8c86bd' THEN DUBI
-WHEN bridge."token" '\x655ed56a36cedbbd24f45e564643b85e5c346a5d' THEN DWEB
-WHEN bridge."token" '\x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14' THEN DYT
-WHEN bridge."token" '\x43fbbe7a5397117b3da58722635832ba60905285' THEN eRSDL
-WHEN bridge."token" '\x0f9c0a22fdef62f88c981188351ab531cfec00e6' THEN ETHA
-WHEN bridge."token" '\x72449ed79841981b19d4552861007a63da3963fe' THEN ETHIX
-WHEN bridge."token" '\x73ff5dd853cb87c144f463a555dce0e43954220d' THEN FABRIC
-WHEN bridge."token" '\x29ced01c447166958605519f10dcf8b0255fb379' THEN FRAX
-WHEN bridge."token" '\x70523d78a74f5533768075283bcb473ca01a8a4b' THEN FXS
-WHEN bridge."token" '\x7dd300a2d3f881f44b33c96fb751746e9a0175a8' THEN GDAO
-WHEN bridge."token" '\xc4726d59761a35e3a7e8d4eac631d034aa68ee3c' THEN HDI
-WHEN bridge."token" '\x4e840aadd28da189b9906674b4afcb77c128d9ea' THEN HTB
-WHEN bridge."token" '\x56f3878c54ad3cec18a380e788c5135bf617f5d6' THEN INCH
-WHEN bridge."token" '\x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642' THEN INV
-WHEN bridge."token" '\x91d025e6454813f6d2d1cb22a0e9fd62a2a0c237' THEN IQN
-WHEN bridge."token" '\x627524d78B4fC840C887ffeC90563c7A42b671fD' THEN KEK
-WHEN bridge."token" '\x1b41a1BA7722E6431b1A782327DBe466Fe1Ee9F9' THEN KFT
-WHEN bridge."token" '\xd67de0e0a0fd7b15dc8348bb9be742f3c5850454' THEN KOIN
-WHEN bridge."token" '\x0c5f149362ca17eac5d18e6912ab4f5aeabf88e6' THEN KUMA
-WHEN bridge."token" '\x59d1bf15e3340dae7a5d893cc2296e2d939daacd' THEN LEGS
-WHEN bridge."token" '\x9179089a11feddc9411236b63c8aeb25eb45e2ac' THEN LIEN
-WHEN bridge."token" '\x9617857e191354dbea0b714d78bc59e57c411087' THEN LMT
-WHEN bridge."token" '\x3cbC101E0AB2Ef6fed8EB9BEA24E7eC97bFca98F' THEN LMY
-WHEN bridge."token" '\xadc29741a2bd5c32b66d14cec42b91b221bdfce7' THEN MBZ
-WHEN bridge."token" '\xb72842d6f5fedf91d22d56202802bb9a79c6322e' THEN MOMA
-WHEN bridge."token" '\x0ebd9537a25f56713e34c45b38f421a1e7191469' THEN MOOV
-WHEN bridge."token" '\xf1cd2b6fc3876619786e9733eeed15518f127aa3' THEN MSHIBA
-WHEN bridge."token" '\xb0731d50c681c45856bfc3f7539d5f61d4be81d8' THEN MVP
-WHEN bridge."token" '\x2ff0b946a6782190c4fe5d4971cfe79f0b6e4df2' THEN MYST
-WHEN bridge."token" '\x10b6edf7b2da48f6cd37e01be18d3c19120a46f2' THEN NXT
-WHEN bridge."token" '\x3516141b1ac8751c2042a8A1BC411Ab8655464AC' THEN OCEAN
-WHEN bridge."token" '\xa865197a84e780957422237b5d152772654341f3' THEN OLE
-WHEN bridge."token" '\x19c91764a976ac6c1e2c2e4c5856f2939342a814' THEN PAR
-WHEN bridge."token" '\x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d' THEN PBI
-WHEN bridge."token" '\x2f2c7cc8a6d0a0f3e1edbd4ae571f9e40d09f4d6' THEN PEOPLE
-WHEN bridge."token" '\x595c8481c48894771ce8fade54ac6bf59093f9e8' THEN POLK
-WHEN bridge."token" '\x6e3bf2fff13e18413d3780f93753d6cff5aee3e1' THEN POLP
-WHEN bridge."token" '\xfe77d71baf7a6cdabbd63a2ad1e0adb68ca64c06' THEN POWER
-WHEN bridge."token" '\xc417b45e6090bd4201d9400b48f84c9f34f4d0a5' THEN PREMIA
-WHEN bridge."token" '\xd21d29B38374528675C34936bf7d5Dd693D2a577' THEN PRQ
-WHEN bridge."token" '\xAF00aAc2431b04EF6afD904d19B08D5146e3A9A0' THEN PRT
-WHEN bridge."token" '\x27fdc52e83bfe163d620af68f54ddbec26bfacc8' THEN QRDO
-WHEN bridge."token" '\xe9c64384deb0c2bf06d991a8d708c77eb545e3d5' THEN RDT
-WHEN bridge."token" '\xd91b043ccf991d9ef4aa912554cf3fd8833e73fc' THEN REQ
-WHEN bridge."token" '\x833f307ac507d47309fd8cdd1f835bef8d702a93' THEN REVV
-WHEN bridge."token" '\xadec335a2e3881303a9b0203eb99de12202280df' THEN RNB
-WHEN bridge."token" '\x99415856b37be9e75c0153615c7954f9ddb97a6e' THEN ROYA
-WHEN bridge."token" '\xe95fd76cf16008c12ff3b3a937cb16cd9cc20284' THEN SETS
-WHEN bridge."token" '\x01c3d9cbcf40482ba0d5206f63e3f04ef9e134d9' THEN SFI
-WHEN bridge."token" '\x55af5865807b196bd0197e0902746f31fbccfa58' THEN SHO
-WHEN bridge."token" '\x3f6a377ae52fd89fa7c47e4902a2b4861a2077f6' THEN SMAC
-WHEN bridge."token" '\xBC2597D3f1F9565100582CDe02E3712D03B8B0f6' THEN SMBSWAP
-WHEN bridge."token" '\x62334d3c6f48891deed7324abd0a3dcb23305f77' THEN SPDR
-WHEN bridge."token" '\xae8627dB72d7Fc6241f2E2B87EB2BbC7cAfB1661' THEN STAR
-WHEN bridge."token" '\x92299822a8be65c9390c905941ea34b9c530f247' THEN STF
-WHEN bridge."token" '\xee9762352f63f4387af40d58291612067727457d' THEN SUPERBID
-WHEN bridge."token" '\x9b17baadf0f21f03e35249e0e59723f34994f806' THEN SURE
-WHEN bridge."token" '\x82443A77684A7Da92FdCB639c8d2Bd068a596245' THEN SWAP
-WHEN bridge."token" '\xd20738760aededa73f6cd91a3d357746e0283a0e' THEN TANKS
-WHEN bridge."token" '\xb614ad939e9477d5103baa32164db901214e2625' THEN TFT
-WHEN bridge."token" '\xe7c9c6bc87b86f9e5b57072f907ee6460b593924' THEN TOWER
-WHEN bridge."token" '\x554ce7e138581ee3408885e38213d169e7dd2017' THEN TRIX
-WHEN bridge."token" '\x981e360161a37de663f232e6c800fc6a56fb536a' THEN URQA
-WHEN bridge."token" '\x049d68029688eabf473097a2fc38ef61633a3c7a' THEN fUSDT
-WHEN bridge."token" '\x22648c12acd87912ea1710357b1302c6a4154ebc' THEN WCHI
-WHEN bridge."token" '\xA86Bfc69C99D04552808B425A68A06430FB9BdDF' THEN WSCRT
-WHEN bridge."token" '\x582c12b30f85162fa393e5dbe2573f9f601f9d91' THEN XMT
-WHEN bridge."token" '\xd3b71117e6c1558c1553305b44988cd944e97300' THEN YEL
-WHEN bridge."token" '\x2442afe6cf6958bf6a026bce5d9c6cc07e03a6c9' THEN YFL
-WHEN bridge."token" '\x6633c083f54bb65f702f9f276319bb24b65fec18' THEN YFT
-WHEN bridge."token" '\x9036398c00f8e021c2b1818855e2df20b0e17005' THEN ZLA
-WHEN bridge."token" '\x2cf51e73c3516f3d86e9c0b4de0971dbf0766fd4' THEN ABYSS
-WHEN bridge."token" '\x639a647fbe20b6c8ac19e48e2de44ea792c62c5c' THEN acBTC
-WHEN bridge."token" '\x976e33b07565b0c05b08b2e13affd3113e3d178d' THEN AGA
-WHEN bridge."token" '\xf44fb887334fa17d2c5c0f970b5d320ab53ed557' THEN ALN
-WHEN bridge."token" '\x1fe4751d9bdabac8d90067056cb45ab6823d2c12' THEN APN
-WHEN bridge."token" '\x7b2223aa112c08356b10e4675ce32724a10fac51' THEN ARMOR
-WHEN bridge."token" '\x1ac0d76f11875317f8a7d791db94cdd82bd02bd1' THEN AST
-WHEN bridge."token" '\x3028b4395f98777123c7da327010c40f3c7cc4ef' THEN AUC
-WHEN bridge."token" '\x0aaef3db5d2847b231468658001c278ee892b7e8' THEN BAB
-WHEN bridge."token" '\x47eaf5f54d79d5c2b6537a90a0c58a534ab51c8c' THEN BAO
-WHEN bridge."token" '\x721692d13fb70f499e8678ede56bb45e4e320f48' THEN BART
-WHEN bridge."token" '\x8683e604cdf911cd72652a04bf9d571697a86a60' THEN BCDT
-WHEN bridge."token" '\x9611579c926294b0e29E5371A81a3e463650Be17' THEN BCP
-WHEN bridge."token" '\x5986D5c77c65e5801a5cAa4fAE80089f870A71dA' THEN bDIGG
-WHEN bridge."token" '\x0b32357430fe98c24b2b245b815af68bc9ecfdad' THEN BEPRO
-WHEN bridge."token" '\xad260f380c9a30b1d60e4548a75010ede630b665' THEN BiFi
-WHEN bridge."token" '\x518445f0db93863e5e93a7f70617c05afa8048f1' THEN BITT
-WHEN bridge."token" '\xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2' THEN BLACK
-WHEN bridge."token" '\x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563' THEN BONDLY
-WHEN bridge."token" '\x702d161ed480e4a367a5810a6086074b791cf6a0' THEN BSKT
-WHEN bridge."token" '\xa7748f52273e11c0cb2edfa5128385453740ce20' THEN BSP
-WHEN bridge."token" '\xe251f9bc3e1ccb247847d3af28c4fa9b9c180a47' THEN BTAP
-WHEN bridge."token" '\x6fefd97f328342a8a840546a55fdcfee7542f9a8' THEN BTBS
-WHEN bridge."token" '\xc53611ae47602c7b92A0766FcB65DE91aC4D904b' THEN BUSD
-WHEN bridge."token" '\x6a545f9c64d8f7B957D8D2e6410B52095A9E6c29' THEN CFi
-WHEN bridge."token" '\x4c888e116d57a32f84865f3789dcb131fdc9fab6' THEN CIRUS
-WHEN bridge."token" '\xa688223dffd18097edd29e1ace08e6b6940b96d6' THEN COC
-WHEN bridge."token" '\xc6fd4c36a822d43283b79cce07d015a1faf7b321' THEN COIIN
-WHEN bridge."token" '\xa4b6573c9ae09d81e4d1360e6402b81f52557098' THEN COR
-WHEN bridge."token" '\xcaf5191fc480f43e4df80106c7695eca56e48b18' THEN DEP
-WHEN bridge."token" '\x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0' THEN DNXC
-WHEN bridge."token" '\x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255' THEN DON
-WHEN bridge."token" '\x7837fd820ba38f95c54d6dac4ca3751b81511357' THEN DOSE
-WHEN bridge."token" '\xFa850EcA95C34aa7dcd4213868eAd3ec8927416F' THEN DRGN
-WHEN bridge."token" '\xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98' THEN DTH
-WHEN bridge."token" '\x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8' THEN DUCK
-WHEN bridge."token" '\xac118686565af7393b0843587d483cbded9c3baf' THEN EDDA
-WHEN bridge."token" '\x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743' THEN FARM
-WHEN bridge."token" '\x4d338614FC25aFE6edf3994f331b4BAd32fb3c6A' THEN FAST
-WHEN bridge."token" '\x25a528af62e56512a19ce8c3cab427807c28cc19' THEN FORM
-WHEN bridge."token" '\xc04e039ae8587e71f8024b36d630f841cc2106cc' THEN FRY
-WHEN bridge."token" '\x9bA4c78b048EEed69f4eD3CFddeda7B51BAF7cA8' THEN GS
-WHEN bridge."token" '\x64d5baf5ac030e2b7c435add967f787ae94d0205' THEN GTON
-WHEN bridge."token" '\x0e37d70b51ffa2b98b4d34a5712c5291115464e3' THEN IQ
-WHEN bridge."token" '\x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e' THEN KEX
-WHEN bridge."token" '\x772722b55cdc2a086abd064267a17855eb15e8b3' THEN KST
-WHEN bridge."token" '\xdae6c2a48bfaa66b43815c5548b10800919c993e' THEN KTN
-WHEN bridge."token" '\xc2c23a86def9e9f5972a633b3d25f7ecbfa5e575' THEN LAYER
-WHEN bridge."token" '\x1cdee2f21c066848a8a135e19f5f302ca29f1f69' THEN LEVL
-WHEN bridge."token" '\x323a07F929F7c4DB7631866Af151248ae3912D98' THEN LIX
-WHEN bridge."token" '\xc32bb619966b9a56cf2472528a36fd099ce979e0' THEN MATRIX
-WHEN bridge."token" '\x21A0433662C36028E0bb9537ccD768d7c0017B48' THEN MAX
-WHEN bridge."token" '\x29DfD3d644b18e0345EED3a3C94b4Efe35F2771b' THEN METRIC
-WHEN bridge."token" '\x37bdFd6eD491Ee0E0fe2ce49de2cb573880E3734' THEN MFI
-WHEN bridge."token" '\x336f5a68fd46a25056a6c1d9c06072c691486acc' THEN MIMIR
-WHEN bridge."token" '\x1351ab0323b1127e1cfb8406adf87ca88a5a4ff6' THEN MIX
-WHEN bridge."token" '\x4518231a8fdf6ac553b9bbd51bbb86825b583263' THEN MLT
-WHEN bridge."token" '\x73f059db0182dc2ed716d028e1b13033cfcbf63b' THEN MM
-WHEN bridge."token" '\xd4fbc57b6233f268e7fba3b66e62719d74deecbc' THEN MOD
-WHEN bridge."token" '\xBfdcce6ab5533A8b285a86116C957808e118c3b6' THEN MYM
-WHEN bridge."token" '\x80a16016cc4a2e6a2caca8a4a498b1699ff0f844' THEN NEXT
-WHEN bridge."token" '\x9824aec2bd455d921303017f9600a589e6765c15' THEN NFTA
-WHEN bridge."token" '\x5774b2fc3e91af89f89141eacf76545e74265982' THEN NFTY
-WHEN bridge."token" '\xeaF26191ac1D35AE30Baa19a5ad5558DD8156Aef' THEN NORD
-WHEN bridge."token" '\x5d47baba0d66083c52009271faf3f50dcc01023c' THEN ORME
-WHEN bridge."token" '\xc28ea768221f67b6a1fd33e6aa903d4e42f6b177' THEN PAPER
-WHEN bridge."token" '\xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066' THEN PCNT
-WHEN bridge."token" '\x790cfdc6ab2e0ee45a433aac5434f183be1f6a20' THEN PLR
-WHEN bridge."token" '\xe8647ea19496e87c061bbad79f457928b2f52b5a' THEN POP
-WHEN bridge."token" '\xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa' THEN PPAY
-WHEN bridge."token" '\xe6bf0e14e33a469f2b0640b53949a9f90e675135' THEN PRARE
-WHEN bridge."token" '\xd9e8d20bde081600fac0d94b88eafaddce55aa43' THEN PUSSY
-WHEN bridge."token" '\xb235163f7f567b97d33775bfde6811e43212c098' THEN QKC
-WHEN bridge."token" '\x277be44551a8c4d4004e2091ff7d3f69be21782f' THEN RAMP
-WHEN bridge."token" '\x0a3a21356793b49154fd3bbe91cbc2a16c0457f5' THEN RFOX
-WHEN bridge."token" '\x921f99719eb6c01b4b8f0ba7973a7c24891e740a' THEN RSD
-WHEN bridge."token" '\xbb10c3ba37b4da01a70d6f3f456c5323a11a76fb' THEN SCA
-WHEN bridge."token" '\xD8a1734945b9Ba38eB19a291b475E31F49e59877' THEN SHARD
-WHEN bridge."token" '\x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e' THEN SHEESHA
-WHEN bridge."token" '\xbfc044a234e45412ecfec2cd6aae2dd0c083a7cd' THEN SIG
-WHEN bridge."token" '\xb0b2ef34d412d73b0ff90a709d1779a20655165a' THEN SKT
-WHEN bridge."token" '\x4b27cd6e6a5e83d236ead376d256fe2f9e9f0d2e' THEN SKYRIM
-WHEN bridge."token" '\xea8c5b9c537f3ebbcc8f2df0573f2d084e9e2bdb' THEN SMDX
-WHEN bridge."token" '\xbd83010eb60f12112908774998f65761cf9f6f9a' THEN STARS
-WHEN bridge."token" '\x04ae5cb48B8f968ED821972c5480b5B850f55554' THEN STFI
-WHEN bridge."token" '\x461d52769884ca6235b685ef2040f47d30c94eb5' THEN STN
-WHEN bridge."token" '\x2c961ff9b386b597abc58a56f3ec63e313cada76' THEN SUKU
-WHEN bridge."token" '\xfa9343c3897324496a05fc75abed6bac29f8a40f' THEN Titan
-WHEN bridge."token" '\x9b4bdddaeb68d85b0848bab7774e6855439fd94e' THEN TKING
-WHEN bridge."token" '\xbbeb90cfb6fafa1f69aa130b7341089abeef5811' THEN UBXT
-WHEN bridge."token" '\xb3e589d2983a7432064842b267c8f5b78c4820ba' THEN UMAD
-WHEN bridge."token" '\xd185c16756873b907df064bd7b4815839de4e6b9' THEN UNISTAKE
-WHEN bridge."token" '\xf915fdda4c882731c0456a4214548cd13a822886' THEN UNV
-WHEN bridge."token" '\x7af3f80c5788a9f83800d308be671bdd3c0db796' THEN UOP
-WHEN bridge."token" '\x2210502051221a600d3653eccc899eceea11a0fd' THEN VALX
-WHEN bridge."token" '\xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4' THEN VID
-WHEN bridge."token" '\xd0660cd418a64a1d44e9214ad8e459324d8157f1' THEN WOOFY
-WHEN bridge."token" '\xf7b38053a4885c99279c4955cb843797e04455f8' THEN WQT
-WHEN bridge."token" '\xef1d7562a49ac98ba22f5cbeae28ce1ba0238578' THEN ZHT
-WHEN bridge."token" '\xc94595b56e301f3ffedb8ccc2d672882d623e53a' THEN ACY
-WHEN bridge."token" '\x4ec16da4c9007462de151c0da9f5426c69978a7b' THEN AGAr
-WHEN bridge."token" '\x765277eebeca2e31912c9946eae1021199b39c61' THEN AMP
-WHEN bridge."token" '\x0ffccbff59bffa90bc27e41a362839947bb11f80' THEN ANGLE
-WHEN bridge."token" '\x7f295cbaae4ee39e723e1a4bdeb0ce7a381e56a9' THEN ARV
-WHEN bridge."token" '\xebaffc2d2ea7c66fb848c48124b753f93a0a90ec' THEN ASIA
-WHEN bridge."token" '\x6e2a5ea25b161befa6a8444c71ae3a89c39933c6' THEN B2M
-WHEN bridge."token" '\x83085138ED8A96eC0Cbd2013DDfe1eBB975940cc' THEN BAC
-WHEN bridge."token" '\x5e23bea955bc322f2894d94faceca744bb5c3cf9' THEN BASv2
-WHEN bridge."token" '\xa873e87c2c935fa11c72003231a2eee7d391ce5f' THEN BILL
-WHEN bridge."token" '\xde69c05e8121ef0db29c3d9ceceda6ef6b606d0c' THEN BITE
-WHEN bridge."token" '\x40d4c6ceca870a0439dc0232d40cf8be8b425baf' THEN BMI
-WHEN bridge."token" '\xDed6A27DEBE293d373Bc4bFed4aE8D70fbc80001' THEN BOOST
-WHEN bridge."token" '\x374c1135911602a13ee041e6e6e848a14fa62320' THEN BTB
-WHEN bridge."token" '\x5478a575ece4fb4768d1d43edf5826cfe1c6225a' THEN BT
-WHEN bridge."token" '\xde2f7e3c7fbf2d1a68fb7f64acfc05e6d5d7dd83' THEN C4G3
-WHEN bridge."token" '\x021750e46a47B2A02f4f860C93DcC774b1abA1d5' THEN CHART
-WHEN bridge."token" '\xe25d77fedeeda321006bea62727cc3b67882b14e' THEN CLH
-WHEN bridge."token" '\x2406dce4da5ab125a18295f4fb9fd36a0f7879a2' THEN CPD
-WHEN bridge."token" '\x5a4fb10e7c4cbb9a2b9d9a942f9a875ebd3489ea' THEN CRBN
-WHEN bridge."token" '\x1a056a5fcbbe5ad69793cea8569c6dba33e4080a' THEN CRD
-WHEN bridge."token" '\x7e7fd06a447b4b438170a80dd53b2f785d9db825' THEN CTO
-WHEN bridge."token" '\xd6cce248263ea1e2b8cb765178c944fc16ed0727' THEN CTR
-WHEN bridge."token" '\x5f2110985f641a139c6b48bae7adac8f46b93d89' THEN DAI
-WHEN bridge."token" '\xe91a8d2c584ca93c7405f15c22cdfe53c29896e3' THEN DEXT
-WHEN bridge."token" '\xe1e66e037dc20247c2fabda5ec89c911e68724e7' THEN DFX
-WHEN bridge."token" '\x5E0691Ba91E21f3FDc88a0550Aa4f7304eD89b5C' THEN DGCL
-WHEN bridge."token" '\x1861c9058577c3b48e73d91d6f25c18b17fbffe0' THEN DSLA
-WHEN bridge."token" '\xa8f47fdb7ef480abe45747092f79cfeb7cf2c2f3' THEN DVD
-WHEN bridge."token" '\x05409a4df9f5e2407642cc3f29e90d3589366bf2' THEN EJS
-WHEN bridge."token" '\x37807d4fbeb84124347b8899dd99616090d3e304' THEN eLunr
-WHEN bridge."token" '\x564bEf31ec942Ffe1Bff250786f76a5c5141B9f3' THEN eQUAD
-WHEN bridge."token" '\x245d3238cbbe03f9b8e1bff4709d1ebdf22ced4b' THEN FEG
-WHEN bridge."token" '\x58a4e4f9f0bd1bfc2fe287493a130649f349255a' THEN FERA
-WHEN bridge."token" '\x3053ad3b31600074e9a90440770f78d5e8fc5a54' THEN FONT
-WHEN bridge."token" '\xd9ea58350bf120e2169a35fa1afc31975b07de01' THEN GAINS
-WHEN bridge."token" '\xfd5eb9ad72a3fa9ab28007192d58279a21d5b6c8' THEN GLDY
-WHEN bridge."token" '\xa4fffc757e8c4f24e7b209c033c123d20983ad40' THEN HOGE
-WHEN bridge."token" '\xda8929a6338f408cc78c1845fb4f71bffd2cfcfb' THEN HSF
-WHEN bridge."token" '\xf16e81dce15B08F326220742020379B855B87DF9' THEN ICE
-WHEN bridge."token" '\x314593fa9a2fa16432913dbccc96104541d32d11' THEN KIT
-WHEN bridge."token" '\xacbaf478216fbb2eb3607ec2c1a6b5d434bded2f' THEN KOBE
-WHEN bridge."token" '\xa4050aa9b76ccdae1a6a8b2f3e8627cdc1546d86' THEN LEPA
-WHEN bridge."token" '\xeff6fcfbc2383857dd66ddf57efffc00d58b7d9d' THEN LIMIT
-WHEN bridge."token" '\x14a9a94e555fdd54c21d7f7e328e61d7ebece54b' THEN LOOT
-WHEN bridge."token" '\xcfb24d3c3767364391340a2e6d99c64f1cbd7a3d' THEN LPOOL
-WHEN bridge."token" '\x51688BF5B9c87C61af3fe18c94281cfBc872A119' THEN LUA
-WHEN bridge."token" '\xf5c8054efc6acd25f31a17963462b90e82fdecad' THEN MDA
-WHEN bridge."token" '\x3878110877052425282a7d4a712b1d8a45ad04cb' THEN MEGASHIB
-WHEN bridge."token" '\x7c96eD505D77f82b1229220D96ee9fEeEA7c1FE7' THEN MITx
-WHEN bridge."token" '\xbf05279f9bf1ce69bbfed670813b7e431142afa4' THEN MM
-WHEN bridge."token" '\x6ff0609046a38d76bd40c5863b4d1a2dce687f73' THEN MUSIC
-WHEN bridge."token" '\x03a99830a543f35bf9c2c8a56d48b1dbe9a45f4e' THEN MWAT
-WHEN bridge."token" '\xacb5f391f51e15418845bec74781bdd1cbe0fd89' THEN MYTH
-WHEN bridge."token" '\x758d08864fb6cce3062667225ca10b8f00496cc2' THEN NAOS
-WHEN bridge."token" '\x1a6990fcce4fe96be417d48f60b7ea5cc329de80' THEN NIF
-WHEN bridge."token" '\xede1b2f557942c9132c0ea1b7f20a63f711982d4' THEN nomad
-WHEN bridge."token" '\x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2' THEN OCT
-WHEN bridge."token" '\xebd49b26169e1b52c04cfd19fcf289405df55f80' THEN ORBS
-WHEN bridge."token" '\x749fec660a245f8b4c3b9bbc8a1ebf1c22863c8e' THEN PARETO
-WHEN bridge."token" '\xa58663faef461761e44066ea26c1fcddf2927b80' THEN PDOGE
-WHEN bridge."token" '\xf4a71809FD0d5715a9685cAADb6f0D8BeAFdF8Af' THEN PFI
-WHEN bridge."token" '\x3b79a28264fc52c7b4cea90558aa0b162f7faf57' THEN PIN
-WHEN bridge."token" '\x68edf56289134b41c6583c0e8fc29fbd7828aca4' THEN PKEX
-WHEN bridge."token" '\x7e624fa0e1c4abfd309cc15719b7e2580887f570' THEN POLS
-WHEN bridge."token" '\x273a4ffceb31b8473d51051ad2a2edbb7ac8ce02' THEN POL
-WHEN bridge."token" '\x6ab899f7c0a1bd4e9cab0501683ae90db34be1ce' THEN PPBLZ
-WHEN bridge."token" '\x3758428802fbeab2858d58aec5ff5176df464edd' THEN PPDEX
-WHEN bridge."token" '\x7961ade0a767c0e5b67dd1a1f78ba44f727642ed' THEN QUIDD
-WHEN bridge."token" '\x65e66a61d0a8f1e686c2d6083ad611a10d84d97a' THEN RAZE
-WHEN bridge."token" '\x58a746553fff813f4301bc5605aaafc487b5328b' THEN RAZOR
-WHEN bridge."token" '\xA01000C52b234a92563BA61e5649b7C76E1ba0f3' THEN ROCKS
-WHEN bridge."token" '\x7ea2be2df7ba6e54b1a9c70676f668455e329d29' THEN RULER
-WHEN bridge."token" '\x3c6dad0475d3a1696b359dc04c99fd401be134da' THEN SAITO
-WHEN bridge."token" '\x18ac7323615f1fabf332ff4afca735eaf6dd9668' THEN SOAR
-WHEN bridge."token" '\xc073c4ed65622a9423b5e5bde2bfc8b81ebc471c' THEN SOLV
-WHEN bridge."token" '\x6ffd446cef7e60b7758e0ed836035738a8d18aa1' THEN ✨
-WHEN bridge."token" '\x04068da6c83afcfa0e13ba15a6696662335d5b75' THEN STAKE
-WHEN bridge."token" '\x1f63670f1fac519ec57fca17b986871d6cf7b52f' THEN STA
-WHEN bridge."token" '\x8497842420cfdbc97896c2353d75d89fc8d5be5d' THEN STND
-WHEN bridge."token" '\x249463c47e10f81228f90c79d2e01608b0e91155' THEN STR
-WHEN bridge."token" '\x84151755679590d3c79347315c5dbeff031f1b98' THEN Suter
-WHEN bridge."token" '\x7f12a37b6921ffac11fab16338b3ae67ee0c462b' THEN TNODE
-WHEN bridge."token" '\x9a6d5c2e0376572f214a35f832740e412932d277' THEN TOMOE
-WHEN bridge."token" '\x9f4298f2893e756030515f7b0dc85065cfae674b' THEN UMI
-WHEN bridge."token" '\xf48fbc59e6b45cff26a7608ff7d5a22ebc40df7f' THEN UNN
-WHEN bridge."token" '\xf040e8c248788522421575396b6549e3617d67ef' THEN USDC
-WHEN bridge."token" '\x4a0a3902e091cdb3aec4279a6bfac50297f0a79e' THEN VERA
-WHEN bridge."token" '\x873801ae2ff12d816db9a7b082f5796bec64c82c' THEN VEST
-WHEN bridge."token" '\xe069af87450fb51fc0d0e044617f1c134163e591' THEN VPP
-WHEN bridge."token" '\x332730a4f6e03d9c55829435f10360e13cfa41ff' THEN VSP
-WHEN bridge."token" '\x070625d5A14706c30b8E2264753B2f5D035Bc1B4' THEN VTX
-WHEN bridge."token" '\x5621b5a3f4a8008c4ccdd1b942b121c8b1944f1f' THEN XED
-WHEN bridge."token" '\x4a080377f83d669d7bb83b3184a8a5e61b500608' THEN XEND
-WHEN bridge."token" '\x99889048584c710b3a2383e322dd3841e2c77d34' THEN XIV
-WHEN bridge."token" '\xc0a51ac9d548bdcde53fa59448029e41a39feb20' THEN XRT
-WHEN bridge."token" '\x264c1383ea520f73dd837f915ef3a732e204a493' THEN ZCX
-WHEN bridge."token" '\x6e6bed1409e7c1eebec4b0df0419b32e0c6314ba' THEN ZDEX
-WHEN bridge."token" '\x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb' THEN IM
-WHEN bridge."token" '\x9e0846677eA91Ea5308D3F525C09E782ef17dA21' THEN KIF
-WHEN bridge."token" '\x1c019af5b059f4473289c1ddeea02cc4993478ea' THEN KSF
-WHEN bridge."token" '\x8ad96050318043166114884b59e2fc82210273b3' THEN NEX
-WHEN bridge."token" '\xce57283ce0e7446364e0bc479b5de5d74b5e0ffc' THEN PKG
-WHEN bridge."token" '\xF8aCF86194443DCde55fc5B9e448e183c290D8Cb' THEN bCOLX
-WHEN bridge."token" '\x70d6b3cfaabd6c0eb6b99b80c6540fa754a72c40' THEN JUST
-WHEN bridge."token" '\x6f9c26fa731c7ea4139fa669962cf8f1ce6c8b0b' THEN Shiba
-WHEN bridge."token" '\xD98274562eb6e18f9DeecFF23E8164fF83861a6d' THEN SPIRIT
-WHEN bridge."token" '\x3447ac4ad1153ba762034ee7b8ac637c553a9134' THEN TCS
-WHEN bridge."token" '\xe2f28d24a2c6a69de859dfdefe347c9b25ad6aa2' THEN TOTEM
-WHEN bridge."token" '\x347e430b7cd1235e216be58ffa13394e5009e6e2' THEN GAIA
-WHEN bridge."token" '\x11eb3aa66fe1f2b75cb353d3e874e96968182bda' THEN GAJ
-WHEN bridge."token" '\xaff9d0da646a4f11998980dd80a5728a1ecae726' THEN Guard
-WHEN bridge."token" '\x02A40C048eE2607B5f5606e445CFc3633Fb20b58' THEN KABY
-WHEN bridge."token" '\x471ea49dd8e60e697f4cac262b5fafcc307506e4' THEN KOM
-WHEN bridge."token" '\xdb0ee671b52a866df968ee0913e906bfb743a6d5' THEN MEEB
-WHEN bridge."token" '\x417871f0682db63924b931fc16ba3ff40343cdcb' THEN NSDX
-WHEN bridge."token" '\xc7ed9aa2b7d302fd5a68dfbefe5f530f9bd35a06' THEN PIRATEP
-WHEN bridge."token" '\xa85d8c972e1d54136e4bbed3d108db6e108e98f9' THEN ROLL
-WHEN bridge."token" '\x8c4daef64d4246d0274fe68243fd32bb8d5707e5' THEN SAVG
-WHEN bridge."token" '\x6f26e8a40c8daae8c4358ce557c10226527cebce' THEN SX
-WHEN bridge."token" '\x1f681b1c4065057e07b95a1e5e504fb2c85f4625' THEN TETU
-WHEN bridge."token" '\xad02770e15d100955ced9a0ea2d7a18c01c8f2cb' THEN TITAN
-WHEN bridge."token" '\x6ba7a8f9063c712c1c8cabc776b1da7126805f3b' THEN TRADE
-WHEN bridge."token" '\xce3b0d4e4e4285e55c0bfb294112caf19682eb8a' THEN TRO
-WHEN bridge."token" '\x5608d5159ab98881bc116ae7761c74ad2ebb0448' THEN UART
-WHEN bridge."token" '\x1785113910847770290f5f840b4c74fc46451201' THEN WELT
-WHEN bridge."token" '\xe6b9d092223f39013656702a40dbe6b7decc5746' THEN YAMP
-WHEN bridge."token" '\x0802d66f029c46e042b74d543fc43b6705ccb4ba' THEN abBLOCK
-WHEN bridge."token" '\xee9d08840554c9f8d30d0e3833d4906d3f39a49e' THEN PACT
-WHEN bridge."token" '\xe0286c89c626d11c7a1ea9f5ac2620e31cc80618' THEN PREMIO
-WHEN bridge."token" '\xea136fc555e695ba96d22e10b7e2151c4c6b2a20' THEN SOURCE
-WHEN bridge."token" '\xc1fb2d1dbf7e4f605de0f0f6fbaa724e1b1ffba6' THEN SDN
-WHEN bridge."token" '\xa184088a740c695e156f91f5cc086a06bb78b827' THEN AUTO
-WHEN bridge."token" '\x181de8c57c4f25eba9fd27757bbd11cc66a55d31' THEN BELUGA
-WHEN bridge."token" '\x6fd7c98458a943f469e1cf4ea85b173f5cd342f4' THEN BHC
-WHEN bridge."token" '\xca3f508b8e4dd382ee878a314789373d80a5190a' THEN BIFI
-WHEN bridge."token" '\x19a6da6e382b85f827088092a3dbe864d9ccba73' THEN BISON
-WHEN bridge."token" '\xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c' THEN BNB
-WHEN bridge."token" '\xc9574679a89f9893e9b1e288ce6aad1c7be60624' THEN BRTK
-WHEN bridge."token" '\x9198bbbd8201584a630f93b83fbda70a5ee1970d' THEN BSCR
-WHEN bridge."token" '\xe9e7cea3dedca5984780bafc599bd69add087d56' THEN BUSD
-WHEN bridge."token" '\x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63' THEN DEFY
-WHEN bridge."token" '\x21adb1c644663069e83059ac3f9d9ca1133d29e4' THEN EGGP
-WHEN bridge."token" '\xacd7b3d9c10e97d0efa418903c0c7669e702e4c0' THEN ELE
-WHEN bridge."token" '\x1b79708eea29900dbbbca8a5ae620ac741618ae4' THEN ESWAP
-WHEN bridge."token" '\x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493' THEN FEED
-WHEN bridge."token" '\xeda21b525ac789eab1a08ef2404dd8505ffb973d' THEN HPS
-WHEN bridge."token" '\x5a41f637c3f7553dba6ddc2d3ca92641096577ea' THEN JulD
-WHEN bridge."token" '\xcd5d75dbe75449a9021b6c570a41959eb571c751' THEN LORY
-WHEN bridge."token" '\x13e971de9181eef7a4aeaeaa67552a6a4cc54f43' THEN MELD
-WHEN bridge."token" '\x2b15bc62d1fb46ade4763a3c5ea0917460bb25f1' THEN MORPH
-WHEN bridge."token" '\x9b44df3318972be845d83f961735609137c4c23c' THEN PROPEL
-WHEN bridge."token" '\xe821ff93acd958d8ef637ff9627217d28a5b6845' THEN PTLKX
-WHEN bridge."token" '\xeb9902a19fa1286c8832bf44e9b18e89f682f614' THEN sFEED
-WHEN bridge."token" '\x9d9affac2175ef541642035ab66f5fe7df813851' THEN SPACE
-WHEN bridge."token" '\x5ff584f11b3dc5bc26cd099239ced7eaa2d4e581' THEN VEST
-WHEN bridge."token" '\x56aa0237244c67b9a854b4efe8479cca0b105289' THEN WNOW
-WHEN bridge."token" '\x0288d3e353fe2299f11ea2c2e1696b4a648ecc07' THEN ZEFI
-WHEN bridge."token" '\x366d71ab095735b7dae83ce2b82d5262ef655f10' THEN APAD
-WHEN bridge."token" '\xc748673057861a797275cd8a068abb95a902e8de' THEN BabyDoge
-WHEN bridge."token" '\x9e6b3e35c8f563b45d864f9ff697a144ad28a371' THEN DOGO
-WHEN bridge."token" '\x8076c74c5e3f5852037f31ff0093eeb8c8add8d3' THEN SAFEMOON
-WHEN bridge."token" '\x6d3a0fb0070ea61f901ebc0b675c30450acac737' THEN ATH
-WHEN bridge."token" '\x603c7f932ed1fc6575303d8fb018fdcbb0f39a95' THEN BANANA
-WHEN bridge."token" '\x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd' THEN BCPAY
-WHEN bridge."token" '\xb44a9b6905af7c801311e8f4e76932ee959c663c' THEN BCP
-WHEN bridge."token" '\x708739980021a0b0b2e555383fe1283697e140e9' THEN BLS
-WHEN bridge."token" '\x248c45af3b2f73bc40fa159f2a90ce9cad7a77ba' THEN BOGE
-WHEN bridge."token" '\x790be81c3ca0e53974be2688cdb954732c9862e1' THEN BREW
-WHEN bridge."token" '\xc7091aa18598b87588e37501b6ce865263cd67ce' THEN CCAKE
-WHEN bridge."token" '\x1e584d356db17decfa474fb9669fa7d2f181ee4e' THEN CHIPS
-WHEN bridge."token" '\x2bf56908b0f2440ad11169d281967eb76665f8c6' THEN Dove
-WHEN bridge."token" '\xfb62ae373aca027177d1c18ee0862817f9080d08' THEN DPET
-WHEN bridge."token" '\x297817ce1a8de777e7ddbed86c3b7f9dc9349f2c' THEN DUEL
-WHEN bridge."token" '\x4437743ac02957068995c48e08465e0ee1769fbe' THEN FTS
-WHEN bridge."token" '\xee814f5b2bf700d2e843dc56835d28d095161dd9' THEN GRAND
-WHEN bridge."token" '\x948d2a81086a075b3130bac19e4c6dee1d2e3fe8' THEN Helmet
-WHEN bridge."token" '\x9b26e16377ad29a6ccc01770bcfb56de3a36d8b2' THEN HERO
-WHEN bridge."token" '\xb37cad62441ef8b866f3e36f12fd42062b6c0f33' THEN INKU
-WHEN bridge."token" '\x72cfd829bbda21f812f57c7012a5bf434cb6e7b3' THEN ISHND
-WHEN bridge."token" '\x0491648c910ad2c1afaab733faf71d30313df7fc' THEN JDI
-WHEN bridge."token" '\xb08ba8c99a883d85d929f561b81bb8c365a5a93b' THEN MAD
-WHEN bridge."token" '\xf8ae4ef55628aacfb9bd6e777b0f5d35c173f624' THEN MELD
-WHEN bridge."token" '\xb0611177bb3ce464c512d84bfab0b9b33b01f534' THEN MOCHA
-WHEN bridge."token" '\xd10332818d6a9b4b84bf5d87dbf9d80012fdf913' THEN MRHB
-WHEN bridge."token" '\xb2ebaa0ad65e9c888008bf10646016f7fcdd73c3' THEN NALIS
-WHEN bridge."token" '\xa1303e6199b319a891b79685f0537d289af1fc83' THEN NAR
-WHEN bridge."token" '\x943978707717d4d73da6f74312aef59feafe368c' THEN OMT
-WHEN bridge."token" '\x91f006ee672f8f39c6e63ca75b1ca14067b3c366' THEN ORE
-WHEN bridge."token" '\x6d34f621d2a1812434ce7af6e04a344bfce9b47e' THEN PEPPA
-WHEN bridge."token" '\xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6' THEN PERA
-WHEN bridge."token" '\x509949c4ee0c1c2c765cf9b23c75d823981e22ae' THEN PNIXS
-WHEN bridge."token" '\x00aa85e010204068b7cc2235800b2d8036bdbf2e' THEN Scam
-WHEN bridge."token" '\x40b34cc972908060d6d527276e17c105d224559d' THEN SEED
-WHEN bridge."token" '\xca6d25c10dad43ae8be0bc2af4d3cd1114583c08' THEN SISTA
-WHEN bridge."token" '\x2f3391aebe27393aba0a790aa5e1577fea0361c2' THEN TAKO
-WHEN bridge."token" '\xf63400ee0420ce5b1ebdee0c942d7de1c734a41f' THEN TAPE
-WHEN bridge."token" '\x62907ad5c2d79e2a4f048a90ae2b49d062a773f3' THEN TWIN
-WHEN bridge."token" '\x7a9f28eb62c791422aa23ceae1da9c847cbec9b0' THEN WATCH
-WHEN bridge."token" '\xb64e638e60d154b43f660a6bf8fd8a3b249a6a21' THEN WAULTx
-WHEN bridge."token" '\xa58950f05fea2277d2608748412bf9f802ea4901' THEN WSG
-WHEN bridge."token" '\x851f7a700c5d67db59612b871338a85526752c25' THEN ARGON
-WHEN bridge."token" '\xbd29490383edfd560426c3b63d01534408bc2da6' THEN AVXL
-WHEN bridge."token" '\x1a8d7ac01d21991bf5249a3657c97b2b6d919222' THEN BEE
-WHEN bridge."token" '\x4131b87f74415190425ccd873048c708f8005823' THEN bMXX
-WHEN bridge."token" '\xec181b5f1d7b069192a3554bde509728b16d5d73' THEN FUKU
-WHEN bridge."token" '\xc9ad37e9baf41377540df5a77831db98c1915128' THEN GINUX
-WHEN bridge."token" '\xfa363022816abf82f18a9c2809dcd2bb393f6ac5' THEN HONEY
-WHEN bridge."token" '\xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5' THEN iBFR
-WHEN bridge."token" '\xb5389a679151c4b8621b1098c6e0961a3cfee8d4' THEN LAUNCH
-WHEN bridge."token" '\xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea' THEN MRFI
-WHEN bridge."token" '\x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16' THEN SMG
-WHEN bridge."token" '\xb5c9aa0d54091b32c6496b1f3f745e2492daa2ff' THEN Timerr
-WHEN bridge."token" '\xbfef6ccfc830d3baca4f6766a0d4aaa242ca9f3d' THEN WNAV
-WHEN bridge."token" '\xd73f32833b6d5d9c8070c23e599e283a3039823c' THEN WTF
-WHEN bridge."token" '\x547cbe0f0c25085e7015aa6939b28402eb0ccdac' THEN XBN
-WHEN bridge."token" '\xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e' THEN DFL
-WHEN bridge."token" '\x98631c69602083d04f83934576a53e2a133d482f' THEN xM
-WHEN bridge."token" '\x49969019255d948dc2f1d9e4485aaea8cf701487' THEN ORBX
-WHEN bridge."token" '\x463e737d8f740395abf44f7aac2d9531d8d539e9' THEN TOAD
-WHEN bridge."token" '\xf96429a7ae52da7d07e60be95a3ece8b042016fb' THEN Kac
-WHEN bridge."token" '\x65d9033cff96782394dab5dbef17fa771bbe1732' THEN STORE
-WHEN bridge."token" '\x6e948add7eb958c81b79191c05bd4d4213bf61c0' THEN CRF
-WHEN bridge."token" '\x9f402f44684574f3535ea6f1bb5cfbffef42ee28' THEN PRNT
-WHEN bridge."token" '\x9d986a3f147212327dd658f712d5264a73a1fdb0' THEN LAND
-WHEN bridge."token" '\x2c591c8078ea432b7affb04957c89fedc5e854b5' THEN CCC
-WHEN bridge."token" '\xa6168c7e5eb7c5c379f3a1d7cf1073e09b2f031e' THEN GRAV
-WHEN bridge."token" '\x170dc35c5b58aededc81960691eb4b389eba9e95' THEN IMRTL
-WHEN bridge."token" '\xb0ff8188f374902bb180bd186d17967b5b1188f2' THEN ARCHA
-WHEN bridge."token" '\x7d3dc11f8aa754a9054c398f75d5e0dd81d2727e' THEN Yf-DAI
-WHEN bridge."token" '\x0cf21cac0b5689aa39b38032ae228cec9e2d0192' THEN ADB
-WHEN bridge."token" '\x4197c6ef3879a08cd51e5560da5064b773aa1d29' THEN ACS
-WHEN bridge."token" '\xb6246d51f3bd98608f26e866f1453109f8f76809' THEN IOTEXCHART
-WHEN bridge."token" '\x134b372f5543c5cca30be6a796da032c8274bddf' THEN LABS
-WHEN bridge."token" '\x43f5b29d63cedc5a7c1724dbb1d698fde05ada21' THEN FODL
-WHEN bridge."token" '\xf9a7bbfdc269dc9d338b97670d3e8b6ec8747618' THEN RLC
-WHEN bridge."token" '\x4477b28e8b797ebaebd2539bb24290fdfcc27807' THEN $RFG
-WHEN bridge."token" '\x8e8538c75f273ab2df6adeecd3622a9c314fccf3' THEN SISHI
-WHEN bridge."token" '\x641ec142e67ab213539815f67e4276975c2f8d50' THEN DogeKing
-WHEN bridge."token" '\x1f3406687cc885f18c310e44496c11b2500087b9' THEN LBT
-WHEN bridge."token" '\x88d7e9b65dc24cf54f5edef929225fc3e1580c25' THEN JMPT
-WHEN bridge."token" '\xf606bd19b1e61574ed625d9ea96c841d4e247a32' THEN GUARD
-WHEN bridge."token" '\x205f93cd558aac99c4609d0511829194b5405533' THEN ANGEL
-WHEN bridge."token" '\x284643d9df25551a85d68ef903e59f8ef90bec01' THEN RPG
-WHEN bridge."token" '\x482e6bd0a178f985818c5dfb9ac77918e8412fba' THEN ZEUM
-WHEN bridge."token" '\x0fc22a684ee0f37efa8f7dd12f48f62c17ee0c92' THEN MIL
-WHEN bridge."token" '\x5c9565950d2124d6e8387e2b3e9e0cd17fd8f6bd' THEN MSU
-WHEN bridge."token" '\xec82f8d35ffe8da987b97c0bf12921ec57f23d3c' THEN RTKN
-WHEN bridge."token" '\x0d66f9aa410ca289105355b4940e7551fdce2c14' THEN UCG
-WHEN bridge."token" '\x6aa217312960a21adbde1478dc8cbcf828110a67' THEN SPIN
-WHEN bridge."token" '\xd88ca08d8eec1e9e09562213ae83a7853ebb5d28' THEN XWIN
-WHEN bridge."token" '\x2e1f3d4cb35980f6339c006e64ac3a555db6676d' THEN NAS
-WHEN bridge."token" '\xa19863e302fd1b41276fce5a48d9c511dbeef34c' THEN PRIMATE
-WHEN bridge."token" '\x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9' THEN SLEEPEE
-WHEN bridge."token" '\x8ac76a51cc950d9822d68b83fe1ad97b32cd580d' THEN USDC
-WHEN bridge."token" '\xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba' THEN MIM
-WHEN bridge."token" '\xc7d8d35eba58a0935ff2d5a33df105dd9f071731' THEN HGET
-WHEN bridge."token" '\xf6565a97dc832d93dc83b75ee9aa5c7e8ecb0f9d' THEN HYVE
-WHEN bridge."token" '\x47f46484a8d7573e07513b6e6b2bdc4f748ba294' THEN XDEX
-WHEN bridge."token" '\x1af3f329e8be154074d8769d1ffa4ee058b1dbc3' THEN DAI
-WHEN bridge."token" '\x067ede5097574b387ff30999e3a1775f3d7d569d' THEN DOPE
-WHEN bridge."token" '\x2170ed0880ac9a755fd29b2688956bd959f933f8' THEN ETH
-WHEN bridge."token" '\x8da443f84fea710266c8eb6bc34b71702d033ef2' THEN CTSI
-WHEN bridge."token" '\xaec945e04baf28b135fa7c640f624f8d90f1c3a6' THEN C98
-WHEN bridge."token" '\x55d398326f99059ff775485246999027b3197955' THEN USDT
-WHEN bridge."token" '\x5fe5a66c84c6f8c213503a04f95a417ac6684361' THEN EURS
-WHEN bridge."token" '\xd632bd021a07af70592ce1e18717ab9aa126decb' THEN bKANGAL
-WHEN bridge."token" '\x3764bc0de9b6a68c67929130aaec16b6060cab8c' THEN XIDO
-WHEN bridge."token" '\xb49b7e0742ecb4240ffe91661d2a580677460b6a' THEN PERI
-WHEN bridge."token" '\x9b71b5511998e0798625b8fa74e86d8192de78c1' THEN LPK
-WHEN bridge."token" '\x002d8563759f5e1eaf8784181f3973288f6856e4' THEN DMOD
-WHEN bridge."token" '\x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d' THEN SNP
-WHEN bridge."token" '\xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034' THEN wBAN
-WHEN bridge."token" '\x0cbe5c4f318035b866aacfaf7d018fb4c5f920f3' THEN LTY
-WHEN bridge."token" '\x5fe80d2cd054645b9419657d3d10d26391780a7b' THEN MCB
-WHEN bridge."token" '\xd21d5467c341dc697b384cf4e4be56394cae5d0b' THEN BCP
-WHEN bridge."token" '\x9ba6a67a6f3b21705a46b380a1b97373a33da311' THEN FEAR
-WHEN bridge."token" '\x8506560320826e459f356cb56ccf721da8875414' THEN nICE
-WHEN bridge."token" '\x84e9a6f9d240fdd33801f7135908bfa16866939a' THEN GMEE
-WHEN bridge."token" '\xc342774492b54ce5f8ac662113ed702fc1b34972' THEN BGEO
-WHEN bridge."token" '\xc53c65c4a925039cc149fa99fd011490d40270a3' THEN ATMSSFT
-WHEN bridge."token" '\xa7840988974dd20a78b9f21d95366c46c7637996' THEN EDC
-WHEN bridge."token" '\x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014' THEN GEMG
-WHEN bridge."token" '\x9a78649501bbaac285ea4187299471b7ad4abd35' THEN DSG
-WHEN bridge."token" '\x19a4866a85c652eb4a2ed44c42e4cb2863a62d51' THEN HOD
-WHEN bridge."token" '\x70905594023cb2f37f3103fdc70315ad1601d6ef' THEN POLARv3
-WHEN bridge."token" '\x963fac6d71cddbd717d8d0c2fd06aae5dd6072fc' THEN WHIRL
-WHEN bridge."token" '\x4b6000f9163de2e3f0a01ec37e06e1469dbbce9d' THEN KEYFI
-WHEN bridge."token" '\x04f73a09e2eb410205be256054794fb452f0d245' THEN SALE
-WHEN bridge."token" '\x27a339d9b59b21390d7209b78a839868e319301b' THEN xBlade
-WHEN bridge."token" '\x9fe28d11ce29e340b7124c493f59607cbab9ce48' THEN SPELL
-WHEN bridge."token" '\x66eff5221ca926636224650fd3b9c497ff828f7d' THEN sSPELL
-WHEN bridge."token" '\xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b' THEN KNC
-WHEN bridge."token" '\x794baab6b878467f93ef17e2f2851ce04e3e34c8' THEN YIN
-WHEN bridge."token" '\x98936bde1cf1bff1e7a8012cee5e2583851f2067' THEN ANN
-WHEN bridge."token" '\x8690cb98496ef0f8c6417d78b5e0e29907668808' THEN WRAITH
-WHEN bridge."token" '\xbc420bc2c015d1579f77e4a5c68270b75f2ddb9d' THEN CHE
-WHEN bridge."token" '\x7242dbed15630a29ea5347898fa15ff8d5eb3593' THEN HEP
-WHEN bridge."token" '\xb6c53431608e626ac81a9776ac3e999c5556717c' THEN TLOS
-WHEN bridge."token" '\xbac1df744df160877cdc45e13d0394c06bc388ff' THEN GEM
-WHEN bridge."token" '\x96a70751fd5bf2b18091b99ef7689b9a3a90920e' THEN wsSQUID
-WHEN bridge."token" '\xc7981767f644c7f8e483dabdc413e8a371b83079' THEN LIQ
-WHEN bridge."token" '\x63db060697b01c6f4a26561b1494685dcbbd998c' THEN LIBRE
-WHEN bridge."token" '\x61d5822dd7b3ed495108733e6550d4529480c8f6' THEN GCAKE
-WHEN bridge."token" '\x8f01d597d2022656494e30fb76eccf1eea2e092e' THEN TOMB
-WHEN bridge."token" '\x4691937a7508860f876c9c0a2a617e7d9e945d4b' THEN WOO
-WHEN bridge."token" '\x8729438eb15e2c8b576fcc6aecda6a148776c0f5' THEN QI
-WHEN bridge."token" '\x4ef06d1a55962f29d362c53c864a4f0c791dcb9e' THEN MYOBU
-WHEN bridge."token" '\x4374f26f0148a6331905edf4cd33b89d8eed78d1' THEN YOSHI
-WHEN bridge."token" '\xd399359683c1cd5267f611261ede08f22ce9729f' THEN MFTU
-WHEN bridge."token" '\x8fb1a59ca2d57b51e5971a85277efe72c4492983' THEN DAF
-WHEN bridge."token" '\xad29abb318791d579433d831ed122afeaf29dcfe' THEN FTM
-WHEN bridge."token" '\x0856978f7ffff0a2471b4520e3521c4b3343e36f' THEN IDEX
-WHEN bridge."token" '\xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73' THEN LACE
-WHEN bridge."token" '\xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b' THEN MAHA
-WHEN bridge."token" '\xf2c96e402c9199682d5ded26d3771c6b192c01af' THEN SCLP
-WHEN bridge."token" '\x0e5f989ce525acc4ee45506af91964f7f4c9f2e9' THEN RYOSHI
-WHEN bridge."token" '\xd8cb4c2369db13c94c90c7fd3bebc9757900ee6b' THEN NPXB
-WHEN bridge."token" '\x12bb890508c125661e03b09ec06e404bc9289040' THEN RACA
-WHEN bridge."token" '\x7fe378c5e0b5c32af2ecc8829bedf02245a0e4ef' THEN STZ
-WHEN bridge."token" '\x51c5807dd8398aedfcc91e6483417838b41eaeb8' THEN KING
-WHEN bridge."token" '\x301af3eff0c904dc5ddd06faa808f653474f7fcc' THEN UNB
-WHEN bridge."token" '\x9fb9a33956351cf4fa040f65a13b835a3c8764e3' THEN MULTI
-WHEN bridge."token" '\xa803778ab953d3ffe4fbd20cfa0042ecefe8319d' THEN CTZN
-WHEN bridge."token" '\x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f' THEN MCRT
-WHEN bridge."token" '\x3f56e0c36d275367b8c502090edf38289b3dea0d' THEN MAI
-WHEN bridge."token" '\xb067c1dd69d41ffa29f959901c91aa7731cc4e26' THEN mWSPP
-WHEN bridge."token" '\x7777777777697cfeecf846a76326da79cc606517' THEN SIG
-WHEN bridge."token" '\x0feadcc3824e7f3c12f40e324a60c23ca51627fc' THEN WAD
-WHEN bridge."token" '\x9133049fb1fddc110c92bf5b7df635abb70c89dc' THEN PINK
-WHEN bridge."token" '\x047a02a57501a813975b2d347278fdd3df671e86' THEN 2022M
-WHEN bridge."token" '\x5f99acf13caff815dd9cb4a415c0fb34e9f4545b' THEN TSA
-WHEN bridge."token" '\xcc42724c6683b7e57334c4e856f4c9965ed682bd' THEN MATIC
-WHEN bridge."token" '\x1ce0c2827e2ef14d5c4f29a091d735a204794041' THEN AVAX
-WHEN bridge."token" '\xf307910a4c7bbc79691fd374889b36d8531b08e3' THEN ANKR
-WHEN bridge."token" '\xe211299dce465083f5b70f119d6620cb29b9bcac' THEN APE-X
-WHEN bridge."token" '\xb955b4cab9aa3b49e23aeb5204ebc5ff6678e86d' THEN Afin
-WHEN bridge."token" '\x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c' THEN BTCB
-WHEN bridge."token" '\x33333ee26a7d02e41c33828b42fb1e0889143477' THEN LIQR
-WHEN bridge."token" '\x222cf80a8514f8ce551c06d1b8d01db3678688ad' THEN DAWGS
-WHEN bridge."token" '\xaf6162dc717cfc8818efc8d6f46a41cf7042fcba' THEN USV
-WHEN bridge."token" '\xd451051d7d9f0b154ed25211094ec74036f49923' THEN wMEMO
-WHEN bridge."token" '\x8a65b987d9813f0a97446eda0de918b2573ae406' THEN FomoETH
-WHEN bridge."token" '\x0b15ddf19d47e6a86a56148fb4afffc6929bcb89' THEN IDIA
-WHEN bridge."token" '\xe8377a076adabb3f9838afb77bee96eac101ffb1' THEN MSU
-WHEN bridge."token" '\xb6d48fcef36e19681ee29896b19c1b6cbd1eab1b' THEN FAN
-WHEN bridge."token" '\x016cf83732f1468150d87dcc5bdf67730b3934d3' THEN AIRT
-WHEN bridge."token" '\x8623e66bea0dce41b6d47f9c44e806a115babae0' THEN NFTY
-WHEN bridge."token" '\x409e215738e31d8ab252016369c2dd9c2008fee0' THEN PAWTH
-WHEN bridge."token" '\xcf87d3d50a98a7832f5cfdf99ae1b88c7cfba4a7' THEN BIOS
-WHEN bridge."token" '\xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd' THEN LINK
-WHEN bridge."token" '\x14016e85a25aeb13065688cafb43044c2ef86784' THEN TUSD
-WHEN bridge."token" '\x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5' THEN CDS
-WHEN bridge."token" '\x7efabc2c92b20e0987af979ae9f87d508c5da1c9' THEN wsSPA
-WHEN bridge."token" '\xac51066d7bec65dc4589368da368b212745d63e8' THEN ALICE
-WHEN bridge."token" '\x767b28a30e3a15dcece7bff7a020adfde9d19cf8' THEN MRXb
-WHEN bridge."token" '\x471f883bbd2c705f418ba3d6667ef05342c4ee05' THEN SPONGS
-WHEN bridge."token" '\x61ed1c66239d29cc93c8597c6167159e8f69a823' THEN RSD
-WHEN bridge."token" '\xb2ea51baa12c461327d12a2069d47b30e680b69d' THEN SMCW
-WHEN bridge."token" '\xa8ea8d1d7a3e689ccc90dcecb437ab0674d5ec6f' THEN SHINJA
-WHEN bridge."token" '\xdc37fa1507c7697c0778d3a7d61b31dce7cbba70' THEN NIOX
-WHEN bridge."token" '\x5857c96dae9cf8511b08cb07f85753c472d36ea3' THEN FUSE
-WHEN bridge."token" '\x0a356f512f6fce740111ee04ab1699017a908680' THEN UFARM
-WHEN bridge."token" '\x0fe9778c005a5a6115cbe12b0568a2d50b765a51' THEN NFD
-WHEN bridge."token" '\xa1428370f540b4c4e319224165ecae513a391f77' THEN POND
-WHEN bridge."token" '\xe561ebd0d7f9b2bd81da6e7da655030dcb0a926b' THEN ROAR
-WHEN bridge."token" '\x09a6c44c3947b69e2b45f4d51b67e6a39acfb506' THEN UNCX
-WHEN bridge."token" '\x0e8d5504bf54d9e44260f8d153ecd5412130cabb' THEN UNCL
-WHEN bridge."token" '\xe22b9152914986e4020a00ab6ef510085c26c208' THEN KONO
-WHEN bridge."token" '\x0dea5ac2898e6aa637ece0db750fd6d35e460392' THEN nuBTC
-WHEN bridge."token" '\xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0' THEN BLAST
-WHEN bridge."token" '\x8f0528ce5ef7b51152a59745befdd91d97091d2f' THEN ALPACA
-WHEN bridge."token" '\x1deb45c74e0192d9272adf54e9a7519c48c2bd81' THEN AUR
-WHEN bridge."token" '\x38c84d5bbad726d465cf6a5349e41d6d7095faf7' THEN agEUR
-WHEN bridge."token" '\x0c9b7103e16f171f60448e039f48d3b50241fcbc' THEN EVX
-WHEN bridge."token" '\xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9' THEN Froyo
-WHEN bridge."token" '\x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef' THEN SMBR
-WHEN bridge."token" '\x887d9c01fff04022da9c6d64a65a481a9e5d1fca' THEN LEDU
-WHEN bridge."token" '\x5c865352f9012308378b1c74fe01d899f28e8fd9' THEN OCCT
-WHEN bridge."token" '\xc5326b32e8baef125acd68f8bc646fd646104f1c' THEN ZAP
-WHEN bridge."token" '\xea89199344a492853502a7a699cc4230854451b8' THEN ONI
-WHEN bridge."token" '\x74f996a2ed8b1370c2f12ce9d040a1d9c9254e6e' THEN BSPT
-WHEN bridge."token" '\x194d1d62d8d798fcc81a6435e6d13adf8bcc2966' THEN TM
-WHEN bridge."token" '\x747b1223b23e53070c54df355fac2e198aa54708' THEN WSYS
-WHEN bridge."token" '\x9aab0a9b3a2f7cf669f1385c48e0a063b93834bb' THEN XMETA
-WHEN bridge."token" '\x5ecfcced226ba9fccd8663e7b3263cbd8c84edb5' THEN XTR
-WHEN bridge."token" '\x6c7fc3fd4a9f1cfa2a69b83f92b9da7ec26240a2' THEN PAE
-WHEN bridge."token" '\x5f588efaf8eb57e3837486e834fc5a4e07768d98' THEN bMVL
-WHEN bridge."token" '\x95a1199eba84ac5f19546519e287d43d2f0e1b41' THEN RABBIT
-WHEN bridge."token" '\xdad3abce6fb87fa0355203b692723a7ee8aa9d63' THEN PLG
-WHEN bridge."token" '\xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b' THEN URUS
-WHEN bridge."token" '\xbe1a001fe942f96eea22ba08783140b9dcc09d28' THEN BETA
-WHEN bridge."token" '\xebd949aacfc681787d3d091fa2929e4413e0e4e1' THEN ACRE
-WHEN bridge."token" '\x15d1d8274277a2f4c1f45be70ab189a16ab15673' THEN MTC
-WHEN bridge."token" '\x766afcf83fd5eaf884b3d529b432ca27a6d84617' THEN BLID
-WHEN bridge."token" '\x50dfd52c9f6961bf94d1d5489ae4b3e37d2f1fe7' THEN ONX
-WHEN bridge."token" '\x81a4c8438b77221f192d8d25252afac62fecd58f' THEN BitANT
-WHEN bridge."token" '\x23b8683ff98f9e4781552dfe6f12aa32814924e8' THEN jEUR
-WHEN bridge."token" '\x426c72701833fddbdfc06c944737c6031645c708' THEN FINA
-WHEN bridge."token" '\x3a2927e68749dd6ad0a568d7c05b587863c0bc10' THEN NNT
-WHEN bridge."token" '\x886640149e31e1430fa74cc39725431eb82ddfb2' THEN $FORWARD
-WHEN bridge."token" '\x3708dea52a5846fd16d0060aab01c87bb5932b02' THEN ATEM
-WHEN bridge."token" '\xcd40f2670cf58720b694968698a5514e924f742d' THEN ODDZ
-WHEN bridge."token" '\x154a9f9cbd3449ad22fdae23044319d6ef2a1fab' THEN SKILL
-WHEN bridge."token" '\x27de370fe0498307e91047c9a60051d53b92114a' THEN GEM
-WHEN bridge."token" '\x3579dbcbc7d55a37f2b1c5540d3e1733b58388fe' THEN SGEM
-WHEN bridge."token" '\xf0c918b2a27746afc863d32a9a07b5cad3a0ef42' THEN GBOND
-WHEN bridge."token" '\x1935c03bb7dbc3623bd992ce599bc26bd30a43eb' THEN FS
-WHEN bridge."token" '\xc9e8c581d67fe5cc6217b2fa1b2d4d9cecb60fb2' THEN SGEM
-WHEN bridge."token" '\xa97b64afbb6d6811696caafd323ffc9ea983a7bb' THEN $MF
-WHEN bridge."token" '\x90ed8f1dc86388f14b64ba8fb4bbd23099f18240' THEN SDAO
-WHEN bridge."token" '\x30807d3b851a31d62415b8bb7af7dca59390434a' THEN RADIO
-WHEN bridge."token" '\x3b29e11fada25ec959d732684e783a4069f26cec' THEN 5TABLE
-WHEN bridge."token" '\x4ba0057f784858a48fe351445c672ff2a3d43515' THEN KALM
-WHEN bridge."token" '\x3fcca8648651e5b974dd6d3e50f61567779772a8' THEN POTS
-WHEN bridge."token" '\x7269d98af4aa705e0b1a5d8512fadb4d45817d5a' THEN SHI
-WHEN bridge."token" '\xf8fc63200e181439823251020d691312fdcf5090' THEN EXZO
-WHEN bridge."token" '\x9c71bb500dae9782965d660ef33c1e7c4a3d1f8a' THEN PX
-WHEN bridge."token" '\xa1faa113cbe53436df28ff0aee54275c13b40975' THEN ALPHA
-WHEN bridge."token" '\x4dcd4700b38ce6562730c27da557f6de819b347b' THEN CIFI
-WHEN bridge."token" '\x25b9d4b9535920194c359d2879db6a1382c2ff26' THEN TEN
-WHEN bridge."token" '\x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe' THEN OVR
-WHEN bridge."token" '\xffc71bb355770b5abcc33ff3e652f63a1dff442e' THEN VSN
-WHEN bridge."token" '\xfd81ef21ea7cf1dc00e9c6dd261b4f3be0341d5c' THEN DIBS
-WHEN bridge."token" '\x44754455564474a89358b2c2265883df993b12f0' THEN ZEE
-WHEN bridge."token" '\x7faaf8d4c411218415d9d3f82d56214658349dbb' THEN BTE
-WHEN bridge."token" '\xda00b89ea3d2d0b022c663793b3d47d5b02ec627' THEN GRAPE
-WHEN bridge."token" '\x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b' THEN DUET
-WHEN bridge."token" '\x80d04e44955aa9c3f24041b2a824a20a88e735a8' THEN MVC
-WHEN bridge."token" '\x6ea5f827130e81c6b82b6b852b7f0b505110e939' THEN MARK
-WHEN bridge."token" '\xf2572fdacf09bfae08ff7d35423870b5a8ac26b7' THEN PLATO
-WHEN bridge."token" '\x0b079b33b6e72311c6be245f9f660cc385029fc3' THEN APE
-WHEN bridge."token" '\xf0dcf7ac48f8c745f2920d03dff83f879b80d438' THEN GAMI
-WHEN bridge."token" '\x045c4324039da91c52c55df5d785385aab073dcf' THEN bCFX
-WHEN bridge."token" '\xeb29f65c4daeea6462a2f280e3bf418ec8b3da9b' THEN GREEN
-WHEN bridge."token" '\xca830317146bfdde71e7c0b880e2ec1f66e273ee' THEN GULL
-WHEN bridge."token" '\xfbcf80ed90856af0d6d9655f746331763efdb22c' THEN NT
-WHEN bridge."token" '\x4164a997b0b9a3de5e8ed35e59b015f9e892b7a9' THEN DEGEN
-WHEN bridge."token" '\x3c5e3d85dfe23302f9439dee89ee4ae3d57f619c' THEN CK
-WHEN bridge."token" '\x195de011a1f5bf44b64a9474c62da964f68cd34f' THEN bBzB
-WHEN bridge."token" '\xfeea0bdd3d07eb6fe305938878c0cadbfa169042' THEN 8PAY
-WHEN bridge."token" '\x632fbf85f77978437073a8ce5ceec29e3209514c' THEN vUNIT
-WHEN bridge."token" '\x3e0a7c7db7bb21bda290a80c9811de6d47781671' THEN BETS
-WHEN bridge."token" '\x4ef285c8cbe52267c022c39da98b97ca4b7e2ff9' THEN ORE
-WHEN bridge."token" '\x8c18ffd66d943c9b0ad3dc40e2d64638f1e6e1ab' THEN HER
-WHEN bridge."token" '\x6b1c8765c7eff0b60706b0ae489eb9bb9667465a' THEN SATA
-WHEN bridge."token" '\x3581a7b7be2ed2edf98710910fd05b0e8545f1db' THEN COR
-WHEN bridge."token" '\x489580eb70a50515296ef31e8179ff3e77e24965' THEN RADAR
-WHEN bridge."token" '\x3e63e9c8f2297e3c027f8444b4591e2583d8780b' THEN PLOT
-WHEN bridge."token" '\xba0626fdd269140fda8919b33c5585137daffed5' THEN CRAFT
-WHEN bridge."token" '\x54f85cdb537d5a5ebc76f55b13c6dbc3b6828d57' THEN HARL
-WHEN bridge."token" '\x31cdd9f5a6a1e39a38a6b073fc3fabe6cbfeac76' THEN PIGGY
-WHEN bridge."token" '\x72ee88374d8087eeb069510a79c7220d90dc4779' THEN ENK
-WHEN bridge."token" '\x3831dfef762f4f64261f2d875c710f90038578e4' THEN KALLY
-WHEN bridge."token" '\x0231f91e02debd20345ae8ab7d71a41f8e140ce7' THEN bwJUP
-WHEN bridge."token" '\x5c4bcc4dbaeabc7659f6435bce4e659314ebad87' THEN NTX
-WHEN bridge."token" '\x1104918312cc9ad88eadabe07b5110cae99583f6' THEN MIDA
-WHEN bridge."token" '\x5ae9604fea71d4916ecedb3af1df8c4903a064b7' THEN FACE
-WHEN bridge."token" '\x09a15e2ecc0306046826d95696c183d533c228df' THEN BXR
-WHEN bridge."token" '\xd52669712f253cd6b2fe8a8638f66ed726cb770c' THEN XCUR
-WHEN bridge."token" '\x4b5decb9327b4d511a58137a1ade61434aacdd43' THEN PKN
-WHEN bridge."token" '\x2a0da514b2281b12a9b93ff1b5ed738a91e0da22' THEN SNO Token
-WHEN bridge."token" '\x09e889bb4d5b474f561db0491c38702f367a4e4d' THEN CLV
-WHEN bridge."token" '\x1354e1c028ad93ed9992ee3bfd3ee5608489439c' THEN TFBX
-WHEN bridge."token" '\xd9025e25bb6cf39f8c926a704039d2dd51088063' THEN CYT
-WHEN bridge."token" '\x33b48893b8f119fb45f431b36f830a9584804201' THEN COWS
-WHEN bridge."token" '\xf9a2d40589271be17612a3f57a9028a568f56e3d' THEN DoKEN
-WHEN bridge."token" '\x61fa01129ac0bb124d1c60dc9f735c6c579a858b' THEN KTE
-WHEN bridge."token" '\x9f080368661261ee5d03bbd2b2f09d5489225e2c' THEN STRIP
-WHEN bridge."token" '\x5e54301415546401626036a10f85f9f06de8dffd' THEN SPORT
-WHEN bridge."token" '\x4317708ad04d36afdb0e7a5d62154d896b01b392' THEN FLOKIFM
-WHEN bridge."token" '\x2c717059b366714d267039af8f59125cadce6d8c' THEN MHUNT
-WHEN bridge."token" '\x0baf6f41514812880212b2e2bb59fe3ca147d6a2' THEN CREAM
-WHEN bridge."token" '\xd0c5bad763432f22ebf21da947395d8fc2d11145' THEN LUXY
-WHEN bridge."token" '\x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3' THEN MOR
-WHEN bridge."token" '\x01fb70ea8acfdd5435c8e8bd1531d96d57ced0ec' THEN SELECT
-WHEN bridge."token" '\x1d3437e570e93581bd94b2fd8fbf202d4a65654a' THEN NBT
-WHEN bridge."token" '\x3b808db06074e1bae5dfe0d970dc7b891ee26cac' THEN ZO
-WHEN bridge."token" '\xe336a772532650bc82828e9620dd0d5a3b78bfe8' THEN DGMV
-WHEN bridge."token" '\x7588df009c3d82378be6ab81f2108fa963c10fc8' THEN FITFI
-WHEN bridge."token" '\x496e80cad8712025dafc5b2c96fc36c395af684a' THEN BSGG
-WHEN bridge."token" '\xd68f75b3aa54bee23e6ac3ad4b3c28d3e6319725' THEN MAGIK
-WHEN bridge."token" '\x8b3cc638431b34014fa3de174a25b18b364a7cc5' THEN WINE
-WHEN bridge."token" '\x0551b4c819bc50101f6961f29cfb277aa998cebc' THEN DSHARE
-WHEN bridge."token" '\xe6906717f129427eebade5406de68cadd57aa0c0' THEN MIT
-WHEN bridge."token" '\xf77351d8f4ee853135961a936bb8d2e4ffa75f9d' THEN ROOBEE
-WHEN bridge."token" '\x2c094f5a7d1146bb93850f629501eb749f6ed491' THEN CROX
-WHEN bridge."token" '\xe74d730c3ddeada91eadd74e0ef49dc6f9b56603' THEN OGX
-WHEN bridge."token" '\x854a63b35b70a7becbed508ff0b6ff5038d0c917' THEN MNTO
-WHEN bridge."token" '\x41065e3428188ba6eb27fbdde8526ae3af8e3830' THEN SWASH
-WHEN bridge."token" '\x47e3d11ba6fbbb317f92d542ba875562132e47c9' THEN HDO
-WHEN bridge."token" '\xcdd6494aeb193c8d5541b5b9c5e72a3809a98fdc' THEN $DEWO
-WHEN bridge."token" '\xddc3d26baa9d2d979f5e2e42515478bf18f354d5' THEN QI
-WHEN bridge."token" '\xa4c6f8e1be7418703934906057648fa92a6ddc34' THEN wsHUMP
-WHEN bridge."token" '\xe29f15d5efc30eb5e229538dc5aff2d751494c37' THEN Army
-WHEN bridge."token" '\x95f86c8eb9bdea0ea52659e6801ad8e7ca2b9283' THEN SEED
-WHEN bridge."token" '\x5fb4968fc85868df3ad2d6e59883a10570f01d18' THEN SHR
-WHEN bridge."token" '\xb5be8d87fce6ce87a24b90abdb019458a8ec31f9' THEN OBOT
-WHEN bridge."token" '\x85ba4988443bc8b39307eec67b8c488666cd5819' THEN VINCI
-WHEN bridge."token" '\x3e362283b86c1b45097cc3fb02213b79cf6211df' THEN CATCOIN
-WHEN bridge."token" '\x6451c6484d23889003c20be51819d6aa7dbd2b35' THEN PS1
-WHEN bridge."token" '\xcb73918ac58d0c90d71c7992637c61094c15305b' THEN SFT
-WHEN bridge."token" '\xe17915332d853093af2a35b0f7acb3dea8734f0d' THEN XOT
-WHEN bridge."token" '\xd17479997f34dd9156deef8f95a52d81d265be9c' THEN USDD
-WHEN bridge."token" '\xb86deb16e27ece0bcd5b3a616e58926458ba72e1' THEN XGEM
-WHEN bridge."token" '\x0acfc95a193009f1ea45b7faeef2d5e4a47c21b4' THEN VERSA
-WHEN bridge."token" '\x81e07cff8a9331ef2a837b15a3560fb186bf5e8d' THEN APP
-WHEN bridge."token" '\x62c3c2c714f934b5e2a7a3d225cc23fb279060c1' THEN LEVR
-WHEN bridge."token" '\x0e8c9611bc2fefb0a0adeb3f12ee7b11ab206c49' THEN PHI
-WHEN bridge."token" '\x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83' THEN TOR
-WHEN bridge."token" '\x1c6bc8e962427deb4106ae06a7fa2d715687395c' THEN Charge
-WHEN bridge."token" '\x7be9e596896b64c88e39b7e88f8dcedda79845c0' THEN BR
-WHEN bridge."token" '\xc04a23149efdf9a63697f3eb60705147e9f07ffd' THEN GENI
-WHEN bridge."token" '\xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24' THEN POLAR
-WHEN bridge."token" '\xf6134e74b7a4ee23a888436e53e77f83e62e8df8' THEN dYel
-WHEN bridge."token" '\xafaeb84415c1cd2bc99cd1f5f0b3090bae1beb6c' THEN BIG
-WHEN bridge."token" '\x82879886ed02d4f4b9a852f83df4ee510f81a950' THEN FAR
+WHEN bridge."token" =  '\xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68' THEN '$MANGA'
+WHEN bridge."token" =  '\x73ffdf2d2afb3def5b10bf967da743f2306a51db' THEN 'AGS'
+WHEN bridge."token" =  '\x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9' THEN 'AVA'
+WHEN bridge."token" =  '\xd1102332a213e21faf78b69c03572031f3552c33' THEN 'BTD'
+WHEN bridge."token" =  '\xbdc3b3639f7aa19e623a4d603a3fb7ab20115a91' THEN 'COC'
+WHEN bridge."token" =  '\xf4ed363144981d3a65f42e7d0dc54ff9eef559a1' THEN 'FARA'
+WHEN bridge."token" =  '\x82030cdbd9e4b7c5bb0b811a61da6360d69449cc' THEN 'FEVR'
+WHEN bridge."token" =  '\xb0e1fc65c1a741b4662b813eb787d369b8614af1' THEN 'IF'
+WHEN bridge."token" =  '\x6a46d878401f46b4c7f665f065e0667580e031ec' THEN 'IVN'
+WHEN bridge."token" =  '\x8e984e03ab35795c60242c902ece2450242c90e9' THEN 'KAMPAY'
+WHEN bridge."token" =  '\x3d0e22387ddfe75d1aea9d7108a4392922740b96' THEN 'LOUD'
+WHEN bridge."token" =  '\x36953b5ec00a13edceceb3af258d034913d2a79d' THEN 'MNFT'
+WHEN bridge."token" =  '\x041640ea980e3fe61e9c4ca26d9007bc70094c15' THEN 'PirateCoin☠'
+WHEN bridge."token" =  '\xc2c82622a7cb7159d44cea7e39843a495f2674de' THEN 'RISQ'
+WHEN bridge."token" =  '\x477bc8d23c634c154061869478bce96be6045d12' THEN 'SFUND'
+WHEN bridge."token" =  '\xfe3af7376e412a377358d5894c790bb3e00d0dc1' THEN 'SHARPEI'
+WHEN bridge."token" =  '\x5344c20fd242545f31723689662ac12b9556fc3d' THEN 'WKD'
+WHEN bridge."token" =  '\x4da996c5fe84755c80e108cf96fe705174c5e36a' THEN 'WOW'
+WHEN bridge."token" =  '\x2cd598b0513abdb52bdd92a1ab4670fc4578570f' THEN 'anyLTC'
+WHEN bridge."token" =  '\x2f3bca2631fff538b8a55207f6c2081457e229f7' THEN 'BUTTER'
+WHEN bridge."token" =  '\xa5342d72d04c133180f376753f90a4b2eee29bb3' THEN 'DMC'
+WHEN bridge."token" =  '\x232d9a35f3e0bfa1b34901cba525fe916d2af6d5' THEN 'anyHT'
+WHEN bridge."token" =  '\x84ae7b0ff2bc523969fb3162e04149a419196f4b' THEN 'HYN'
+WHEN bridge."token" =  '\xcc9b1f919282c255eb9ad2c0757e8036165e0cad' THEN 'PTT'
+WHEN bridge."token" =  '\x910651F81a605a6Ef35d05527d24A72fecef8bF0' THEN 'WAR'
+WHEN bridge."token" =  '\xe7f04e0fbde4b16feb4a67747133f251e4dbccd7' THEN 'XNFT'
+WHEN bridge."token" =  '\xb43a66162bd23b499e49429c8e6de0f71e7ca302' THEN 'GG'
+WHEN bridge."token" =  '\x315ccd12b4af427c578a50b8abdc6cee936fa080' THEN 'SET'
+WHEN bridge."token" =  '\x405d64a2790ca1d37cda5e01983a68975c0c4ecf' THEN 'PETS'
+WHEN bridge."token" =  '\x2ede13880e11b19b7d6113a86ac7ac84ac651042' THEN 'anyCOMP'
+WHEN bridge."token" =  '\x1dc56f2705ff2983f31fb5964cc3e19749a7cba7' THEN 'anyDAI'
+WHEN bridge."token" =  '\x6f817a0ce8f7640add3bc0c1c2298635043c2423' THEN 'anyETH'
+WHEN bridge."token" =  '\x3af577f9d8c86ae8dbcbf51fe9836c9df825759d' THEN 'anyLINK'
+WHEN bridge."token" =  '\x5921dee8556c4593eefcfad3ca5e2f618606483b' THEN 'anyMTLX'
+WHEN bridge."token" =  '\xe6358c1d7a91915abba46d9855bd6418898fc091' THEN 'anyOMG'
+WHEN bridge."token" =  '\x51ba0b044d96c3abfca52b64d733603ccc4f0d4d' THEN 'SUPER'
+WHEN bridge."token" =  '\x6a8Fd46F88dBD7bdC2D536C604f811C63052ce0F' THEN 'TRVL'
+WHEN bridge."token" =  '\x99c5a2fcc97b59fe6d0b56e21e72b002f644123f' THEN 'anyUNI'
+WHEN bridge."token" =  '\xb46d67fb63770052a07d5b7c14ed858a8c90f825' THEN 'anyUSDT'
+WHEN bridge."token" =  '\x9883ae441105f815b472517389b979f031b5c87e' THEN 'anyYFI'
+WHEN bridge."token" =  '\xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa' THEN 'ANY'
+WHEN bridge."token" =  '\x4f6318e97011fe21fdfce3ffcf868d44e5f6994a' THEN 'anyFSN'
+WHEN bridge."token" =  '\x54261774905f3e6e9718f2abb10ed6555cae308a' THEN 'anyBTC'
+WHEN bridge."token" =  '\xbc7d6b50616989655afd682fb42743507003056d' THEN 'ACH'
+WHEN bridge."token" =  '\x5a68f06ef5e3f3b65ac466e74f4c61c3ab4d171b' THEN 'AGF'
+WHEN bridge."token" =  '\xcd9f28cfb602b9cace776d6b9a86646b662dde7b' THEN 'ALD'
+WHEN bridge."token" =  '\xe7b91602ce96a537cb729f484b8ddb3c1fecbb45' THEN 'ALICE'
+WHEN bridge."token" =  '\x7c598c96d02398d89fbcb9d41eab3df0c16f227d' THEN 'ATRI'
+WHEN bridge."token" =  '\x0f07ffd690dffd9a0ce8274116830cf62d086b5f' THEN 'ATTR'
+WHEN bridge."token" =  '\x0615dbba33fe61a31c7ed131bda6655ed76748b1' THEN 'BACON'
+WHEN bridge."token" =  '\x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9' THEN 'BADGER'
+WHEN bridge."token" =  '\x1F7216fdB338247512Ec99715587bb97BBf96eae' THEN 'bBADGER'
+WHEN bridge."token" =  '\x685b63cfe0179b3efb70a01dcb1d648549aa192d' THEN 'BDP'
+WHEN bridge."token" =  '\x84c882a4d8eb448ce086ea19418ca0f32f106117' THEN 'BFC'
+WHEN bridge."token" =  '\x56fb3fd352e5875c6f2771ca86f3fd361cc0d93e' THEN 'BITX'
+WHEN bridge."token" =  '\xc8f531700971fd1da43a52912ea53fc8da3b1b00' THEN 'BTRS'
+WHEN bridge."token" =  '\x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b' THEN 'CBC'
+WHEN bridge."token" =  '\x4f60a160d8c2dddaafe16fcc57566db84d674bd6' THEN 'CBK'
+WHEN bridge."token" =  '\x9366790d807f1fb7dd08c36ec0e8b8acbbc1354d' THEN 'COPYCAT'
+WHEN bridge."token" =  '\xab7a6fe97866aa1e5865f26b0d034a03128b7d80' THEN 'CRS'
+WHEN bridge."token" =  '\x812764fa37a4fd731a5d39f0e519b6b8d61e82a0' THEN 'DAO'
+WHEN bridge."token" =  '\xb361989412516d3414f100089cb89905ee7c896b' THEN 'DAX'
+WHEN bridge."token" =  '\x1fe5b870bca201db77bc0a8573fdebc35ee7a114' THEN 'DEC'
+WHEN bridge."token" =  '\xc325bd4c437a9a78eb8de486b5321253e650cf0d' THEN 'DEGEN'
+WHEN bridge."token" =  '\x373e768f79c820aa441540d254dca6d045c6d25b' THEN 'DERC'
+WHEN bridge."token" =  '\x9899a98b222fCb2f3dbee7dF45d943093a4ff9ff' THEN 'DFD'
+WHEN bridge."token" =  '\x58759dd469ae5631c42cf8a473992335575b58d7' THEN 'DHV'
+WHEN bridge."token" =  '\xab671eA900a8e3C959f5bD29CeB5e370Ba75bB9e' THEN 'DPI'
+WHEN bridge."token" =  '\x9e40868e8024aa52433ad3af311dba88ff8c86bd' THEN 'DUBI'
+WHEN bridge."token" =  '\x655ed56a36cedbbd24f45e564643b85e5c346a5d' THEN 'DWEB'
+WHEN bridge."token" =  '\x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14' THEN 'DYT'
+WHEN bridge."token" =  '\x43fbbe7a5397117b3da58722635832ba60905285' THEN 'eRSDL'
+WHEN bridge."token" =  '\x0f9c0a22fdef62f88c981188351ab531cfec00e6' THEN 'ETHA'
+WHEN bridge."token" =  '\x72449ed79841981b19d4552861007a63da3963fe' THEN 'ETHIX'
+WHEN bridge."token" =  '\x73ff5dd853cb87c144f463a555dce0e43954220d' THEN 'FABRIC'
+WHEN bridge."token" =  '\x29ced01c447166958605519f10dcf8b0255fb379' THEN 'FRAX'
+WHEN bridge."token" =  '\x70523d78a74f5533768075283bcb473ca01a8a4b' THEN 'FXS'
+WHEN bridge."token" =  '\x7dd300a2d3f881f44b33c96fb751746e9a0175a8' THEN 'GDAO'
+WHEN bridge."token" =  '\xc4726d59761a35e3a7e8d4eac631d034aa68ee3c' THEN 'HDI'
+WHEN bridge."token" =  '\x4e840aadd28da189b9906674b4afcb77c128d9ea' THEN 'HTB'
+WHEN bridge."token" =  '\x56f3878c54ad3cec18a380e788c5135bf617f5d6' THEN 'INCH'
+WHEN bridge."token" =  '\x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642' THEN 'INV'
+WHEN bridge."token" =  '\x91d025e6454813f6d2d1cb22a0e9fd62a2a0c237' THEN 'IQN'
+WHEN bridge."token" =  '\x627524d78B4fC840C887ffeC90563c7A42b671fD' THEN 'KEK'
+WHEN bridge."token" =  '\x1b41a1BA7722E6431b1A782327DBe466Fe1Ee9F9' THEN 'KFT'
+WHEN bridge."token" =  '\xd67de0e0a0fd7b15dc8348bb9be742f3c5850454' THEN 'KOIN'
+WHEN bridge."token" =  '\x0c5f149362ca17eac5d18e6912ab4f5aeabf88e6' THEN 'KUMA'
+WHEN bridge."token" =  '\x59d1bf15e3340dae7a5d893cc2296e2d939daacd' THEN 'LEGS'
+WHEN bridge."token" =  '\x9179089a11feddc9411236b63c8aeb25eb45e2ac' THEN 'LIEN'
+WHEN bridge."token" =  '\x9617857e191354dbea0b714d78bc59e57c411087' THEN 'LMT'
+WHEN bridge."token" =  '\x3cbC101E0AB2Ef6fed8EB9BEA24E7eC97bFca98F' THEN 'LMY'
+WHEN bridge."token" =  '\xadc29741a2bd5c32b66d14cec42b91b221bdfce7' THEN 'MBZ'
+WHEN bridge."token" =  '\xb72842d6f5fedf91d22d56202802bb9a79c6322e' THEN 'MOMA'
+WHEN bridge."token" =  '\x0ebd9537a25f56713e34c45b38f421a1e7191469' THEN 'MOOV'
+WHEN bridge."token" =  '\xf1cd2b6fc3876619786e9733eeed15518f127aa3' THEN 'MSHIBA'
+WHEN bridge."token" =  '\xb0731d50c681c45856bfc3f7539d5f61d4be81d8' THEN 'MVP'
+WHEN bridge."token" =  '\x2ff0b946a6782190c4fe5d4971cfe79f0b6e4df2' THEN 'MYST'
+WHEN bridge."token" =  '\x10b6edf7b2da48f6cd37e01be18d3c19120a46f2' THEN 'NXT'
+WHEN bridge."token" =  '\x3516141b1ac8751c2042a8A1BC411Ab8655464AC' THEN 'OCEAN'
+WHEN bridge."token" =  '\xa865197a84e780957422237b5d152772654341f3' THEN 'OLE'
+WHEN bridge."token" =  '\x19c91764a976ac6c1e2c2e4c5856f2939342a814' THEN 'PAR'
+WHEN bridge."token" =  '\x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d' THEN 'PBI'
+WHEN bridge."token" =  '\x2f2c7cc8a6d0a0f3e1edbd4ae571f9e40d09f4d6' THEN 'PEOPLE'
+WHEN bridge."token" =  '\x595c8481c48894771ce8fade54ac6bf59093f9e8' THEN 'POLK'
+WHEN bridge."token" =  '\x6e3bf2fff13e18413d3780f93753d6cff5aee3e1' THEN 'POLP'
+WHEN bridge."token" =  '\xfe77d71baf7a6cdabbd63a2ad1e0adb68ca64c06' THEN 'POWER'
+WHEN bridge."token" =  '\xc417b45e6090bd4201d9400b48f84c9f34f4d0a5' THEN 'PREMIA'
+WHEN bridge."token" =  '\xd21d29B38374528675C34936bf7d5Dd693D2a577' THEN 'PRQ'
+WHEN bridge."token" =  '\xAF00aAc2431b04EF6afD904d19B08D5146e3A9A0' THEN 'PRT'
+WHEN bridge."token" =  '\x27fdc52e83bfe163d620af68f54ddbec26bfacc8' THEN 'QRDO'
+WHEN bridge."token" =  '\xe9c64384deb0c2bf06d991a8d708c77eb545e3d5' THEN 'RDT'
+WHEN bridge."token" =  '\xd91b043ccf991d9ef4aa912554cf3fd8833e73fc' THEN 'REQ'
+WHEN bridge."token" =  '\x833f307ac507d47309fd8cdd1f835bef8d702a93' THEN 'REVV'
+WHEN bridge."token" =  '\xadec335a2e3881303a9b0203eb99de12202280df' THEN 'RNB'
+WHEN bridge."token" =  '\x99415856b37be9e75c0153615c7954f9ddb97a6e' THEN 'ROYA'
+WHEN bridge."token" =  '\xe95fd76cf16008c12ff3b3a937cb16cd9cc20284' THEN 'SETS'
+WHEN bridge."token" =  '\x01c3d9cbcf40482ba0d5206f63e3f04ef9e134d9' THEN 'SFI'
+WHEN bridge."token" =  '\x55af5865807b196bd0197e0902746f31fbccfa58' THEN 'SHO'
+WHEN bridge."token" =  '\x3f6a377ae52fd89fa7c47e4902a2b4861a2077f6' THEN 'SMAC'
+WHEN bridge."token" =  '\xBC2597D3f1F9565100582CDe02E3712D03B8B0f6' THEN 'SMBSWAP'
+WHEN bridge."token" =  '\x62334d3c6f48891deed7324abd0a3dcb23305f77' THEN 'SPDR'
+WHEN bridge."token" =  '\xae8627dB72d7Fc6241f2E2B87EB2BbC7cAfB1661' THEN 'STAR'
+WHEN bridge."token" =  '\x92299822a8be65c9390c905941ea34b9c530f247' THEN 'STF'
+WHEN bridge."token" =  '\xee9762352f63f4387af40d58291612067727457d' THEN 'SUPERBID'
+WHEN bridge."token" =  '\x9b17baadf0f21f03e35249e0e59723f34994f806' THEN 'SURE'
+WHEN bridge."token" =  '\x82443A77684A7Da92FdCB639c8d2Bd068a596245' THEN 'SWAP'
+WHEN bridge."token" =  '\xd20738760aededa73f6cd91a3d357746e0283a0e' THEN 'TANKS'
+WHEN bridge."token" =  '\xb614ad939e9477d5103baa32164db901214e2625' THEN 'TFT'
+WHEN bridge."token" =  '\xe7c9c6bc87b86f9e5b57072f907ee6460b593924' THEN 'TOWER'
+WHEN bridge."token" =  '\x554ce7e138581ee3408885e38213d169e7dd2017' THEN 'TRIX'
+WHEN bridge."token" =  '\x981e360161a37de663f232e6c800fc6a56fb536a' THEN 'URQA'
+WHEN bridge."token" =  '\x049d68029688eabf473097a2fc38ef61633a3c7a' THEN 'fUSDT'
+WHEN bridge."token" =  '\x22648c12acd87912ea1710357b1302c6a4154ebc' THEN 'WCHI'
+WHEN bridge."token" =  '\xA86Bfc69C99D04552808B425A68A06430FB9BdDF' THEN 'WSCRT'
+WHEN bridge."token" =  '\x582c12b30f85162fa393e5dbe2573f9f601f9d91' THEN 'XMT'
+WHEN bridge."token" =  '\xd3b71117e6c1558c1553305b44988cd944e97300' THEN 'YEL'
+WHEN bridge."token" =  '\x2442afe6cf6958bf6a026bce5d9c6cc07e03a6c9' THEN 'YFL'
+WHEN bridge."token" =  '\x6633c083f54bb65f702f9f276319bb24b65fec18' THEN 'YFT'
+WHEN bridge."token" =  '\x9036398c00f8e021c2b1818855e2df20b0e17005' THEN 'ZLA'
+WHEN bridge."token" =  '\x2cf51e73c3516f3d86e9c0b4de0971dbf0766fd4' THEN 'ABYSS'
+WHEN bridge."token" =  '\x639a647fbe20b6c8ac19e48e2de44ea792c62c5c' THEN 'acBTC'
+WHEN bridge."token" =  '\x976e33b07565b0c05b08b2e13affd3113e3d178d' THEN 'AGA'
+WHEN bridge."token" =  '\xf44fb887334fa17d2c5c0f970b5d320ab53ed557' THEN 'ALN'
+WHEN bridge."token" =  '\x1fe4751d9bdabac8d90067056cb45ab6823d2c12' THEN 'APN'
+WHEN bridge."token" =  '\x7b2223aa112c08356b10e4675ce32724a10fac51' THEN 'ARMOR'
+WHEN bridge."token" =  '\x1ac0d76f11875317f8a7d791db94cdd82bd02bd1' THEN 'AST'
+WHEN bridge."token" =  '\x3028b4395f98777123c7da327010c40f3c7cc4ef' THEN 'AUC'
+WHEN bridge."token" =  '\x0aaef3db5d2847b231468658001c278ee892b7e8' THEN 'BAB'
+WHEN bridge."token" =  '\x47eaf5f54d79d5c2b6537a90a0c58a534ab51c8c' THEN 'BAO'
+WHEN bridge."token" =  '\x721692d13fb70f499e8678ede56bb45e4e320f48' THEN 'BART'
+WHEN bridge."token" =  '\x8683e604cdf911cd72652a04bf9d571697a86a60' THEN 'BCDT'
+WHEN bridge."token" =  '\x9611579c926294b0e29E5371A81a3e463650Be17' THEN 'BCP'
+WHEN bridge."token" =  '\x5986D5c77c65e5801a5cAa4fAE80089f870A71dA' THEN 'bDIGG'
+WHEN bridge."token" =  '\x0b32357430fe98c24b2b245b815af68bc9ecfdad' THEN 'BEPRO'
+WHEN bridge."token" =  '\xad260f380c9a30b1d60e4548a75010ede630b665' THEN 'BiFi'
+WHEN bridge."token" =  '\x518445f0db93863e5e93a7f70617c05afa8048f1' THEN 'BITT'
+WHEN bridge."token" =  '\xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2' THEN 'BLACK'
+WHEN bridge."token" =  '\x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563' THEN 'BONDLY'
+WHEN bridge."token" =  '\x702d161ed480e4a367a5810a6086074b791cf6a0' THEN 'BSKT'
+WHEN bridge."token" =  '\xa7748f52273e11c0cb2edfa5128385453740ce20' THEN 'BSP'
+WHEN bridge."token" =  '\xe251f9bc3e1ccb247847d3af28c4fa9b9c180a47' THEN 'BTAP'
+WHEN bridge."token" =  '\x6fefd97f328342a8a840546a55fdcfee7542f9a8' THEN 'BTBS'
+WHEN bridge."token" =  '\xc53611ae47602c7b92A0766FcB65DE91aC4D904b' THEN 'BUSD'
+WHEN bridge."token" =  '\x6a545f9c64d8f7B957D8D2e6410B52095A9E6c29' THEN 'CFi'
+WHEN bridge."token" =  '\x4c888e116d57a32f84865f3789dcb131fdc9fab6' THEN 'CIRUS'
+WHEN bridge."token" =  '\xa688223dffd18097edd29e1ace08e6b6940b96d6' THEN 'COC'
+WHEN bridge."token" =  '\xc6fd4c36a822d43283b79cce07d015a1faf7b321' THEN 'COIIN'
+WHEN bridge."token" =  '\xa4b6573c9ae09d81e4d1360e6402b81f52557098' THEN 'COR'
+WHEN bridge."token" =  '\xcaf5191fc480f43e4df80106c7695eca56e48b18' THEN 'DEP'
+WHEN bridge."token" =  '\x3c1748d647e6a56b37b66fcd2b5626d0461d3aa0' THEN 'DNXC'
+WHEN bridge."token" =  '\x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255' THEN 'DON'
+WHEN bridge."token" =  '\x7837fd820ba38f95c54d6dac4ca3751b81511357' THEN 'DOSE'
+WHEN bridge."token" =  '\xFa850EcA95C34aa7dcd4213868eAd3ec8927416F' THEN 'DRGN'
+WHEN bridge."token" =  '\xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98' THEN 'DTH'
+WHEN bridge."token" =  '\x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8' THEN 'DUCK'
+WHEN bridge."token" =  '\xac118686565af7393b0843587d483cbded9c3baf' THEN 'EDDA'
+WHEN bridge."token" =  '\x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743' THEN 'FARM'
+WHEN bridge."token" =  '\x4d338614FC25aFE6edf3994f331b4BAd32fb3c6A' THEN 'FAST'
+WHEN bridge."token" =  '\x25a528af62e56512a19ce8c3cab427807c28cc19' THEN 'FORM'
+WHEN bridge."token" =  '\xc04e039ae8587e71f8024b36d630f841cc2106cc' THEN 'FRY'
+WHEN bridge."token" =  '\x9bA4c78b048EEed69f4eD3CFddeda7B51BAF7cA8' THEN 'GS'
+WHEN bridge."token" =  '\x64d5baf5ac030e2b7c435add967f787ae94d0205' THEN 'GTON'
+WHEN bridge."token" =  '\x0e37d70b51ffa2b98b4d34a5712c5291115464e3' THEN 'IQ'
+WHEN bridge."token" =  '\x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e' THEN 'KEX'
+WHEN bridge."token" =  '\x772722b55cdc2a086abd064267a17855eb15e8b3' THEN 'KST'
+WHEN bridge."token" =  '\xdae6c2a48bfaa66b43815c5548b10800919c993e' THEN 'KTN'
+WHEN bridge."token" =  '\xc2c23a86def9e9f5972a633b3d25f7ecbfa5e575' THEN 'LAYER'
+WHEN bridge."token" =  '\x1cdee2f21c066848a8a135e19f5f302ca29f1f69' THEN 'LEVL'
+WHEN bridge."token" =  '\x323a07F929F7c4DB7631866Af151248ae3912D98' THEN 'LIX'
+WHEN bridge."token" =  '\xc32bb619966b9a56cf2472528a36fd099ce979e0' THEN 'MATRIX'
+WHEN bridge."token" =  '\x21A0433662C36028E0bb9537ccD768d7c0017B48' THEN 'MAX'
+WHEN bridge."token" =  '\x29DfD3d644b18e0345EED3a3C94b4Efe35F2771b' THEN 'METRIC'
+WHEN bridge."token" =  '\x37bdFd6eD491Ee0E0fe2ce49de2cb573880E3734' THEN 'MFI'
+WHEN bridge."token" =  '\x336f5a68fd46a25056a6c1d9c06072c691486acc' THEN 'MIMIR'
+WHEN bridge."token" =  '\x1351ab0323b1127e1cfb8406adf87ca88a5a4ff6' THEN 'MIX'
+WHEN bridge."token" =  '\x4518231a8fdf6ac553b9bbd51bbb86825b583263' THEN 'MLT'
+WHEN bridge."token" =  '\x73f059db0182dc2ed716d028e1b13033cfcbf63b' THEN 'MM'
+WHEN bridge."token" =  '\xd4fbc57b6233f268e7fba3b66e62719d74deecbc' THEN 'MOD'
+WHEN bridge."token" =  '\xBfdcce6ab5533A8b285a86116C957808e118c3b6' THEN 'MYM'
+WHEN bridge."token" =  '\x80a16016cc4a2e6a2caca8a4a498b1699ff0f844' THEN 'NEXT'
+WHEN bridge."token" =  '\x9824aec2bd455d921303017f9600a589e6765c15' THEN 'NFTA'
+WHEN bridge."token" =  '\x5774b2fc3e91af89f89141eacf76545e74265982' THEN 'NFTY'
+WHEN bridge."token" =  '\xeaF26191ac1D35AE30Baa19a5ad5558DD8156Aef' THEN 'NORD'
+WHEN bridge."token" =  '\x5d47baba0d66083c52009271faf3f50dcc01023c' THEN 'ORME'
+WHEN bridge."token" =  '\xc28ea768221f67b6a1fd33e6aa903d4e42f6b177' THEN 'PAPER'
+WHEN bridge."token" =  '\xe9b9c1c38dab5eab3b7e2ad295425e89bd8db066' THEN 'PCNT'
+WHEN bridge."token" =  '\x790cfdc6ab2e0ee45a433aac5434f183be1f6a20' THEN 'PLR'
+WHEN bridge."token" =  '\xe8647ea19496e87c061bbad79f457928b2f52b5a' THEN 'POP'
+WHEN bridge."token" =  '\xfb288d60d3b66f9c3e231a9a39ed3f158a4269aa' THEN 'PPAY'
+WHEN bridge."token" =  '\xe6bf0e14e33a469f2b0640b53949a9f90e675135' THEN 'PRARE'
+WHEN bridge."token" =  '\xd9e8d20bde081600fac0d94b88eafaddce55aa43' THEN 'PUSSY'
+WHEN bridge."token" =  '\xb235163f7f567b97d33775bfde6811e43212c098' THEN 'QKC'
+WHEN bridge."token" =  '\x277be44551a8c4d4004e2091ff7d3f69be21782f' THEN 'RAMP'
+WHEN bridge."token" =  '\x0a3a21356793b49154fd3bbe91cbc2a16c0457f5' THEN 'RFOX'
+WHEN bridge."token" =  '\x921f99719eb6c01b4b8f0ba7973a7c24891e740a' THEN 'RSD'
+WHEN bridge."token" =  '\xbb10c3ba37b4da01a70d6f3f456c5323a11a76fb' THEN 'SCA'
+WHEN bridge."token" =  '\xD8a1734945b9Ba38eB19a291b475E31F49e59877' THEN 'SHARD'
+WHEN bridge."token" =  '\x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e' THEN 'SHEESHA'
+WHEN bridge."token" =  '\xbfc044a234e45412ecfec2cd6aae2dd0c083a7cd' THEN 'SIG'
+WHEN bridge."token" =  '\xb0b2ef34d412d73b0ff90a709d1779a20655165a' THEN 'SKT'
+WHEN bridge."token" =  '\x4b27cd6e6a5e83d236ead376d256fe2f9e9f0d2e' THEN 'SKYRIM'
+WHEN bridge."token" =  '\xea8c5b9c537f3ebbcc8f2df0573f2d084e9e2bdb' THEN 'SMDX'
+WHEN bridge."token" =  '\xbd83010eb60f12112908774998f65761cf9f6f9a' THEN 'STARS'
+WHEN bridge."token" =  '\x04ae5cb48B8f968ED821972c5480b5B850f55554' THEN 'STFI'
+WHEN bridge."token" =  '\x461d52769884ca6235b685ef2040f47d30c94eb5' THEN 'STN'
+WHEN bridge."token" =  '\x2c961ff9b386b597abc58a56f3ec63e313cada76' THEN 'SUKU'
+WHEN bridge."token" =  '\xfa9343c3897324496a05fc75abed6bac29f8a40f' THEN 'Titan'
+WHEN bridge."token" =  '\x9b4bdddaeb68d85b0848bab7774e6855439fd94e' THEN 'TKING'
+WHEN bridge."token" =  '\xbbeb90cfb6fafa1f69aa130b7341089abeef5811' THEN 'UBXT'
+WHEN bridge."token" =  '\xb3e589d2983a7432064842b267c8f5b78c4820ba' THEN 'UMAD'
+WHEN bridge."token" =  '\xd185c16756873b907df064bd7b4815839de4e6b9' THEN 'UNISTAKE'
+WHEN bridge."token" =  '\xf915fdda4c882731c0456a4214548cd13a822886' THEN 'UNV'
+WHEN bridge."token" =  '\x7af3f80c5788a9f83800d308be671bdd3c0db796' THEN 'UOP'
+WHEN bridge."token" =  '\x2210502051221a600d3653eccc899eceea11a0fd' THEN 'VALX'
+WHEN bridge."token" =  '\xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4' THEN 'VID'
+WHEN bridge."token" =  '\xd0660cd418a64a1d44e9214ad8e459324d8157f1' THEN 'WOOFY'
+WHEN bridge."token" =  '\xf7b38053a4885c99279c4955cb843797e04455f8' THEN 'WQT'
+WHEN bridge."token" =  '\xef1d7562a49ac98ba22f5cbeae28ce1ba0238578' THEN 'ZHT'
+WHEN bridge."token" =  '\xc94595b56e301f3ffedb8ccc2d672882d623e53a' THEN 'ACY'
+WHEN bridge."token" =  '\x4ec16da4c9007462de151c0da9f5426c69978a7b' THEN 'AGAr'
+WHEN bridge."token" =  '\x765277eebeca2e31912c9946eae1021199b39c61' THEN 'AMP'
+WHEN bridge."token" =  '\x0ffccbff59bffa90bc27e41a362839947bb11f80' THEN 'ANGLE'
+WHEN bridge."token" =  '\x7f295cbaae4ee39e723e1a4bdeb0ce7a381e56a9' THEN 'ARV'
+WHEN bridge."token" =  '\xebaffc2d2ea7c66fb848c48124b753f93a0a90ec' THEN 'ASIA'
+WHEN bridge."token" =  '\x6e2a5ea25b161befa6a8444c71ae3a89c39933c6' THEN 'B2M'
+WHEN bridge."token" =  '\x83085138ED8A96eC0Cbd2013DDfe1eBB975940cc' THEN 'BAC'
+WHEN bridge."token" =  '\x5e23bea955bc322f2894d94faceca744bb5c3cf9' THEN 'BASv2'
+WHEN bridge."token" =  '\xa873e87c2c935fa11c72003231a2eee7d391ce5f' THEN 'BILL'
+WHEN bridge."token" =  '\xde69c05e8121ef0db29c3d9ceceda6ef6b606d0c' THEN 'BITE'
+WHEN bridge."token" =  '\x40d4c6ceca870a0439dc0232d40cf8be8b425baf' THEN 'BMI'
+WHEN bridge."token" =  '\xDed6A27DEBE293d373Bc4bFed4aE8D70fbc80001' THEN 'BOOST'
+WHEN bridge."token" =  '\x374c1135911602a13ee041e6e6e848a14fa62320' THEN 'BTB'
+WHEN bridge."token" =  '\x5478a575ece4fb4768d1d43edf5826cfe1c6225a' THEN 'BT'
+WHEN bridge."token" =  '\xde2f7e3c7fbf2d1a68fb7f64acfc05e6d5d7dd83' THEN 'C4G3'
+WHEN bridge."token" =  '\x021750e46a47B2A02f4f860C93DcC774b1abA1d5' THEN 'CHART'
+WHEN bridge."token" =  '\xe25d77fedeeda321006bea62727cc3b67882b14e' THEN 'CLH'
+WHEN bridge."token" =  '\x2406dce4da5ab125a18295f4fb9fd36a0f7879a2' THEN 'CPD'
+WHEN bridge."token" =  '\x5a4fb10e7c4cbb9a2b9d9a942f9a875ebd3489ea' THEN 'CRBN'
+WHEN bridge."token" =  '\x1a056a5fcbbe5ad69793cea8569c6dba33e4080a' THEN 'CRD'
+WHEN bridge."token" =  '\x7e7fd06a447b4b438170a80dd53b2f785d9db825' THEN 'CTO'
+WHEN bridge."token" =  '\xd6cce248263ea1e2b8cb765178c944fc16ed0727' THEN 'CTR'
+WHEN bridge."token" =  '\x5f2110985f641a139c6b48bae7adac8f46b93d89' THEN 'DAI'
+WHEN bridge."token" =  '\xe91a8d2c584ca93c7405f15c22cdfe53c29896e3' THEN 'DEXT'
+WHEN bridge."token" =  '\xe1e66e037dc20247c2fabda5ec89c911e68724e7' THEN 'DFX'
+WHEN bridge."token" =  '\x5E0691Ba91E21f3FDc88a0550Aa4f7304eD89b5C' THEN 'DGCL'
+WHEN bridge."token" =  '\x1861c9058577c3b48e73d91d6f25c18b17fbffe0' THEN 'DSLA'
+WHEN bridge."token" =  '\xa8f47fdb7ef480abe45747092f79cfeb7cf2c2f3' THEN 'DVD'
+WHEN bridge."token" =  '\x05409a4df9f5e2407642cc3f29e90d3589366bf2' THEN 'EJS'
+WHEN bridge."token" =  '\x37807d4fbeb84124347b8899dd99616090d3e304' THEN 'eLunr'
+WHEN bridge."token" =  '\x564bEf31ec942Ffe1Bff250786f76a5c5141B9f3' THEN 'eQUAD'
+WHEN bridge."token" =  '\x245d3238cbbe03f9b8e1bff4709d1ebdf22ced4b' THEN 'FEG'
+WHEN bridge."token" =  '\x58a4e4f9f0bd1bfc2fe287493a130649f349255a' THEN 'FERA'
+WHEN bridge."token" =  '\x3053ad3b31600074e9a90440770f78d5e8fc5a54' THEN 'FONT'
+WHEN bridge."token" =  '\xd9ea58350bf120e2169a35fa1afc31975b07de01' THEN 'GAINS'
+WHEN bridge."token" =  '\xfd5eb9ad72a3fa9ab28007192d58279a21d5b6c8' THEN 'GLDY'
+WHEN bridge."token" =  '\xa4fffc757e8c4f24e7b209c033c123d20983ad40' THEN 'HOGE'
+WHEN bridge."token" =  '\xda8929a6338f408cc78c1845fb4f71bffd2cfcfb' THEN 'HSF'
+WHEN bridge."token" =  '\xf16e81dce15B08F326220742020379B855B87DF9' THEN 'ICE'
+WHEN bridge."token" =  '\x314593fa9a2fa16432913dbccc96104541d32d11' THEN 'KIT'
+WHEN bridge."token" =  '\xacbaf478216fbb2eb3607ec2c1a6b5d434bded2f' THEN 'KOBE'
+WHEN bridge."token" =  '\xa4050aa9b76ccdae1a6a8b2f3e8627cdc1546d86' THEN 'LEPA'
+WHEN bridge."token" =  '\xeff6fcfbc2383857dd66ddf57efffc00d58b7d9d' THEN 'LIMIT'
+WHEN bridge."token" =  '\x14a9a94e555fdd54c21d7f7e328e61d7ebece54b' THEN 'LOOT'
+WHEN bridge."token" =  '\xcfb24d3c3767364391340a2e6d99c64f1cbd7a3d' THEN 'LPOOL'
+WHEN bridge."token" =  '\x51688BF5B9c87C61af3fe18c94281cfBc872A119' THEN 'LUA'
+WHEN bridge."token" =  '\xf5c8054efc6acd25f31a17963462b90e82fdecad' THEN 'MDA'
+WHEN bridge."token" =  '\x3878110877052425282a7d4a712b1d8a45ad04cb' THEN 'MEGASHIB'
+WHEN bridge."token" =  '\x7c96eD505D77f82b1229220D96ee9fEeEA7c1FE7' THEN 'MITx'
+WHEN bridge."token" =  '\xbf05279f9bf1ce69bbfed670813b7e431142afa4' THEN 'MM'
+WHEN bridge."token" =  '\x6ff0609046a38d76bd40c5863b4d1a2dce687f73' THEN 'MUSIC'
+WHEN bridge."token" =  '\x03a99830a543f35bf9c2c8a56d48b1dbe9a45f4e' THEN 'MWAT'
+WHEN bridge."token" =  '\xacb5f391f51e15418845bec74781bdd1cbe0fd89' THEN 'MYTH'
+WHEN bridge."token" =  '\x758d08864fb6cce3062667225ca10b8f00496cc2' THEN 'NAOS'
+WHEN bridge."token" =  '\x1a6990fcce4fe96be417d48f60b7ea5cc329de80' THEN 'NIF'
+WHEN bridge."token" =  '\xede1b2f557942c9132c0ea1b7f20a63f711982d4' THEN 'nomad'
+WHEN bridge."token" =  '\x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2' THEN 'OCT'
+WHEN bridge."token" =  '\xebd49b26169e1b52c04cfd19fcf289405df55f80' THEN 'ORBS'
+WHEN bridge."token" =  '\x749fec660a245f8b4c3b9bbc8a1ebf1c22863c8e' THEN 'PARETO'
+WHEN bridge."token" =  '\xa58663faef461761e44066ea26c1fcddf2927b80' THEN 'PDOGE'
+WHEN bridge."token" =  '\xf4a71809FD0d5715a9685cAADb6f0D8BeAFdF8Af' THEN 'PFI'
+WHEN bridge."token" =  '\x3b79a28264fc52c7b4cea90558aa0b162f7faf57' THEN 'PIN'
+WHEN bridge."token" =  '\x68edf56289134b41c6583c0e8fc29fbd7828aca4' THEN 'PKEX'
+WHEN bridge."token" =  '\x7e624fa0e1c4abfd309cc15719b7e2580887f570' THEN 'POLS'
+WHEN bridge."token" =  '\x273a4ffceb31b8473d51051ad2a2edbb7ac8ce02' THEN 'POL'
+WHEN bridge."token" =  '\x6ab899f7c0a1bd4e9cab0501683ae90db34be1ce' THEN 'PPBLZ'
+WHEN bridge."token" =  '\x3758428802fbeab2858d58aec5ff5176df464edd' THEN 'PPDEX'
+WHEN bridge."token" =  '\x7961ade0a767c0e5b67dd1a1f78ba44f727642ed' THEN 'QUIDD'
+WHEN bridge."token" =  '\x65e66a61d0a8f1e686c2d6083ad611a10d84d97a' THEN 'RAZE'
+WHEN bridge."token" =  '\x58a746553fff813f4301bc5605aaafc487b5328b' THEN 'RAZOR'
+WHEN bridge."token" =  '\xA01000C52b234a92563BA61e5649b7C76E1ba0f3' THEN 'ROCKS'
+WHEN bridge."token" =  '\x7ea2be2df7ba6e54b1a9c70676f668455e329d29' THEN 'RULER'
+WHEN bridge."token" =  '\x3c6dad0475d3a1696b359dc04c99fd401be134da' THEN 'SAITO'
+WHEN bridge."token" =  '\x18ac7323615f1fabf332ff4afca735eaf6dd9668' THEN 'SOAR'
+WHEN bridge."token" =  '\xc073c4ed65622a9423b5e5bde2bfc8b81ebc471c' THEN 'SOLV'
+WHEN bridge."token" =  '\x6ffd446cef7e60b7758e0ed836035738a8d18aa1' THEN '✨'
+WHEN bridge."token" =  '\x04068da6c83afcfa0e13ba15a6696662335d5b75' THEN 'STAKE'
+WHEN bridge."token" =  '\x1f63670f1fac519ec57fca17b986871d6cf7b52f' THEN 'STA'
+WHEN bridge."token" =  '\x8497842420cfdbc97896c2353d75d89fc8d5be5d' THEN 'STND'
+WHEN bridge."token" =  '\x249463c47e10f81228f90c79d2e01608b0e91155' THEN 'STR'
+WHEN bridge."token" =  '\x84151755679590d3c79347315c5dbeff031f1b98' THEN 'Suter'
+WHEN bridge."token" =  '\x7f12a37b6921ffac11fab16338b3ae67ee0c462b' THEN 'TNODE'
+WHEN bridge."token" =  '\x9a6d5c2e0376572f214a35f832740e412932d277' THEN 'TOMOE'
+WHEN bridge."token" =  '\x9f4298f2893e756030515f7b0dc85065cfae674b' THEN 'UMI'
+WHEN bridge."token" =  '\xf48fbc59e6b45cff26a7608ff7d5a22ebc40df7f' THEN 'UNN'
+WHEN bridge."token" =  '\xf040e8c248788522421575396b6549e3617d67ef' THEN 'USDC'
+WHEN bridge."token" =  '\x4a0a3902e091cdb3aec4279a6bfac50297f0a79e' THEN 'VERA'
+WHEN bridge."token" =  '\x873801ae2ff12d816db9a7b082f5796bec64c82c' THEN 'VEST'
+WHEN bridge."token" =  '\xe069af87450fb51fc0d0e044617f1c134163e591' THEN 'VPP'
+WHEN bridge."token" =  '\x332730a4f6e03d9c55829435f10360e13cfa41ff' THEN 'VSP'
+WHEN bridge."token" =  '\x070625d5A14706c30b8E2264753B2f5D035Bc1B4' THEN 'VTX'
+WHEN bridge."token" =  '\x5621b5a3f4a8008c4ccdd1b942b121c8b1944f1f' THEN 'XED'
+WHEN bridge."token" =  '\x4a080377f83d669d7bb83b3184a8a5e61b500608' THEN 'XEND'
+WHEN bridge."token" =  '\x99889048584c710b3a2383e322dd3841e2c77d34' THEN 'XIV'
+WHEN bridge."token" =  '\xc0a51ac9d548bdcde53fa59448029e41a39feb20' THEN 'XRT'
+WHEN bridge."token" =  '\x264c1383ea520f73dd837f915ef3a732e204a493' THEN 'ZCX'
+WHEN bridge."token" =  '\x6e6bed1409e7c1eebec4b0df0419b32e0c6314ba' THEN 'ZDEX'
+WHEN bridge."token" =  '\x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb' THEN 'IM'
+WHEN bridge."token" =  '\x9e0846677eA91Ea5308D3F525C09E782ef17dA21' THEN 'KIF'
+WHEN bridge."token" =  '\x1c019af5b059f4473289c1ddeea02cc4993478ea' THEN 'KSF'
+WHEN bridge."token" =  '\x8ad96050318043166114884b59e2fc82210273b3' THEN 'NEX'
+WHEN bridge."token" =  '\xce57283ce0e7446364e0bc479b5de5d74b5e0ffc' THEN 'PKG'
+WHEN bridge."token" =  '\xF8aCF86194443DCde55fc5B9e448e183c290D8Cb' THEN 'bCOLX'
+WHEN bridge."token" =  '\x70d6b3cfaabd6c0eb6b99b80c6540fa754a72c40' THEN 'JUST'
+WHEN bridge."token" =  '\x6f9c26fa731c7ea4139fa669962cf8f1ce6c8b0b' THEN 'Shiba'
+WHEN bridge."token" =  '\xD98274562eb6e18f9DeecFF23E8164fF83861a6d' THEN 'SPIRIT'
+WHEN bridge."token" =  '\x3447ac4ad1153ba762034ee7b8ac637c553a9134' THEN 'TCS'
+WHEN bridge."token" =  '\xe2f28d24a2c6a69de859dfdefe347c9b25ad6aa2' THEN 'TOTEM'
+WHEN bridge."token" =  '\x347e430b7cd1235e216be58ffa13394e5009e6e2' THEN 'GAIA'
+WHEN bridge."token" =  '\x11eb3aa66fe1f2b75cb353d3e874e96968182bda' THEN 'GAJ'
+WHEN bridge."token" =  '\xaff9d0da646a4f11998980dd80a5728a1ecae726' THEN 'Guard'
+WHEN bridge."token" =  '\x02A40C048eE2607B5f5606e445CFc3633Fb20b58' THEN 'KABY'
+WHEN bridge."token" =  '\x471ea49dd8e60e697f4cac262b5fafcc307506e4' THEN 'KOM'
+WHEN bridge."token" =  '\xdb0ee671b52a866df968ee0913e906bfb743a6d5' THEN 'MEEB'
+WHEN bridge."token" =  '\x417871f0682db63924b931fc16ba3ff40343cdcb' THEN 'NSDX'
+WHEN bridge."token" =  '\xc7ed9aa2b7d302fd5a68dfbefe5f530f9bd35a06' THEN 'PIRATEP'
+WHEN bridge."token" =  '\xa85d8c972e1d54136e4bbed3d108db6e108e98f9' THEN 'ROLL'
+WHEN bridge."token" =  '\x8c4daef64d4246d0274fe68243fd32bb8d5707e5' THEN 'SAVG'
+WHEN bridge."token" =  '\x6f26e8a40c8daae8c4358ce557c10226527cebce' THEN 'SX'
+WHEN bridge."token" =  '\x1f681b1c4065057e07b95a1e5e504fb2c85f4625' THEN 'TETU'
+WHEN bridge."token" =  '\xad02770e15d100955ced9a0ea2d7a18c01c8f2cb' THEN 'TITAN'
+WHEN bridge."token" =  '\x6ba7a8f9063c712c1c8cabc776b1da7126805f3b' THEN 'TRADE'
+WHEN bridge."token" =  '\xce3b0d4e4e4285e55c0bfb294112caf19682eb8a' THEN 'TRO'
+WHEN bridge."token" =  '\x5608d5159ab98881bc116ae7761c74ad2ebb0448' THEN 'UART'
+WHEN bridge."token" =  '\x1785113910847770290f5f840b4c74fc46451201' THEN 'WELT'
+WHEN bridge."token" =  '\xe6b9d092223f39013656702a40dbe6b7decc5746' THEN 'YAMP'
+WHEN bridge."token" =  '\x0802d66f029c46e042b74d543fc43b6705ccb4ba' THEN 'abBLOCK'
+WHEN bridge."token" =  '\xee9d08840554c9f8d30d0e3833d4906d3f39a49e' THEN 'PACT'
+WHEN bridge."token" =  '\xe0286c89c626d11c7a1ea9f5ac2620e31cc80618' THEN 'PREMIO'
+WHEN bridge."token" =  '\xea136fc555e695ba96d22e10b7e2151c4c6b2a20' THEN 'SOURCE'
+WHEN bridge."token" =  '\xc1fb2d1dbf7e4f605de0f0f6fbaa724e1b1ffba6' THEN 'SDN'
+WHEN bridge."token" =  '\xa184088a740c695e156f91f5cc086a06bb78b827' THEN 'AUTO'
+WHEN bridge."token" =  '\x181de8c57c4f25eba9fd27757bbd11cc66a55d31' THEN 'BELUGA'
+WHEN bridge."token" =  '\x6fd7c98458a943f469e1cf4ea85b173f5cd342f4' THEN 'BHC'
+WHEN bridge."token" =  '\xca3f508b8e4dd382ee878a314789373d80a5190a' THEN 'BIFI'
+WHEN bridge."token" =  '\x19a6da6e382b85f827088092a3dbe864d9ccba73' THEN 'BISON'
+WHEN bridge."token" =  '\xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c' THEN 'BNB'
+WHEN bridge."token" =  '\xc9574679a89f9893e9b1e288ce6aad1c7be60624' THEN 'BRTK'
+WHEN bridge."token" =  '\x9198bbbd8201584a630f93b83fbda70a5ee1970d' THEN 'BSCR'
+WHEN bridge."token" =  '\xe9e7cea3dedca5984780bafc599bd69add087d56' THEN 'BUSD'
+WHEN bridge."token" =  '\x0acbb2c3d3826b82b17c09e2dfa605b5279e0c63' THEN 'DEFY'
+WHEN bridge."token" =  '\x21adb1c644663069e83059ac3f9d9ca1133d29e4' THEN 'EGGP'
+WHEN bridge."token" =  '\xacd7b3d9c10e97d0efa418903c0c7669e702e4c0' THEN 'ELE'
+WHEN bridge."token" =  '\x1b79708eea29900dbbbca8a5ae620ac741618ae4' THEN 'ESWAP'
+WHEN bridge."token" =  '\x67d66e8ec1fd25d98b3ccd3b19b7dc4b4b7fc493' THEN 'FEED'
+WHEN bridge."token" =  '\xeda21b525ac789eab1a08ef2404dd8505ffb973d' THEN 'HPS'
+WHEN bridge."token" =  '\x5a41f637c3f7553dba6ddc2d3ca92641096577ea' THEN 'JulD'
+WHEN bridge."token" =  '\xcd5d75dbe75449a9021b6c570a41959eb571c751' THEN 'LORY'
+WHEN bridge."token" =  '\x13e971de9181eef7a4aeaeaa67552a6a4cc54f43' THEN 'MELD'
+WHEN bridge."token" =  '\x2b15bc62d1fb46ade4763a3c5ea0917460bb25f1' THEN 'MORPH'
+WHEN bridge."token" =  '\x9b44df3318972be845d83f961735609137c4c23c' THEN 'PROPEL'
+WHEN bridge."token" =  '\xe821ff93acd958d8ef637ff9627217d28a5b6845' THEN 'PTLKX'
+WHEN bridge."token" =  '\xeb9902a19fa1286c8832bf44e9b18e89f682f614' THEN 'sFEED'
+WHEN bridge."token" =  '\x9d9affac2175ef541642035ab66f5fe7df813851' THEN 'SPACE'
+WHEN bridge."token" =  '\x5ff584f11b3dc5bc26cd099239ced7eaa2d4e581' THEN 'VEST'
+WHEN bridge."token" =  '\x56aa0237244c67b9a854b4efe8479cca0b105289' THEN 'WNOW'
+WHEN bridge."token" =  '\x0288d3e353fe2299f11ea2c2e1696b4a648ecc07' THEN 'ZEFI'
+WHEN bridge."token" =  '\x366d71ab095735b7dae83ce2b82d5262ef655f10' THEN 'APAD'
+WHEN bridge."token" =  '\xc748673057861a797275cd8a068abb95a902e8de' THEN 'BabyDoge'
+WHEN bridge."token" =  '\x9e6b3e35c8f563b45d864f9ff697a144ad28a371' THEN 'DOGO'
+WHEN bridge."token" =  '\x8076c74c5e3f5852037f31ff0093eeb8c8add8d3' THEN 'SAFEMOON'
+WHEN bridge."token" =  '\x6d3a0fb0070ea61f901ebc0b675c30450acac737' THEN 'ATH'
+WHEN bridge."token" =  '\x603c7f932ed1fc6575303d8fb018fdcbb0f39a95' THEN 'BANANA'
+WHEN bridge."token" =  '\x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd' THEN 'BCPAY'
+WHEN bridge."token" =  '\xb44a9b6905af7c801311e8f4e76932ee959c663c' THEN 'BCP'
+WHEN bridge."token" =  '\x708739980021a0b0b2e555383fe1283697e140e9' THEN 'BLS'
+WHEN bridge."token" =  '\x248c45af3b2f73bc40fa159f2a90ce9cad7a77ba' THEN 'BOGE'
+WHEN bridge."token" =  '\x790be81c3ca0e53974be2688cdb954732c9862e1' THEN 'BREW'
+WHEN bridge."token" =  '\xc7091aa18598b87588e37501b6ce865263cd67ce' THEN 'CCAKE'
+WHEN bridge."token" =  '\x1e584d356db17decfa474fb9669fa7d2f181ee4e' THEN 'CHIPS'
+WHEN bridge."token" =  '\x2bf56908b0f2440ad11169d281967eb76665f8c6' THEN 'Dove'
+WHEN bridge."token" =  '\xfb62ae373aca027177d1c18ee0862817f9080d08' THEN 'DPET'
+WHEN bridge."token" =  '\x297817ce1a8de777e7ddbed86c3b7f9dc9349f2c' THEN 'DUEL'
+WHEN bridge."token" =  '\x4437743ac02957068995c48e08465e0ee1769fbe' THEN 'FTS'
+WHEN bridge."token" =  '\xee814f5b2bf700d2e843dc56835d28d095161dd9' THEN 'GRAND'
+WHEN bridge."token" =  '\x948d2a81086a075b3130bac19e4c6dee1d2e3fe8' THEN 'Helmet'
+WHEN bridge."token" =  '\x9b26e16377ad29a6ccc01770bcfb56de3a36d8b2' THEN 'HERO'
+WHEN bridge."token" =  '\xb37cad62441ef8b866f3e36f12fd42062b6c0f33' THEN 'INKU'
+WHEN bridge."token" =  '\x72cfd829bbda21f812f57c7012a5bf434cb6e7b3' THEN 'ISHND'
+WHEN bridge."token" =  '\x0491648c910ad2c1afaab733faf71d30313df7fc' THEN 'JDI'
+WHEN bridge."token" =  '\xb08ba8c99a883d85d929f561b81bb8c365a5a93b' THEN 'MAD'
+WHEN bridge."token" =  '\xf8ae4ef55628aacfb9bd6e777b0f5d35c173f624' THEN 'MELD'
+WHEN bridge."token" =  '\xb0611177bb3ce464c512d84bfab0b9b33b01f534' THEN 'MOCHA'
+WHEN bridge."token" =  '\xd10332818d6a9b4b84bf5d87dbf9d80012fdf913' THEN 'MRHB'
+WHEN bridge."token" =  '\xb2ebaa0ad65e9c888008bf10646016f7fcdd73c3' THEN 'NALIS'
+WHEN bridge."token" =  '\xa1303e6199b319a891b79685f0537d289af1fc83' THEN 'NAR'
+WHEN bridge."token" =  '\x943978707717d4d73da6f74312aef59feafe368c' THEN 'OMT'
+WHEN bridge."token" =  '\x91f006ee672f8f39c6e63ca75b1ca14067b3c366' THEN 'ORE'
+WHEN bridge."token" =  '\x6d34f621d2a1812434ce7af6e04a344bfce9b47e' THEN 'PEPPA'
+WHEN bridge."token" =  '\xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6' THEN 'PERA'
+WHEN bridge."token" =  '\x509949c4ee0c1c2c765cf9b23c75d823981e22ae' THEN 'PNIXS'
+WHEN bridge."token" =  '\x00aa85e010204068b7cc2235800b2d8036bdbf2e' THEN 'Scam'
+WHEN bridge."token" =  '\x40b34cc972908060d6d527276e17c105d224559d' THEN 'SEED'
+WHEN bridge."token" =  '\xca6d25c10dad43ae8be0bc2af4d3cd1114583c08' THEN 'SISTA'
+WHEN bridge."token" =  '\x2f3391aebe27393aba0a790aa5e1577fea0361c2' THEN 'TAKO'
+WHEN bridge."token" =  '\xf63400ee0420ce5b1ebdee0c942d7de1c734a41f' THEN 'TAPE'
+WHEN bridge."token" =  '\x62907ad5c2d79e2a4f048a90ae2b49d062a773f3' THEN 'TWIN'
+WHEN bridge."token" =  '\x7a9f28eb62c791422aa23ceae1da9c847cbec9b0' THEN 'WATCH'
+WHEN bridge."token" =  '\xb64e638e60d154b43f660a6bf8fd8a3b249a6a21' THEN 'WAULTx'
+WHEN bridge."token" =  '\xa58950f05fea2277d2608748412bf9f802ea4901' THEN 'WSG'
+WHEN bridge."token" =  '\x851f7a700c5d67db59612b871338a85526752c25' THEN 'ARGON'
+WHEN bridge."token" =  '\xbd29490383edfd560426c3b63d01534408bc2da6' THEN 'AVXL'
+WHEN bridge."token" =  '\x1a8d7ac01d21991bf5249a3657c97b2b6d919222' THEN 'BEE'
+WHEN bridge."token" =  '\x4131b87f74415190425ccd873048c708f8005823' THEN 'bMXX'
+WHEN bridge."token" =  '\xec181b5f1d7b069192a3554bde509728b16d5d73' THEN 'FUKU'
+WHEN bridge."token" =  '\xc9ad37e9baf41377540df5a77831db98c1915128' THEN 'GINUX'
+WHEN bridge."token" =  '\xfa363022816abf82f18a9c2809dcd2bb393f6ac5' THEN 'HONEY'
+WHEN bridge."token" =  '\xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5' THEN 'iBFR'
+WHEN bridge."token" =  '\xb5389a679151c4b8621b1098c6e0961a3cfee8d4' THEN 'LAUNCH'
+WHEN bridge."token" =  '\xaf1167b1f90e4f27d9f520a4cd3a1e452e011cea' THEN 'MRFI'
+WHEN bridge."token" =  '\x6bfd576220e8444ca4cc5f89efbd7f02a4c94c16' THEN 'SMG'
+WHEN bridge."token" =  '\xb5c9aa0d54091b32c6496b1f3f745e2492daa2ff' THEN 'Timerr'
+WHEN bridge."token" =  '\xbfef6ccfc830d3baca4f6766a0d4aaa242ca9f3d' THEN 'WNAV'
+WHEN bridge."token" =  '\xd73f32833b6d5d9c8070c23e599e283a3039823c' THEN 'WTF'
+WHEN bridge."token" =  '\x547cbe0f0c25085e7015aa6939b28402eb0ccdac' THEN 'XBN'
+WHEN bridge."token" =  '\xd675ff2b0ff139e14f86d87b7a6049ca7c66d76e' THEN 'DFL'
+WHEN bridge."token" =  '\x98631c69602083d04f83934576a53e2a133d482f' THEN 'xM'
+WHEN bridge."token" =  '\x49969019255d948dc2f1d9e4485aaea8cf701487' THEN 'ORBX'
+WHEN bridge."token" =  '\x463e737d8f740395abf44f7aac2d9531d8d539e9' THEN 'TOAD'
+WHEN bridge."token" =  '\xf96429a7ae52da7d07e60be95a3ece8b042016fb' THEN 'Kac'
+WHEN bridge."token" =  '\x65d9033cff96782394dab5dbef17fa771bbe1732' THEN 'STORE'
+WHEN bridge."token" =  '\x6e948add7eb958c81b79191c05bd4d4213bf61c0' THEN 'CRF'
+WHEN bridge."token" =  '\x9f402f44684574f3535ea6f1bb5cfbffef42ee28' THEN 'PRNT'
+WHEN bridge."token" =  '\x9d986a3f147212327dd658f712d5264a73a1fdb0' THEN 'LAND'
+WHEN bridge."token" =  '\x2c591c8078ea432b7affb04957c89fedc5e854b5' THEN 'CCC'
+WHEN bridge."token" =  '\xa6168c7e5eb7c5c379f3a1d7cf1073e09b2f031e' THEN 'GRAV'
+WHEN bridge."token" =  '\x170dc35c5b58aededc81960691eb4b389eba9e95' THEN 'IMRTL'
+WHEN bridge."token" =  '\xb0ff8188f374902bb180bd186d17967b5b1188f2' THEN 'ARCHA'
+WHEN bridge."token" =  '\x7d3dc11f8aa754a9054c398f75d5e0dd81d2727e' THEN 'Yf-DAI'
+WHEN bridge."token" =  '\x0cf21cac0b5689aa39b38032ae228cec9e2d0192' THEN 'ADB'
+WHEN bridge."token" =  '\x4197c6ef3879a08cd51e5560da5064b773aa1d29' THEN 'ACS'
+WHEN bridge."token" =  '\xb6246d51f3bd98608f26e866f1453109f8f76809' THEN 'IOTEXCHART'
+WHEN bridge."token" =  '\x134b372f5543c5cca30be6a796da032c8274bddf' THEN 'LABS'
+WHEN bridge."token" =  '\x43f5b29d63cedc5a7c1724dbb1d698fde05ada21' THEN 'FODL'
+WHEN bridge."token" =  '\xf9a7bbfdc269dc9d338b97670d3e8b6ec8747618' THEN 'RLC'
+WHEN bridge."token" =  '\x4477b28e8b797ebaebd2539bb24290fdfcc27807' THEN '$RFG'
+WHEN bridge."token" =  '\x8e8538c75f273ab2df6adeecd3622a9c314fccf3' THEN 'SISHI'
+WHEN bridge."token" =  '\x641ec142e67ab213539815f67e4276975c2f8d50' THEN 'DogeKing'
+WHEN bridge."token" =  '\x1f3406687cc885f18c310e44496c11b2500087b9' THEN 'LBT'
+WHEN bridge."token" =  '\x88d7e9b65dc24cf54f5edef929225fc3e1580c25' THEN 'JMPT'
+WHEN bridge."token" =  '\xf606bd19b1e61574ed625d9ea96c841d4e247a32' THEN 'GUARD'
+WHEN bridge."token" =  '\x205f93cd558aac99c4609d0511829194b5405533' THEN 'ANGEL'
+WHEN bridge."token" =  '\x284643d9df25551a85d68ef903e59f8ef90bec01' THEN 'RPG'
+WHEN bridge."token" =  '\x482e6bd0a178f985818c5dfb9ac77918e8412fba' THEN 'ZEUM'
+WHEN bridge."token" =  '\x0fc22a684ee0f37efa8f7dd12f48f62c17ee0c92' THEN 'MIL'
+WHEN bridge."token" =  '\x5c9565950d2124d6e8387e2b3e9e0cd17fd8f6bd' THEN 'MSU'
+WHEN bridge."token" =  '\xec82f8d35ffe8da987b97c0bf12921ec57f23d3c' THEN 'RTKN'
+WHEN bridge."token" =  '\x0d66f9aa410ca289105355b4940e7551fdce2c14' THEN 'UCG'
+WHEN bridge."token" =  '\x6aa217312960a21adbde1478dc8cbcf828110a67' THEN 'SPIN'
+WHEN bridge."token" =  '\xd88ca08d8eec1e9e09562213ae83a7853ebb5d28' THEN 'XWIN'
+WHEN bridge."token" =  '\x2e1f3d4cb35980f6339c006e64ac3a555db6676d' THEN 'NAS'
+WHEN bridge."token" =  '\xa19863e302fd1b41276fce5a48d9c511dbeef34c' THEN 'PRIMATE'
+WHEN bridge."token" =  '\x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9' THEN 'SLEEPEE'
+WHEN bridge."token" =  '\x8ac76a51cc950d9822d68b83fe1ad97b32cd580d' THEN 'USDC'
+WHEN bridge."token" =  '\xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba' THEN 'MIM'
+WHEN bridge."token" =  '\xc7d8d35eba58a0935ff2d5a33df105dd9f071731' THEN 'HGET'
+WHEN bridge."token" =  '\xf6565a97dc832d93dc83b75ee9aa5c7e8ecb0f9d' THEN 'HYVE'
+WHEN bridge."token" =  '\x47f46484a8d7573e07513b6e6b2bdc4f748ba294' THEN 'XDEX'
+WHEN bridge."token" =  '\x1af3f329e8be154074d8769d1ffa4ee058b1dbc3' THEN 'DAI'
+WHEN bridge."token" =  '\x067ede5097574b387ff30999e3a1775f3d7d569d' THEN 'DOPE'
+WHEN bridge."token" =  '\x2170ed0880ac9a755fd29b2688956bd959f933f8' THEN 'ETH'
+WHEN bridge."token" =  '\x8da443f84fea710266c8eb6bc34b71702d033ef2' THEN 'CTSI'
+WHEN bridge."token" =  '\xaec945e04baf28b135fa7c640f624f8d90f1c3a6' THEN 'C98'
+WHEN bridge."token" =  '\x55d398326f99059ff775485246999027b3197955' THEN 'USDT'
+WHEN bridge."token" =  '\x5fe5a66c84c6f8c213503a04f95a417ac6684361' THEN 'EURS'
+WHEN bridge."token" =  '\xd632bd021a07af70592ce1e18717ab9aa126decb' THEN 'bKANGAL'
+WHEN bridge."token" =  '\x3764bc0de9b6a68c67929130aaec16b6060cab8c' THEN 'XIDO'
+WHEN bridge."token" =  '\xb49b7e0742ecb4240ffe91661d2a580677460b6a' THEN 'PERI'
+WHEN bridge."token" =  '\x9b71b5511998e0798625b8fa74e86d8192de78c1' THEN 'LPK'
+WHEN bridge."token" =  '\x002d8563759f5e1eaf8784181f3973288f6856e4' THEN 'DMOD'
+WHEN bridge."token" =  '\x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d' THEN 'SNP'
+WHEN bridge."token" =  '\xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034' THEN 'wBAN'
+WHEN bridge."token" =  '\x0cbe5c4f318035b866aacfaf7d018fb4c5f920f3' THEN 'LTY'
+WHEN bridge."token" =  '\x5fe80d2cd054645b9419657d3d10d26391780a7b' THEN 'MCB'
+WHEN bridge."token" =  '\xd21d5467c341dc697b384cf4e4be56394cae5d0b' THEN 'BCP'
+WHEN bridge."token" =  '\x9ba6a67a6f3b21705a46b380a1b97373a33da311' THEN 'FEAR'
+WHEN bridge."token" =  '\x8506560320826e459f356cb56ccf721da8875414' THEN 'nICE'
+WHEN bridge."token" =  '\x84e9a6f9d240fdd33801f7135908bfa16866939a' THEN 'GMEE'
+WHEN bridge."token" =  '\xc342774492b54ce5f8ac662113ed702fc1b34972' THEN 'BGEO'
+WHEN bridge."token" =  '\xc53c65c4a925039cc149fa99fd011490d40270a3' THEN 'ATMSSFT'
+WHEN bridge."token" =  '\xa7840988974dd20a78b9f21d95366c46c7637996' THEN 'EDC'
+WHEN bridge."token" =  '\x885c5fb8f0e67b2b0cf3a437e6cc6ebc0f9f9014' THEN 'GEMG'
+WHEN bridge."token" =  '\x9a78649501bbaac285ea4187299471b7ad4abd35' THEN 'DSG'
+WHEN bridge."token" =  '\x19a4866a85c652eb4a2ed44c42e4cb2863a62d51' THEN 'HOD'
+WHEN bridge."token" =  '\x70905594023cb2f37f3103fdc70315ad1601d6ef' THEN 'POLARv3'
+WHEN bridge."token" =  '\x963fac6d71cddbd717d8d0c2fd06aae5dd6072fc' THEN 'WHIRL'
+WHEN bridge."token" =  '\x4b6000f9163de2e3f0a01ec37e06e1469dbbce9d' THEN 'KEYFI'
+WHEN bridge."token" =  '\x04f73a09e2eb410205be256054794fb452f0d245' THEN 'SALE'
+WHEN bridge."token" =  '\x27a339d9b59b21390d7209b78a839868e319301b' THEN 'xBlade'
+WHEN bridge."token" =  '\x9fe28d11ce29e340b7124c493f59607cbab9ce48' THEN 'SPELL'
+WHEN bridge."token" =  '\x66eff5221ca926636224650fd3b9c497ff828f7d' THEN 'sSPELL'
+WHEN bridge."token" =  '\xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b' THEN 'KNC'
+WHEN bridge."token" =  '\x794baab6b878467f93ef17e2f2851ce04e3e34c8' THEN 'YIN'
+WHEN bridge."token" =  '\x98936bde1cf1bff1e7a8012cee5e2583851f2067' THEN 'ANN'
+WHEN bridge."token" =  '\x8690cb98496ef0f8c6417d78b5e0e29907668808' THEN 'WRAITH'
+WHEN bridge."token" =  '\xbc420bc2c015d1579f77e4a5c68270b75f2ddb9d' THEN 'CHE'
+WHEN bridge."token" =  '\x7242dbed15630a29ea5347898fa15ff8d5eb3593' THEN 'HEP'
+WHEN bridge."token" =  '\xb6c53431608e626ac81a9776ac3e999c5556717c' THEN 'TLOS'
+WHEN bridge."token" =  '\xbac1df744df160877cdc45e13d0394c06bc388ff' THEN 'GEM'
+WHEN bridge."token" =  '\x96a70751fd5bf2b18091b99ef7689b9a3a90920e' THEN 'wsSQUID'
+WHEN bridge."token" =  '\xc7981767f644c7f8e483dabdc413e8a371b83079' THEN 'LIQ'
+WHEN bridge."token" =  '\x63db060697b01c6f4a26561b1494685dcbbd998c' THEN 'LIBRE'
+WHEN bridge."token" =  '\x61d5822dd7b3ed495108733e6550d4529480c8f6' THEN 'GCAKE'
+WHEN bridge."token" =  '\x8f01d597d2022656494e30fb76eccf1eea2e092e' THEN 'TOMB'
+WHEN bridge."token" =  '\x4691937a7508860f876c9c0a2a617e7d9e945d4b' THEN 'WOO'
+WHEN bridge."token" =  '\x8729438eb15e2c8b576fcc6aecda6a148776c0f5' THEN 'QI'
+WHEN bridge."token" =  '\x4ef06d1a55962f29d362c53c864a4f0c791dcb9e' THEN 'MYOBU'
+WHEN bridge."token" =  '\x4374f26f0148a6331905edf4cd33b89d8eed78d1' THEN 'YOSHI'
+WHEN bridge."token" =  '\xd399359683c1cd5267f611261ede08f22ce9729f' THEN 'MFTU'
+WHEN bridge."token" =  '\x8fb1a59ca2d57b51e5971a85277efe72c4492983' THEN 'DAF'
+WHEN bridge."token" =  '\xad29abb318791d579433d831ed122afeaf29dcfe' THEN 'FTM'
+WHEN bridge."token" =  '\x0856978f7ffff0a2471b4520e3521c4b3343e36f' THEN 'IDEX'
+WHEN bridge."token" =  '\xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73' THEN 'LACE'
+WHEN bridge."token" =  '\xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b' THEN 'MAHA'
+WHEN bridge."token" =  '\xf2c96e402c9199682d5ded26d3771c6b192c01af' THEN 'SCLP'
+WHEN bridge."token" =  '\x0e5f989ce525acc4ee45506af91964f7f4c9f2e9' THEN 'RYOSHI'
+WHEN bridge."token" =  '\xd8cb4c2369db13c94c90c7fd3bebc9757900ee6b' THEN 'NPXB'
+WHEN bridge."token" =  '\x12bb890508c125661e03b09ec06e404bc9289040' THEN 'RACA'
+WHEN bridge."token" =  '\x7fe378c5e0b5c32af2ecc8829bedf02245a0e4ef' THEN 'STZ'
+WHEN bridge."token" =  '\x51c5807dd8398aedfcc91e6483417838b41eaeb8' THEN 'KING'
+WHEN bridge."token" =  '\x301af3eff0c904dc5ddd06faa808f653474f7fcc' THEN 'UNB'
+WHEN bridge."token" =  '\x9fb9a33956351cf4fa040f65a13b835a3c8764e3' THEN 'MULTI'
+WHEN bridge."token" =  '\xa803778ab953d3ffe4fbd20cfa0042ecefe8319d' THEN 'CTZN'
+WHEN bridge."token" =  '\x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f' THEN 'MCRT'
+WHEN bridge."token" =  '\x3f56e0c36d275367b8c502090edf38289b3dea0d' THEN 'MAI'
+WHEN bridge."token" =  '\xb067c1dd69d41ffa29f959901c91aa7731cc4e26' THEN 'mWSPP'
+WHEN bridge."token" =  '\x7777777777697cfeecf846a76326da79cc606517' THEN 'SIG'
+WHEN bridge."token" =  '\x0feadcc3824e7f3c12f40e324a60c23ca51627fc' THEN 'WAD'
+WHEN bridge."token" =  '\x9133049fb1fddc110c92bf5b7df635abb70c89dc' THEN 'PINK'
+WHEN bridge."token" =  '\x047a02a57501a813975b2d347278fdd3df671e86' THEN '2022M'
+WHEN bridge."token" =  '\x5f99acf13caff815dd9cb4a415c0fb34e9f4545b' THEN 'TSA'
+WHEN bridge."token" =  '\xcc42724c6683b7e57334c4e856f4c9965ed682bd' THEN 'MATIC'
+WHEN bridge."token" =  '\x1ce0c2827e2ef14d5c4f29a091d735a204794041' THEN 'AVAX'
+WHEN bridge."token" =  '\xf307910a4c7bbc79691fd374889b36d8531b08e3' THEN 'ANKR'
+WHEN bridge."token" =  '\xe211299dce465083f5b70f119d6620cb29b9bcac' THEN 'APE-X'
+WHEN bridge."token" =  '\xb955b4cab9aa3b49e23aeb5204ebc5ff6678e86d' THEN 'Afin'
+WHEN bridge."token" =  '\x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c' THEN 'BTCB'
+WHEN bridge."token" =  '\x33333ee26a7d02e41c33828b42fb1e0889143477' THEN 'LIQR'
+WHEN bridge."token" =  '\x222cf80a8514f8ce551c06d1b8d01db3678688ad' THEN 'DAWGS'
+WHEN bridge."token" =  '\xaf6162dc717cfc8818efc8d6f46a41cf7042fcba' THEN 'USV'
+WHEN bridge."token" =  '\xd451051d7d9f0b154ed25211094ec74036f49923' THEN 'wMEMO'
+WHEN bridge."token" =  '\x8a65b987d9813f0a97446eda0de918b2573ae406' THEN 'FomoETH'
+WHEN bridge."token" =  '\x0b15ddf19d47e6a86a56148fb4afffc6929bcb89' THEN 'IDIA'
+WHEN bridge."token" =  '\xe8377a076adabb3f9838afb77bee96eac101ffb1' THEN 'MSU'
+WHEN bridge."token" =  '\xb6d48fcef36e19681ee29896b19c1b6cbd1eab1b' THEN 'FAN'
+WHEN bridge."token" =  '\x016cf83732f1468150d87dcc5bdf67730b3934d3' THEN 'AIRT'
+WHEN bridge."token" =  '\x8623e66bea0dce41b6d47f9c44e806a115babae0' THEN 'NFTY'
+WHEN bridge."token" =  '\x409e215738e31d8ab252016369c2dd9c2008fee0' THEN 'PAWTH'
+WHEN bridge."token" =  '\xcf87d3d50a98a7832f5cfdf99ae1b88c7cfba4a7' THEN 'BIOS'
+WHEN bridge."token" =  '\xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd' THEN 'LINK'
+WHEN bridge."token" =  '\x14016e85a25aeb13065688cafb43044c2ef86784' THEN 'TUSD'
+WHEN bridge."token" =  '\x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5' THEN 'CDS'
+WHEN bridge."token" =  '\x7efabc2c92b20e0987af979ae9f87d508c5da1c9' THEN 'wsSPA'
+WHEN bridge."token" =  '\xac51066d7bec65dc4589368da368b212745d63e8' THEN 'ALICE'
+WHEN bridge."token" =  '\x767b28a30e3a15dcece7bff7a020adfde9d19cf8' THEN 'MRXb'
+WHEN bridge."token" =  '\x471f883bbd2c705f418ba3d6667ef05342c4ee05' THEN 'SPONGS'
+WHEN bridge."token" =  '\x61ed1c66239d29cc93c8597c6167159e8f69a823' THEN 'RSD'
+WHEN bridge."token" =  '\xb2ea51baa12c461327d12a2069d47b30e680b69d' THEN 'SMCW'
+WHEN bridge."token" =  '\xa8ea8d1d7a3e689ccc90dcecb437ab0674d5ec6f' THEN 'SHINJA'
+WHEN bridge."token" =  '\xdc37fa1507c7697c0778d3a7d61b31dce7cbba70' THEN 'NIOX'
+WHEN bridge."token" =  '\x5857c96dae9cf8511b08cb07f85753c472d36ea3' THEN 'FUSE'
+WHEN bridge."token" =  '\x0a356f512f6fce740111ee04ab1699017a908680' THEN 'UFARM'
+WHEN bridge."token" =  '\x0fe9778c005a5a6115cbe12b0568a2d50b765a51' THEN 'NFD'
+WHEN bridge."token" =  '\xa1428370f540b4c4e319224165ecae513a391f77' THEN 'POND'
+WHEN bridge."token" =  '\xe561ebd0d7f9b2bd81da6e7da655030dcb0a926b' THEN 'ROAR'
+WHEN bridge."token" =  '\x09a6c44c3947b69e2b45f4d51b67e6a39acfb506' THEN 'UNCX'
+WHEN bridge."token" =  '\x0e8d5504bf54d9e44260f8d153ecd5412130cabb' THEN 'UNCL'
+WHEN bridge."token" =  '\xe22b9152914986e4020a00ab6ef510085c26c208' THEN 'KONO'
+WHEN bridge."token" =  '\x0dea5ac2898e6aa637ece0db750fd6d35e460392' THEN 'nuBTC'
+WHEN bridge."token" =  '\xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0' THEN 'BLAST'
+WHEN bridge."token" =  '\x8f0528ce5ef7b51152a59745befdd91d97091d2f' THEN 'ALPACA'
+WHEN bridge."token" =  '\x1deb45c74e0192d9272adf54e9a7519c48c2bd81' THEN 'AUR'
+WHEN bridge."token" =  '\x38c84d5bbad726d465cf6a5349e41d6d7095faf7' THEN 'agEUR'
+WHEN bridge."token" =  '\x0c9b7103e16f171f60448e039f48d3b50241fcbc' THEN 'EVX'
+WHEN bridge."token" =  '\xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9' THEN 'Froyo'
+WHEN bridge."token" =  '\x8ad8e9b85787ddd0d31b32ecf655e93bfc0747ef' THEN 'SMBR'
+WHEN bridge."token" =  '\x887d9c01fff04022da9c6d64a65a481a9e5d1fca' THEN 'LEDU'
+WHEN bridge."token" =  '\x5c865352f9012308378b1c74fe01d899f28e8fd9' THEN 'OCCT'
+WHEN bridge."token" =  '\xc5326b32e8baef125acd68f8bc646fd646104f1c' THEN 'ZAP'
+WHEN bridge."token" =  '\xea89199344a492853502a7a699cc4230854451b8' THEN 'ONI'
+WHEN bridge."token" =  '\x74f996a2ed8b1370c2f12ce9d040a1d9c9254e6e' THEN 'BSPT'
+WHEN bridge."token" =  '\x194d1d62d8d798fcc81a6435e6d13adf8bcc2966' THEN 'TM'
+WHEN bridge."token" =  '\x747b1223b23e53070c54df355fac2e198aa54708' THEN 'WSYS'
+WHEN bridge."token" =  '\x9aab0a9b3a2f7cf669f1385c48e0a063b93834bb' THEN 'XMETA'
+WHEN bridge."token" =  '\x5ecfcced226ba9fccd8663e7b3263cbd8c84edb5' THEN 'XTR'
+WHEN bridge."token" =  '\x6c7fc3fd4a9f1cfa2a69b83f92b9da7ec26240a2' THEN 'PAE'
+WHEN bridge."token" =  '\x5f588efaf8eb57e3837486e834fc5a4e07768d98' THEN 'bMVL'
+WHEN bridge."token" =  '\x95a1199eba84ac5f19546519e287d43d2f0e1b41' THEN 'RABBIT'
+WHEN bridge."token" =  '\xdad3abce6fb87fa0355203b692723a7ee8aa9d63' THEN 'PLG'
+WHEN bridge."token" =  '\xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b' THEN 'URUS'
+WHEN bridge."token" =  '\xbe1a001fe942f96eea22ba08783140b9dcc09d28' THEN 'BETA'
+WHEN bridge."token" =  '\xebd949aacfc681787d3d091fa2929e4413e0e4e1' THEN 'ACRE'
+WHEN bridge."token" =  '\x15d1d8274277a2f4c1f45be70ab189a16ab15673' THEN 'MTC'
+WHEN bridge."token" =  '\x766afcf83fd5eaf884b3d529b432ca27a6d84617' THEN 'BLID'
+WHEN bridge."token" =  '\x50dfd52c9f6961bf94d1d5489ae4b3e37d2f1fe7' THEN 'ONX'
+WHEN bridge."token" =  '\x81a4c8438b77221f192d8d25252afac62fecd58f' THEN 'BitANT'
+WHEN bridge."token" =  '\x23b8683ff98f9e4781552dfe6f12aa32814924e8' THEN 'jEUR'
+WHEN bridge."token" =  '\x426c72701833fddbdfc06c944737c6031645c708' THEN 'FINA'
+WHEN bridge."token" =  '\x3a2927e68749dd6ad0a568d7c05b587863c0bc10' THEN 'NNT'
+WHEN bridge."token" =  '\x886640149e31e1430fa74cc39725431eb82ddfb2' THEN '$FORWARD'
+WHEN bridge."token" =  '\x3708dea52a5846fd16d0060aab01c87bb5932b02' THEN 'ATEM'
+WHEN bridge."token" =  '\xcd40f2670cf58720b694968698a5514e924f742d' THEN 'ODDZ'
+WHEN bridge."token" =  '\x154a9f9cbd3449ad22fdae23044319d6ef2a1fab' THEN 'SKILL'
+WHEN bridge."token" =  '\x27de370fe0498307e91047c9a60051d53b92114a' THEN 'GEM'
+WHEN bridge."token" =  '\x3579dbcbc7d55a37f2b1c5540d3e1733b58388fe' THEN 'SGEM'
+WHEN bridge."token" =  '\xf0c918b2a27746afc863d32a9a07b5cad3a0ef42' THEN 'GBOND'
+WHEN bridge."token" =  '\x1935c03bb7dbc3623bd992ce599bc26bd30a43eb' THEN 'FS'
+WHEN bridge."token" =  '\xc9e8c581d67fe5cc6217b2fa1b2d4d9cecb60fb2' THEN 'SGEM'
+WHEN bridge."token" =  '\xa97b64afbb6d6811696caafd323ffc9ea983a7bb' THEN '$MF'
+WHEN bridge."token" =  '\x90ed8f1dc86388f14b64ba8fb4bbd23099f18240' THEN 'SDAO'
+WHEN bridge."token" =  '\x30807d3b851a31d62415b8bb7af7dca59390434a' THEN 'RADIO'
+WHEN bridge."token" =  '\x3b29e11fada25ec959d732684e783a4069f26cec' THEN '5TABLE'
+WHEN bridge."token" =  '\x4ba0057f784858a48fe351445c672ff2a3d43515' THEN 'KALM'
+WHEN bridge."token" =  '\x3fcca8648651e5b974dd6d3e50f61567779772a8' THEN 'POTS'
+WHEN bridge."token" =  '\x7269d98af4aa705e0b1a5d8512fadb4d45817d5a' THEN 'SHI'
+WHEN bridge."token" =  '\xf8fc63200e181439823251020d691312fdcf5090' THEN 'EXZO'
+WHEN bridge."token" =  '\x9c71bb500dae9782965d660ef33c1e7c4a3d1f8a' THEN 'PX'
+WHEN bridge."token" =  '\xa1faa113cbe53436df28ff0aee54275c13b40975' THEN 'ALPHA'
+WHEN bridge."token" =  '\x4dcd4700b38ce6562730c27da557f6de819b347b' THEN 'CIFI'
+WHEN bridge."token" =  '\x25b9d4b9535920194c359d2879db6a1382c2ff26' THEN 'TEN'
+WHEN bridge."token" =  '\x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe' THEN 'OVR'
+WHEN bridge."token" =  '\xffc71bb355770b5abcc33ff3e652f63a1dff442e' THEN 'VSN'
+WHEN bridge."token" =  '\xfd81ef21ea7cf1dc00e9c6dd261b4f3be0341d5c' THEN 'DIBS'
+WHEN bridge."token" =  '\x44754455564474a89358b2c2265883df993b12f0' THEN 'ZEE'
+WHEN bridge."token" =  '\x7faaf8d4c411218415d9d3f82d56214658349dbb' THEN 'BTE'
+WHEN bridge."token" =  '\xda00b89ea3d2d0b022c663793b3d47d5b02ec627' THEN 'GRAPE'
+WHEN bridge."token" =  '\x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b' THEN 'DUET'
+WHEN bridge."token" =  '\x80d04e44955aa9c3f24041b2a824a20a88e735a8' THEN 'MVC'
+WHEN bridge."token" =  '\x6ea5f827130e81c6b82b6b852b7f0b505110e939' THEN 'MARK'
+WHEN bridge."token" =  '\xf2572fdacf09bfae08ff7d35423870b5a8ac26b7' THEN 'PLATO'
+WHEN bridge."token" =  '\x0b079b33b6e72311c6be245f9f660cc385029fc3' THEN 'APE'
+WHEN bridge."token" =  '\xf0dcf7ac48f8c745f2920d03dff83f879b80d438' THEN 'GAMI'
+WHEN bridge."token" =  '\x045c4324039da91c52c55df5d785385aab073dcf' THEN 'bCFX'
+WHEN bridge."token" =  '\xeb29f65c4daeea6462a2f280e3bf418ec8b3da9b' THEN 'GREEN'
+WHEN bridge."token" =  '\xca830317146bfdde71e7c0b880e2ec1f66e273ee' THEN 'GULL'
+WHEN bridge."token" =  '\xfbcf80ed90856af0d6d9655f746331763efdb22c' THEN 'NT'
+WHEN bridge."token" =  '\x4164a997b0b9a3de5e8ed35e59b015f9e892b7a9' THEN 'DEGEN'
+WHEN bridge."token" =  '\x3c5e3d85dfe23302f9439dee89ee4ae3d57f619c' THEN 'CK'
+WHEN bridge."token" =  '\x195de011a1f5bf44b64a9474c62da964f68cd34f' THEN 'bBzB'
+WHEN bridge."token" =  '\xfeea0bdd3d07eb6fe305938878c0cadbfa169042' THEN '8PAY'
+WHEN bridge."token" =  '\x632fbf85f77978437073a8ce5ceec29e3209514c' THEN 'vUNIT'
+WHEN bridge."token" =  '\x3e0a7c7db7bb21bda290a80c9811de6d47781671' THEN 'BETS'
+WHEN bridge."token" =  '\x4ef285c8cbe52267c022c39da98b97ca4b7e2ff9' THEN 'ORE'
+WHEN bridge."token" =  '\x8c18ffd66d943c9b0ad3dc40e2d64638f1e6e1ab' THEN 'HER'
+WHEN bridge."token" =  '\x6b1c8765c7eff0b60706b0ae489eb9bb9667465a' THEN 'SATA'
+WHEN bridge."token" =  '\x3581a7b7be2ed2edf98710910fd05b0e8545f1db' THEN 'COR'
+WHEN bridge."token" =  '\x489580eb70a50515296ef31e8179ff3e77e24965' THEN 'RADAR'
+WHEN bridge."token" =  '\x3e63e9c8f2297e3c027f8444b4591e2583d8780b' THEN 'PLOT'
+WHEN bridge."token" =  '\xba0626fdd269140fda8919b33c5585137daffed5' THEN 'CRAFT'
+WHEN bridge."token" =  '\x54f85cdb537d5a5ebc76f55b13c6dbc3b6828d57' THEN 'HARL'
+WHEN bridge."token" =  '\x31cdd9f5a6a1e39a38a6b073fc3fabe6cbfeac76' THEN 'PIGGY'
+WHEN bridge."token" =  '\x72ee88374d8087eeb069510a79c7220d90dc4779' THEN 'ENK'
+WHEN bridge."token" =  '\x3831dfef762f4f64261f2d875c710f90038578e4' THEN 'KALLY'
+WHEN bridge."token" =  '\x0231f91e02debd20345ae8ab7d71a41f8e140ce7' THEN 'bwJUP'
+WHEN bridge."token" =  '\x5c4bcc4dbaeabc7659f6435bce4e659314ebad87' THEN 'NTX'
+WHEN bridge."token" =  '\x1104918312cc9ad88eadabe07b5110cae99583f6' THEN 'MIDA'
+WHEN bridge."token" =  '\x5ae9604fea71d4916ecedb3af1df8c4903a064b7' THEN 'FACE'
+WHEN bridge."token" =  '\x09a15e2ecc0306046826d95696c183d533c228df' THEN 'BXR'
+WHEN bridge."token" =  '\xd52669712f253cd6b2fe8a8638f66ed726cb770c' THEN 'XCUR'
+WHEN bridge."token" =  '\x4b5decb9327b4d511a58137a1ade61434aacdd43' THEN 'PKN'
+WHEN bridge."token" =  '\x2a0da514b2281b12a9b93ff1b5ed738a91e0da22' THEN 'SNO Token'
+WHEN bridge."token" =  '\x09e889bb4d5b474f561db0491c38702f367a4e4d' THEN 'CLV'
+WHEN bridge."token" =  '\x1354e1c028ad93ed9992ee3bfd3ee5608489439c' THEN 'TFBX'
+WHEN bridge."token" =  '\xd9025e25bb6cf39f8c926a704039d2dd51088063' THEN 'CYT'
+WHEN bridge."token" =  '\x33b48893b8f119fb45f431b36f830a9584804201' THEN 'COWS'
+WHEN bridge."token" =  '\xf9a2d40589271be17612a3f57a9028a568f56e3d' THEN 'DoKEN'
+WHEN bridge."token" =  '\x61fa01129ac0bb124d1c60dc9f735c6c579a858b' THEN 'KTE'
+WHEN bridge."token" =  '\x9f080368661261ee5d03bbd2b2f09d5489225e2c' THEN 'STRIP'
+WHEN bridge."token" =  '\x5e54301415546401626036a10f85f9f06de8dffd' THEN 'SPORT'
+WHEN bridge."token" =  '\x4317708ad04d36afdb0e7a5d62154d896b01b392' THEN 'FLOKIFM'
+WHEN bridge."token" =  '\x2c717059b366714d267039af8f59125cadce6d8c' THEN 'MHUNT'
+WHEN bridge."token" =  '\x0baf6f41514812880212b2e2bb59fe3ca147d6a2' THEN 'CREAM'
+WHEN bridge."token" =  '\xd0c5bad763432f22ebf21da947395d8fc2d11145' THEN 'LUXY'
+WHEN bridge."token" =  '\x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3' THEN 'MOR'
+WHEN bridge."token" =  '\x01fb70ea8acfdd5435c8e8bd1531d96d57ced0ec' THEN 'SELECT'
+WHEN bridge."token" =  '\x1d3437e570e93581bd94b2fd8fbf202d4a65654a' THEN 'NBT'
+WHEN bridge."token" =  '\x3b808db06074e1bae5dfe0d970dc7b891ee26cac' THEN 'ZO'
+WHEN bridge."token" =  '\xe336a772532650bc82828e9620dd0d5a3b78bfe8' THEN 'DGMV'
+WHEN bridge."token" =  '\x7588df009c3d82378be6ab81f2108fa963c10fc8' THEN 'FITFI'
+WHEN bridge."token" =  '\x496e80cad8712025dafc5b2c96fc36c395af684a' THEN 'BSGG'
+WHEN bridge."token" =  '\xd68f75b3aa54bee23e6ac3ad4b3c28d3e6319725' THEN 'MAGIK'
+WHEN bridge."token" =  '\x8b3cc638431b34014fa3de174a25b18b364a7cc5' THEN 'WINE'
+WHEN bridge."token" =  '\x0551b4c819bc50101f6961f29cfb277aa998cebc' THEN 'DSHARE'
+WHEN bridge."token" =  '\xe6906717f129427eebade5406de68cadd57aa0c0' THEN 'MIT'
+WHEN bridge."token" =  '\xf77351d8f4ee853135961a936bb8d2e4ffa75f9d' THEN 'ROOBEE'
+WHEN bridge."token" =  '\x2c094f5a7d1146bb93850f629501eb749f6ed491' THEN 'CROX'
+WHEN bridge."token" =  '\xe74d730c3ddeada91eadd74e0ef49dc6f9b56603' THEN 'OGX'
+WHEN bridge."token" =  '\x854a63b35b70a7becbed508ff0b6ff5038d0c917' THEN 'MNTO'
+WHEN bridge."token" =  '\x41065e3428188ba6eb27fbdde8526ae3af8e3830' THEN 'SWASH'
+WHEN bridge."token" =  '\x47e3d11ba6fbbb317f92d542ba875562132e47c9' THEN 'HDO'
+WHEN bridge."token" =  '\xcdd6494aeb193c8d5541b5b9c5e72a3809a98fdc' THEN '$DEWO'
+WHEN bridge."token" =  '\xddc3d26baa9d2d979f5e2e42515478bf18f354d5' THEN 'QI'
+WHEN bridge."token" =  '\xa4c6f8e1be7418703934906057648fa92a6ddc34' THEN 'wsHUMP'
+WHEN bridge."token" =  '\xe29f15d5efc30eb5e229538dc5aff2d751494c37' THEN 'Army'
+WHEN bridge."token" =  '\x95f86c8eb9bdea0ea52659e6801ad8e7ca2b9283' THEN 'SEED'
+WHEN bridge."token" =  '\x5fb4968fc85868df3ad2d6e59883a10570f01d18' THEN 'SHR'
+WHEN bridge."token" =  '\xb5be8d87fce6ce87a24b90abdb019458a8ec31f9' THEN 'OBOT'
+WHEN bridge."token" =  '\x85ba4988443bc8b39307eec67b8c488666cd5819' THEN 'VINCI'
+WHEN bridge."token" =  '\x3e362283b86c1b45097cc3fb02213b79cf6211df' THEN 'CATCOIN'
+WHEN bridge."token" =  '\x6451c6484d23889003c20be51819d6aa7dbd2b35' THEN 'PS1'
+WHEN bridge."token" =  '\xcb73918ac58d0c90d71c7992637c61094c15305b' THEN 'SFT'
+WHEN bridge."token" =  '\xe17915332d853093af2a35b0f7acb3dea8734f0d' THEN 'XOT'
+WHEN bridge."token" =  '\xd17479997f34dd9156deef8f95a52d81d265be9c' THEN 'USDD'
+WHEN bridge."token" =  '\xb86deb16e27ece0bcd5b3a616e58926458ba72e1' THEN 'XGEM'
+WHEN bridge."token" =  '\x0acfc95a193009f1ea45b7faeef2d5e4a47c21b4' THEN 'VERSA'
+WHEN bridge."token" =  '\x81e07cff8a9331ef2a837b15a3560fb186bf5e8d' THEN 'APP'
+WHEN bridge."token" =  '\x62c3c2c714f934b5e2a7a3d225cc23fb279060c1' THEN 'LEVR'
+WHEN bridge."token" =  '\x0e8c9611bc2fefb0a0adeb3f12ee7b11ab206c49' THEN 'PHI'
+WHEN bridge."token" =  '\x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83' THEN 'TOR'
+WHEN bridge."token" =  '\x1c6bc8e962427deb4106ae06a7fa2d715687395c' THEN 'Charge'
+WHEN bridge."token" =  '\x7be9e596896b64c88e39b7e88f8dcedda79845c0' THEN 'BR'
+WHEN bridge."token" =  '\xc04a23149efdf9a63697f3eb60705147e9f07ffd' THEN 'GENI'
+WHEN bridge."token" =  '\xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24' THEN 'POLAR'
+WHEN bridge."token" =  '\xf6134e74b7a4ee23a888436e53e77f83e62e8df8' THEN 'dYel'
+WHEN bridge."token" =  '\xafaeb84415c1cd2bc99cd1f5f0b3090bae1beb6c' THEN 'BIG'
+WHEN bridge."token" =  '\x82879886ed02d4f4b9a852f83df4ee510f81a950' THEN 'FAR'
