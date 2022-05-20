@@ -1,3 +1,4 @@
+WHEN bridge."token" = '\xc2cb89bbb5bba6e21db1dfe13493dfd7dcbabd68' THEN sum(amount/1e18)
 WHEN bridge."token" = '\x73ffdf2d2afb3def5b10bf967da743f2306a51db' THEN sum(amount/1e18)
 WHEN bridge."token" = '\x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9' THEN sum(amount/1e18)
 WHEN bridge."token" = '\xd1102332a213e21faf78b69c03572031f3552c33' THEN sum(amount/1e18)
