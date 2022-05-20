@@ -74,6 +74,13 @@ API可用来检查Dune上的数据是否准确，以及参照API中的路由/桥
 ##支持的链/链ID
 https://bridgeapi.anyswap.exchange/data/allBridgeChainInfo
 
+PostgreSQL合约地址-代币符号-用于识别代币Symbol  
+https://github.com/r4bbit2015/Multichain-BSC-Dashboard/blob/main/Token-address-symbol.sql
+
+PostgreSQL合约精度-用于计算TVL  
+https://github.com/r4bbit2015/Multichain-BSC-Dashboard/blob/main/Token-address-decimal.sql
+
+
 # 手续费计算 
 对于非 ETH 链：每笔交易 0.9 美元；
 至 ETH：每笔交易 0.1%；最低费用 50 美元；最高收费1000美元。
