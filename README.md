@@ -69,10 +69,16 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 
 
 
-#API
+# API
 API可用来检查Dune上的数据是否准确，以及参照API中的路由/桥信息可快速掌握链ID对应的链名称
 ##支持的链/链ID
 https://bridgeapi.anyswap.exchange/data/allBridgeChainInfo
+
+# 手续费计算 
+对于非 ETH 链：每笔交易 0.9 美元；
+至 ETH：每笔交易 0.1%；最低费用 50 美元；最高收费1000美元。
+
+参考资料：https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83
 
 ## 一些研究中发现的细节
 跨链桥中From和To都可以为自身，表示为跨链自身钱包账户中，尤其是EVM兼容的链，地址相同 
