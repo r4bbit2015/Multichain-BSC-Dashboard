@@ -752,5 +752,3 @@ WHEN bridge."token" = '\xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24' THEN sum(amou
 WHEN bridge."token" = '\xf6134e74b7a4ee23a888436e53e77f83e62e8df8' THEN sum(amount/1e18)
 WHEN bridge."token" = '\xafaeb84415c1cd2bc99cd1f5f0b3090bae1beb6c' THEN sum(amount/1e9)
 WHEN bridge."token" = '\x82879886ed02d4f4b9a852f83df4ee510f81a950' THEN sum(amount/1e18)
-
-Process finished with exit code 0
