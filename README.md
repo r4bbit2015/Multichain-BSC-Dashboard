@@ -66,6 +66,9 @@ substring(DATA::text, 132,193) AS "toChainID",
 0000000000000000000000000000000000000000000000000000000000000038
 ```
 ## From/To解析
+IN:
+Topic3 = 跨链Token合约地址
+Topic4 = 跨链目标地址
 From地址为Topic3  
 To地址为Topic4  
 
