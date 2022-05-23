@@ -50,6 +50,7 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 ### 接口提交没有通过更换为使用ethereum."log"   
 
 |函数名  | Topics  |
+|  ----  | ---- |
 |LogAnySwapIn | 0xaac9ce45fe3adf5143598c4f18a369591a20a3384aedaf1b525d29127e1fcd55 |
 |LogAnySwapOut| 0x97116cf6cd4f6412bb47914d6db18da9e16ab2142f543b86e207c24fbd16b23a |
 
