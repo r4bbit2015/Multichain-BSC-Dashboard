@@ -65,8 +65,9 @@ substring(DATA::text, 68,63) AS "fromChainID", #没错，就是68-63，不知道
 substring(DATA::text, 132,193) AS "toChainID",
 0000000000000000000000000000000000000000000000000000000000000038
 ```
-## Transfer(In/Out)数据解析
-In:
+## From/To解析
+From地址为Topic3
+To地址为Topic4
 
 # 桥概述
 2个ETH、9个BSC、1个btc、1个fsn
