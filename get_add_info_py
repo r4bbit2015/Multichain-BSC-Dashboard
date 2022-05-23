@@ -1,0 +1,32 @@
+#1.获取合约地址+Token的Symbol
+#2.检查合约地址的Symbol是否为数据中的Symobl，因为有的Symobl是在ETH上
+
+import requests
+import json
+
+def get_token_address():
+    urls = "https://bridgeapi.anyswap.exchange/v4/tokenlistv4/56"
+    res = requests.get(urls)
+    res = json.loads(res.text)
+    for key in res:
+        symbol = res[key]['symbol']
+        address = res[key]['address'][1:]
+
+        print(f"WHEN bridge.\"token\" =  '\{address}' THEN '{symbol}'")
+#  WHEN bridge."token" = '\xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba ' THEN 'MIM'
+
+def get_token_decimal():
+    urls = "https://bridgeapi.anyswap.exchange/v4/tokenlistv4/56"
+    res = requests.get(urls)
+    res = json.loads(res.text)
+    for key in res:
+        address = res[key]['address'][1:]
+        decimals = res[key]['decimals']
+        #WHEN bridge."token" = '\x1282911d3600b202698997f61f46379db3b9f01e   ' THEN sum( amount/1e18)
+        print(f"WHEN bridge.\"token\" = '\{address}' THEN sum(amount/1e{decimals})")
+
+def main():
+    get_token_decimal()
+    # get_token_address()
+if __name__ == '__main__':
+    main()
