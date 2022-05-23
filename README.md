@@ -66,8 +66,8 @@ substring(DATA::text, 132,193) AS "toChainID",
 0000000000000000000000000000000000000000000000000000000000000038
 ```
 ## From/To解析
-From地址为Topic3
-To地址为Topic4
+From地址为Topic3  
+To地址为Topic4  
 
 # 桥概述
 2个ETH、9个BSC、1个btc、1个fsn
