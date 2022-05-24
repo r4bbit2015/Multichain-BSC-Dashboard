@@ -117,6 +117,10 @@ token从桥转出,到用户钱包地址，这是用户将Token跨链到BSC的行
 |LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
 |LogSwapOut| 0xxx |
 
+### In:    
+* topic1 - 判断调用函数名(in/out)
+* topic2 - 不知道是啥 - address indexed account 
+* topic3 - To地址
 
 
 # API
