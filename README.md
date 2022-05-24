@@ -142,16 +142,16 @@ out数据在eth链上，无法同时获取
 
 
 ## bsc-2-avax / bsc-2-matic  / bsc-2-ftm / bsc-2-moonriver / bsc-2-arbitrum 
-这些桥的跨链逻辑为：
-用户A发送Token到BSC链上->IN(资产跨入BSC)
-跨链桥流程：
-1.将用户A所在链的Token销毁到0x000地址
-2.从BSC链上发送Token给用户A
-在BSC链上只能看到桥地址将Token转出到用户A地址上（OUT即IN）
-相反的操作
-用户A从BSC跨链到AVAX链->OUT(资产跨出BSC)
-1.用户A资产转入BSC桥中（冻结资产，保证和avax链上1:1)
-2.AVAX链将资产发送给用户A（此处资产为anyswap mint 的token）
+这些桥的跨链逻辑为：  
+用户A发送Token到BSC链上->IN(资产跨入BSC)  
+跨链桥流程：   
+1.将用户A所在链的Token销毁到0x000地址  
+2.从BSC链上发送Token给用户A  
+在BSC链上只能看到桥地址将Token转出到用户A地址上（OUT即IN）  
+相反的操作  
+用户A从BSC跨链到AVAX链->OUT(资产跨出BSC)  
+1.用户A资产转入BSC桥中（冻结资产，保证和avax链上1:1)  
+2.AVAX链将资产发送给用户A（此处资产为anyswap mint 的token）  
 
 
 # API
