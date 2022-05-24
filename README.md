@@ -106,9 +106,18 @@ IN和OUT中Topic并不相同
 | 13 |bsc-2-moombeam   | 0xd9B4aE62721d6311d67566A32E75f9002447922e |
 
 ## 桥数据解析
-桥只有out，没有in，所有的in都是假币
-桥的out其实就是in
-token从桥转出到用户钱包地址，这是用户将Token跨链到BSC的行为，所以为in
+### eth-2-bsc-v1/v2
+只有out，没有in，所有的in都是假币
+out其实就是in
+token从桥转出,到用户钱包地址，这是用户将Token跨链到BSC的行为，所以为in
+用户跨链到ETH的行为并不在BSC链上，而是在ETH链上
+
+|函数名  | Topics  |
+|  ----  | ---- |
+|LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
+|LogSwapOut| 0xxx |
+
+
 
 # API
 API可用来检查Dune上的数据是否准确，以及参照API中的路由/桥信息可快速掌握链ID对应的链名称
