@@ -88,24 +88,24 @@ IN和OUT中Topic并不相同
 # 桥概述
 2个ETH、9个BSC、1个btc、1个fsn
 
-|   No  |  Name |  Address   |
-|  ----  | ----  | ----  |
-| 1 |eth-2-bsc-v1     | 0x13B432914A996b0A48695dF9B2d701edA45FF264 |
-| 2 |eth-2-bsc-v2     | 0x533e3c0e6b48010873b947bddc4721b1bdff9648 |
-| 3 |bsc-2-avax       | 0xb1CB88B1a1992deB4189Ea4f566b594c13392Ada |
-| 4 |bsc-2-matic      | 0x171a9377C5013bb06Bca8CfE22B9C007f2C319F1 |
-| 5 |bsc-2-ftm        | 0x4b3B4120d4D7975455d8C2894228789c91a247F8 |
-| 6 |bsc-2-moonriver  | 0xd6faf697504075a358524996b132b532cc5D0F14 |
-| 7 |bsc-2-arbitrum   | 0xAd1A0d92db9157ac9EF7ee74Be38940f60BcafA9 |
-| 8 |btc-2-bsc        | 0x930a7F05C5e38eaF90493325F8106806969FCBdF |
-| 9 |fsn-2-bsc        | 0xf38C36bc1B2Fe5E9029C91AB520457bE7DFC68D8 |
-| 10 |bsc-2-eth        | 0xB16E3336699A636DD6C8246A3a12b813bFa0A3AD |
-| 11 |bsc-2-kcc        | 0x88036021b39759Fc46aD79850679282cb2353372 |
-| 12 |bsc-2-okc        | 0x63a3d28bB9187809553dD16981C73f498B6b2687 |
-| 13 |bsc-2-moombeam   | 0xd9B4aE62721d6311d67566A32E75f9002447922e |
+|   Type  |  Name |  Address   |  Type  |
+|  ----  | ----  | ----  |----  |
+| 1 |eth-2-bsc-v1     | 0x13B432914A996b0A48695dF9B2d701edA45FF264 |A |
+| 2 |eth-2-bsc-v2     | 0x533e3c0e6b48010873b947bddc4721b1bdff9648 |A |
+| 3 |bsc-2-avax       | 0xb1CB88B1a1992deB4189Ea4f566b594c13392Ada |B |
+| 4 |bsc-2-matic      | 0x171a9377C5013bb06Bca8CfE22B9C007f2C319F1 |B |
+| 5 |bsc-2-ftm        | 0x4b3B4120d4D7975455d8C2894228789c91a247F8 |B |
+| 6 |bsc-2-moonriver  | 0xd6faf697504075a358524996b132b532cc5D0F14 |B |
+| 7 |bsc-2-arbitrum   | 0xAd1A0d92db9157ac9EF7ee74Be38940f60BcafA9 |B |
+| 8 |btc-2-bsc        | 0x930a7F05C5e38eaF90493325F8106806969FCBdF |N |
+| 9 |fsn-2-bsc        | 0xf38C36bc1B2Fe5E9029C91AB520457bE7DFC68D8 |A |
+| 10 |bsc-2-eth        | 0xB16E3336699A636DD6C8246A3a12b813bFa0A3AD |B |
+| 11 |bsc-2-kcc        | 0x88036021b39759Fc46aD79850679282cb2353372 |B |
+| 12 |bsc-2-okc        | 0x63a3d28bB9187809553dD16981C73f498B6b2687 |B |
+| 13 |bsc-2-moombeam   | 0xd9B4aE62721d6311d67566A32E75f9002447922e |B |
 
 ## 桥数据解析
-## eth-2-bsc-v1/eth-2-bsc-v2  /  fsn-2-bsc	 / btc-2-bsc	
+## A类型桥
 IN-BSC(in在bsc链上可以找到）
 只有out，没有in，所有的in都是假币
 out其实就是in
@@ -115,9 +115,6 @@ token从桥转出,到用户钱包地址，这是用户将Token跨链到BSC的行
 OUT-ETH（out的数据在ETH链上）
 由于这个桥使用的是Transfer事件/函数，所以无法直接使用topic过滤交易，需要增加条件语句，限定form方地址
 topic2 = from方地址 (桥地址)
-
-
-
 |函数名  | Topics  |
 |  ----  | ---- |
 |LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
@@ -141,7 +138,7 @@ out数据在eth链上，无法同时获取
 
 
 
-## bsc-2-avax / bsc-2-matic  / bsc-2-ftm / bsc-2-moonriver / bsc-2-arbitrum 
+## B类型桥
 这些桥的跨链逻辑为：  
 用户A发送Token到BSC链上->IN(资产跨入BSC)  
 跨链桥流程：   
