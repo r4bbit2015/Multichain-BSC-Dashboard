@@ -105,7 +105,7 @@ IN和OUT中Topic并不相同
 | 13 |bsc-2-moombeam   | 0xd9B4aE62721d6311d67566A32E75f9002447922e |
 
 ## 桥数据解析
-### eth-2-bsc-v1/v2
+### eth-2-bsc-v1/eth-2-bsc-v2  /  fsn-2-bsc	 / btc-2-bsc	
 IN-BSC(in在bsc链上可以找到）
 只有out，没有in，所有的in都是假币
 out其实就是in
