@@ -117,8 +117,14 @@ OUT-ETH（out的数据在ETH链上）
 由于这个桥使用的是Transfer事件/函数，所以无法直接使用topic过滤交易，需要增加条件语句，限定form方地址
 topic2 = from方地址 (桥地址)
 
-此处使用log获取数据太慢，应该使用transactions
-Demo:
+
+
+|函数名  | Topics  |
+|  ----  | ---- |
+|LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
+|Transfer| 此处使用log获取数据太慢，应该使用transactions|
+
+Demo:  
 ```sql
 select
 "to" as "To_address"
@@ -126,15 +132,7 @@ from
   ethereum."transactions"
 WHERE
   "from" = '\x13b432914a996b0a48695df9b2d701eda45ff264'
-
 ```
-
-|函数名  | Topics  |
-|  ----  | ---- |
-|LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
-|Transfer| 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef |
-
-
 ### In:    
 * topic1 - 判断调用函数名(in/out)
 * topic2 - 不知道是啥 - address indexed account 
