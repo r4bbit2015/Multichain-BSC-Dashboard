@@ -105,7 +105,10 @@ IN和OUT中Topic并不相同
 | 12 |bsc-2-okc        | 0x63a3d28bB9187809553dD16981C73f498B6b2687 |
 | 13 |bsc-2-moombeam   | 0xd9B4aE62721d6311d67566A32E75f9002447922e |
 
-
+## 桥数据解析
+桥只有out，没有in，所有的in都是假币
+桥的out其实就是in
+token从桥转出到用户钱包地址，这是用户将Token跨链到BSC的行为，所以为in
 
 # API
 API可用来检查Dune上的数据是否准确，以及参照API中的路由/桥信息可快速掌握链ID对应的链名称
