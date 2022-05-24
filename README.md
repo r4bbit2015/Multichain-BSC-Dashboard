@@ -112,8 +112,10 @@ IN-BSC(in在bsc链上可以找到）
 out其实就是in
 token从桥转出,到用户钱包地址，这是用户将Token跨链到BSC的行为，所以为in
 用户跨链到ETH的行为并不在BSC链上，而是在ETH链上
-OUT-ETH（out的数据在ETH链上）
 
+OUT-ETH（out的数据在ETH链上）
+由于这个桥使用的是Transfer事件/函数，所以无法直接使用topic过滤交易，需要增加条件语句，限定form方地址
+topic2 = from方地址 (桥地址)
 |函数名  | Topics  |
 |  ----  | ---- |
 |LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
