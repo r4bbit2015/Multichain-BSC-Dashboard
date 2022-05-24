@@ -107,15 +107,17 @@ IN和OUT中Topic并不相同
 
 ## 桥数据解析
 ### eth-2-bsc-v1/v2
+IN-BSC(in在bsc链上可以找到）
 只有out，没有in，所有的in都是假币
 out其实就是in
 token从桥转出,到用户钱包地址，这是用户将Token跨链到BSC的行为，所以为in
 用户跨链到ETH的行为并不在BSC链上，而是在ETH链上
+OUT-ETH（out的数据在ETH链上）
 
 |函数名  | Topics  |
 |  ----  | ---- |
 |LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
-|LogSwapOut| 0xxx |
+|Transfer| 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef |
 
 ### In:    
 * topic1 - 判断调用函数名(in/out)
