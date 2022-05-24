@@ -1,6 +1,6 @@
 # Multichain-BSC-Dashboard
 Probably nothing.  
-
+数据的解析至关重要，只要能解析获取到数据，就可以画出任何想要的图表
 # 路由桥概述
 
 路由分为2个主流币，2个原生币，1个山寨币
