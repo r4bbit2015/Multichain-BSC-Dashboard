@@ -1,5 +1,5 @@
 # Multichain-BSC-Dashboard
-Maybe nothing.
+Probably nothing.  
 
 # 路由桥概述
 
@@ -167,5 +167,5 @@ https://bscscan.com/tx/0x065c46071b9ec02570c30460e661c189745664b4b8de9f2f54a1850
 https://bscscan.com/tx/0xdba5484c3e323050bc7d8dbf20e415a4c326661214024e9900983e5409495e3a#eventlog  
 
 
-# 无法解决的问题桥
+# 无法解决的问题
 eth-2-bsc-v1/eth-2-bsc-v2 这两个桥中的in和out在eth/bsc链上，dune无法同时使用bsc和eth
