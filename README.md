@@ -150,7 +150,7 @@ out数据在eth链上，无法同时获取
 在BSC链上只能看到桥地址将Token转出到用户A地址上（OUT即IN）
 相反的操作
 用户A从BSC跨链到AVAX链->OUT(资产跨出BSC)
-1.用户A资产转入BSC桥中
+1.用户A资产转入BSC桥中（冻结资产，保证和avax链上1:1)
 2.AVAX链将资产发送给用户A（此处资产为anyswap mint 的token）
 
 
