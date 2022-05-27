@@ -115,6 +115,7 @@ token从桥转出,到用户钱包地址，这是用户将Token跨链到BSC的行
 OUT-ETH（out的数据在ETH链上）
 由于这个桥使用的是Transfer事件/函数，所以无法直接使用topic过滤交易，需要增加条件语句，限定form方地址
 topic2 = from方地址 (桥地址)
+
 |函数名  | Topics  |
 |  ----  | ---- |
 |LogSwapin | 0x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61 |
@@ -135,6 +136,16 @@ WHERE
 * topic3 - To地址
 ### Out:
 out数据在eth链上，无法同时获取
+
+## A类型数据解析Demo:
+```sql
+with bridgedata as (
+SELECT contract_address,tx_hash,bytea2numeric(data) as "amount" from bsc."logs"
+WHERE topic1='\x05d0634fe981be85c22e2942a880821b70095d84e152c3ea3c17a4e4250d9d61'
+ 
+)
+select * from bridgedata
+```
 
 
 
