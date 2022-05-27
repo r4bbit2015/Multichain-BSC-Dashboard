@@ -47,7 +47,7 @@ select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapIn"
 select * from multichain_router."AnyswapV4Router_Altcoin_evt_LogAnySwapOut"
 ```
 
-### 接口提交没有通过更换为使用ethereum."log"   
+### 接口提交没有通过更换为使用bsc."log"   
 
 |函数名  | Topics  |
 |  ----  | ---- |
@@ -237,7 +237,7 @@ from bsc."transactions"
 where "to" = '\xd9B4aE62721d6311d67566A32E75f9002447922e'
 ```
 ## B类型桥解析Amount
-因为B类型桥用的是bsc."Transactions" 其中的Value不能直接当做Amount使用，Bep20的Token交易Value会为0
+因为B类型桥用的是bsc."Transactions" 其中的Value不能直接当做Amount使用，Bep20的Token交易Value会为0,**并且block_hash并不是交易hash，一定注意，交易hash表名为hash**
 
 # API
 API可用来检查Dune上的数据是否准确，以及参照API中的路由/桥信息可快速掌握链ID对应的链名称
