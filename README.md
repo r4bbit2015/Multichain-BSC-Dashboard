@@ -176,6 +176,13 @@ date = \xa9059cbb0000000000000000000000008fb2fa4cf86dd3cc532d0dcf16f41e4acaefb54
 000000000000000000000000000000000000000000000000107543c99805d400 表示为发送数量 （amount）  
 解析Demo:
 ```
+select block_time,"to" as "Contract_Address",
+'\x' || substring(DATA::text, 35,38) AS "to",
+bytea2numeric(('\x'||substring(data::text, 75,64))::bytea)/1e18 AS "amount",
+hash
+from bsc."transactions" 
+where "from" = '\xb1cb88b1a1992deb4189ea4f566b594c13392ada'
+
 ```
 
 # API
