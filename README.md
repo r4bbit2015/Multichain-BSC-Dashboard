@@ -161,6 +161,81 @@ select * from bridgedata
 1.用户A资产转入BSC桥中（冻结资产，保证和avax链上1:1)  
 2.AVAX链将资产发送给用户A（此处资产为anyswap mint 的token）  
 
+### B类型桥数据解析
+```sql
+--  avax 
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\xb1cb88b1a1992deb4189ea4f566b594c13392ada'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\xb1CB88B1a1992deB4189Ea4f566b594c13392Ada'
+
+-- matic 
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\xb1cb88b1a1992deb4189ea4f566b594c13392ada'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\xb1CB88B1a1992deB4189Ea4f566b594c13392Ada'
+
+-- fantom
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\x4b3B4120d4D7975455d8C2894228789c91a247F8'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\x4b3B4120d4D7975455d8C2894228789c91a247F8'
+
+-- moonriver
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\xd6faf697504075a358524996b132b532cc5D0F14'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\xd6faf697504075a358524996b132b532cc5D0F14'
+
+-- Arbitrum
+
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\xAd1A0d92db9157ac9EF7ee74Be38940f60BcafA9'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\xAd1A0d92db9157ac9EF7ee74Be38940f60BcafA9'
+
+-- bsc-2-eth 
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\xB16E3336699A636DD6C8246A3a12b813bFa0A3AD'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\xB16E3336699A636DD6C8246A3a12b813bFa0A3AD'
+
+-- bsc-2-okc	
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\x63a3d28bB9187809553dD16981C73f498B6b2687'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\x63a3d28bB9187809553dD16981C73f498B6b2687'
+
+-- bsc-2-moombeam	
+select "to","block_hash" 
+from bsc."transactions" 
+where "from" = '\xd9B4aE62721d6311d67566A32E75f9002447922e'
+
+select "from" ,hash
+from bsc."transactions" 
+where "to" = '\xd9B4aE62721d6311d67566A32E75f9002447922e'
+```
 
 # API
 API可用来检查Dune上的数据是否准确，以及参照API中的路由/桥信息可快速掌握链ID对应的链名称
